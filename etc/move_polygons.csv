@@ -21,7 +21,11 @@ source_fid,target_fid,latitude,longitude,hole,copy,md_fid,note
 5884,7009,-24.24,-56.9,,,
 5884,7009,-22.047,-59.622,,,
 5884,7009,-22.686,-58.147,,,
+4415,7010,8.569,-77.992,,,
+4415,7010,7.9,-77.926,,,
 5542,8000,-47.99,-68.44,true,true,5807
+5542,8001,2.71,-76.507,true,true,4694,Paes
+2750,8002,1.0,-78.5,,true,2750,Koaiker
 # North America
 4983,1165 5532,54.03,-130.462,,,,move Tsimshian polys from Quileute
 4983,1165 5532,53.783,-130.074,,,,copy Tsimshian polys from Quileute

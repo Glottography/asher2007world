@@ -1,7 +1,17 @@
 source_fid,target_fid,subtract,note
+# South Asia
+3572,,5775,Subtract Telugu areas from Marathi
+789,,3862,no overlap
+5794,,3862 1366,
+# North America
 323,,4872,Plains Cree merged into Assiniboine
-3572,,5775,
-3560,9000,5542,
-3560,,4927 5807,
 3306,,4983,subtract Quileute from Lower Chinook
+# Meso America
 5345,,3624 3645 4669,Shinkan and enclaves don't overlap
+789,,1366,
+3862,,1366,
+# South America
+3560,9000,5542,The contemporary area for Mapudungu has been merged into the time-of-contact area
+3560,,4927 5807,Mapudungu does not overlap other areas in the time-of-contact maps
+2750,,4772 3976,
+2577,,2750,
