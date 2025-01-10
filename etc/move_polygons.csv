@@ -1,0 +1,39 @@
+source_fid,target_fid,latitude,longitude,hole,copy,md_fid,note
+# Australia
+3670,619,-23.6,151.18,,,
+# South America
+5365,7000,-8.35,-36.82,,,
+2505,7001,-10.2,-36.5,,,
+4742,7002,-9.3,-38.6,,,
+4742,7002,-9.2,-38,,,
+6249,7003,-8.35,-38.72,,,
+4777,7004,-14.8,-39.14,,,
+4777,7004,-14.968,-39.403,,,
+4777,7004,-16.266,-39.124,,,
+4777,7004,-16.616,-39.2,,,
+3628,7005,-16.961,-40.326,,,
+2360,7006,-21.667,-50.497,,,
+2360,7006,-21.91,-50.234,,,
+5353,7007,-26.555,-49.798,,,
+3887,7008,-28.3,-59.36,,,
+5884,7009,-23.56,-61.72,,,
+5884,7009,-23.63,-60.84,,,
+5884,7009,-24.24,-56.9,,,
+5884,7009,-22.047,-59.622,,,
+5884,7009,-22.686,-58.147,,,
+5542,8000,-47.99,-68.44,true,true,5807
+# North America
+4983,1165 5532,54.03,-130.462,,,,move Tsimshian polys from Quileute
+4983,1165 5532,53.783,-130.074,,,,copy Tsimshian polys from Quileute
+4983,1165 5532,53.692,-130.27,,,,copy Tsimshian polys from Quileute
+4983,1165 5532,53.468,-130.20,,,,copy Tsimshian polys from Quileute
+4983,1165 5532,53.613,-129.068,,,,copy Tsimshian polys from Quileute
+4983,1165 5532,53.415,-129.01,,,,copy Tsimshian polys from Quileute
+4983,1165 5532,53.202,-129.238,,,,copy Tsimshian polys from Quileute
+4983,1165 5532,53.073,-129.403,,,,copy Tsimshian polys from Quileute
+4983,1165 5532,53.07,-128.776,,,,copy Tsimshian polys from Quileute
+4983,1165 5532,52.672,-129.116,,,,copy Tsimshian polys from Quileute
+4983,1165 5532,52.54,-128.609,,,,copy Tsimshian polys from Quileute
+4983,1165 5532,52.41,-128.695,,,,copy Tsimshian polys from Quileute
+4983,1165 5532,52.57,-128.381,,,,copy Tsimshian polys from Quileute
+4983,1165 5532,52.736,-128.25,,,,copy Tsimshian polys from Quileute
