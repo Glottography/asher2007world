@@ -1,17 +1,33 @@
-source_fid,target_fid,subtract,note
+source_fid,target_fid,subtract,replace,note
+# Eurasia
+6062,,5052,,Ukrainian is only spoken in enclaves in Romania not throughout
+6005,,5052,,Turkish is only spoken in enclaves in Romania not throughout
+1185,,5052,,Polish and Crimean Tatar is only spoken in enclaves in Romania not throughout
 # South Asia
-3572,,5775,Subtract Telugu areas from Marathi
-789,,3862,no overlap
-5794,,3862 1366,
+3572,,5775,,Subtract Telugu areas from Marathi
+789,,3862,,no overlap
+5794,,3862 1366,,
 # North America
-323,,4872,Plains Cree merged into Assiniboine
-3306,,4983,subtract Quileute from Lower Chinook
+323,,4872,,Plains Cree merged into Assiniboine
+3306,,4983,,subtract Quileute from Lower Chinook
 # Meso America
-5345,,3624 3645 4669,Shinkan and enclaves don't overlap
-789,,1366,
-3862,,1366,
+5345,,3624 3645 4669,,Shinkan and enclaves don't overlap
+789,,1366,,
+3862,,1366,,
 # South America
-3560,9000,5542,The contemporary area for Mapudungu has been merged into the time-of-contact area
-3560,,4927 5807,Mapudungu does not overlap other areas in the time-of-contact maps
-2750,,4772 3976,
-2577,,2750,
+2239,7014,6218,,
+2239,,4668 66,,
+6288,,2501,,
+2125,,,334,Make sure the same shape is used for four labels of the same area in the Atlas
+5638,,,334,
+6242,,,334,
+2766,,,334,
+3560,9000,5542,,The contemporary area for Mapudungu has been merged into the time-of-contact area
+3560,,4927 5807,,Mapudungu does not overlap other areas in the time-of-contact maps
+2750,,4772 3976,,
+2577,,2750,,
+2577,,5645,,
+2430,,4772,,
+2852,,2503,,
+2852,,216,,
+3773,,2852,,
