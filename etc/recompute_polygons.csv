@@ -1,33 +1,73 @@
-source_fid,target_fid,subtract,replace,note
+source_fid,subtract,replace,note
 # Eurasia
-6062,,5052,,Ukrainian is only spoken in enclaves in Romania not throughout
-6005,,5052,,Turkish is only spoken in enclaves in Romania not throughout
-1185,,5052,,Polish and Crimean Tatar is only spoken in enclaves in Romania not throughout
+6289,5244,,Ukrainian is only spoken in enclaves in Romania not throughout
+6231,5244,,Turkish is only spoken in enclaves in Romania not throughout
+1237,5244,,Polish and Crimean Tatar is only spoken in enclaves in Romania not throughout
+5080,5244,,
 # South Asia
-3572,,5775,,Subtract Telugu areas from Marathi
-789,,3862,,no overlap
-5794,,3862 1366,,
+3712,5986,,Subtract Telugu areas from Marathi
 # North America
-323,,4872,,Plains Cree merged into Assiniboine
-3306,,4983,,subtract Quileute from Lower Chinook
+347,5059,,Plains Cree merged into Assiniboine
+3436,5174,,subtract Quileute from Lower Chinook
 # Meso America
-5345,,3624 3645 4669,,Shinkan and enclaves don't overlap
-789,,1366,,
-3862,,1366,,
+5544,4836 3765 3789,,Shinkan and enclaves don't overlap
 # South America
-2239,7014,6218,,
-2239,,4668 66,,
-6288,,2501,,
-2125,,,334,Make sure the same shape is used for four labels of the same area in the Atlas
-5638,,,334,
-6242,,,334,
-2766,,,334,
-3560,9000,5542,,The contemporary area for Mapudungu has been merged into the time-of-contact area
-3560,,4927 5807,,Mapudungu does not overlap other areas in the time-of-contact maps
-2750,,4772 3976,,
-2577,,2750,,
-2577,,5645,,
-2430,,4772,,
-2852,,2503,,
-2852,,216,,
-3773,,2852,,
+5432,,4612,Remove Iranshe polygon from Sebane
+5724,,4612,Remove stray line
+5847,,358,Polygons should be the same but differ slightly
+2193,,358,Polygons should be the same but differ slightly
+2878,,358,Polygons should be the same but differ slightly
+2684,5854,,Kayapa and Takame do not overlap
+2912,,2647,Polygons should be the same (two dialects of a language)
+6514,,4605,Quechua languages
+6829,,5716,
+5855,,5218,
+3570,,2736,
+213,,2736,
+6221,,213,
+5044,,818,
+1471,,2649,
+2658,,2649,
+2872,,2886,
+4762,,2886,
+4566,,2886,
+3918,,2886,
+6579,,1199,
+# Tukanoan languages
+610,,2324,
+1334,,2324,
+2580,,2324,
+3026,,2324,
+3032,,2324,
+3567,,2324,
+6198,,2324,
+6490,,2324,
+6925,,2324,
+# Kouri-Du / Hupda
+3105,,2132,
+#
+799,6838,,Boanari and Yawaperi do not overlap
+5525,,5536,
+# Sanema, Yanomama, Ninam should be the same polygons
+6794,,5371,
+4509,,5371,
+# Mainline Pano - a polygon assigned to 20 languages.
+2627,,4917,
+2632,,4917,
+4931,,4917,
+5108,,4917,
+5209,,4917,
+5517,,4917,
+5547,,4917,
+6777,,4917,
+196,4917,,
+368,4917,,
+2555,4917,,
+2600,4917,,
+2630,4917,,
+3061,4917,,
+3752,4917,,
+4557,4917,,
+4878,4917,,
+5545,4917,,
+6244,4917,,
