@@ -5793,7 +5793,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 5788,Sunuwar (Koints),2007,sunw1242,"Map 51 North-East India, Bangladesh, Bhutan and Nepal",57,
 5789,Sunüfana,time of contact,choc1280,Map 12 Northern South America: Time of Contact,9,"Wikipedia says ""poorly attested"""
 5790,Supyire,2007,supy1237,Map 104 Burkina Faso | Map 105 Ivory Coast | Map 107 Guinea and Mali,6 | 62 | 26,
-5791,Sura,2007,,"Map 96 South Plateau, Nigeria | Map 97 North Plateau, Nigeria",61 | 73,
+5791,Sura,2007,west2717,"Map 96 South Plateau, Nigeria | Map 97 North Plateau, Nigeria",61 | 73,Classified with Angas
 5792,Surel,2007,sure1238,"Map 51 North-East India, Bangladesh, Bhutan and Nepal",58,
 5793,Surgujiya,2007,surg1246,"Map 51 North-East India, Bangladesh, Bhutan and Nepal",169a,
 5794,Surigaonon,2007,suri1273,Map 40 The Philippines,82,
@@ -5931,7 +5931,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 5925,Tarahumara,time of contact,tara1321,Map 3 South-Western North America: Time of Contact,31,
 5926,Tarahumara,contemporary,tara1321,NA,NA,
 5927,Taram,2007,tara1314,Map 95 South-Eastern Nigeria and Mid-Western Cameroon,72c,
-5928,Taraon,2007,,"Map 45 China and Mongolia | Map 49 Burma (Myanmar) | Map 51 North-East India, Bangladesh, Bhutan and Nepal",106 | 12 | 100,
+5928,Taraon,2007,diga1241,"Map 45 China and Mongolia | Map 49 Burma (Myanmar) | Map 51 North-East India, Bangladesh, Bhutan and Nepal",106 | 12 | 100,Glottolog language with matching ElCat name
 5929,Tarasko,contemporary,tara1323,Map 11 Meso-America: Contemporary,61,
 5930,Tariana,time of contact,tari1256,Map 12 Northern South America: Time of Contact,85,
 5931,Tariana,contemporary,tari1256,Map 13 Northern South America: Contemporary,85,
@@ -5987,7 +5987,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 5981,Tekiraka,time of contact,abis1238,Map 12 Northern South America: Time of Contact,146,
 5982,Teko,contemporary,tekt1235,Map 11 Meso-America: Contemporary,14,
 5983,"Teko, Teco",time of contact,tekt1235,Map 10 Meso-America: Time of Contact,14,
-5984,Tekwexe,time of contact,,Map 10 Meso-America: Time of Contact,56,
+5984,Tekwexe,time of contact,,Map 10 Meso-America: Time of Contact,56,Described as undocumented in the Atlas
 5985,Telefol,2007,tele1256,Map 33 Northern Papua New Guinea,173,
 5986,Telugu,2007,telu1262,"Map 51 North-East India, Bangladesh, Bhutan and Nepal | Map 52 Southern India and Sri Lanka",197 | 28,
 5987,Tembo,2007,luba1254,Map 77 Zambia | Map 78 Democratic Republic of Congo: Katang,46 | 16,Classified as Kaonde language on Map 77 and as Luba language on Map 78.
@@ -6007,7 +6007,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 6001,"Tepewa, Tepehua",time of contact,tepe1243,Map 10 Meso-America: Time of Contact,30,
 6002,Tepo,2007,tepo1240,Map 105 Ivory Coast,28c,
 6003,Tera,2007,tera1251,Map 100 Northern Nigeria and Niger | Map 98 North-Eastern Nigeria,11a | 100,
-6004,Tereila,time of contact,,Map 35 Australia: Time of Contact,380,
+6004,Tereila,time of contact,east2872,Map 35 Australia: Time of Contact,380,Classified as Eastern Karnic language
 6005,Terena,time of contact,tere1279,Map 18 Brazilian Atlantic Coast: Time of Contact,115,
 6006,Terena,contemporary,tere1279,Map 19 Brazilian Atlantic Coast: Contemporary,115,
 6007,Teribe,time of contact,teri1250,Map 12 Northern South America: Time of Contact,47,
@@ -6036,7 +6036,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 6030,Tharaka,2007,thar1283,Map 72 Sudan and the Horn of Africa | Map 85 Kenyan Coast | Map 86 Central East Africa,205 | 30 | 13,
 6031,Tharrgari,time of contact,dhar1247,Map 35 Australia: Time of Contact,142,
 6032,Thavung,2007,aheu1239,"Map 47 Northern Thailand, Laos and Vietnam",77,
-6033,Thawa,time of contact,,Map 35 Australia: Time of Contact,422,
+6033,Thawa,time of contact,sout2771,Map 35 Australia: Time of Contact,422,"According to Wikipedia ""sometimes classified with Dyirringany as a dialect of Southern Coastal Yuin"""
 6034,Thaypan,time of contact,thay1248,Map 35 Australia: Time of Contact,279,
 6035,Thiin,time of contact,thii1234,Map 35 Australia: Time of Contact,140,
 6036,Thompson,time of contact,thom1243,Map 6 North-Western Pacific America: Time of Contact,29,
@@ -6335,7 +6335,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 6328,Upper Tanana,time of contact,uppe1437,Map 7 Northern North America: Time of Contact,20,
 6329,Upper Tanana,contemporary,uppe1437,NA,NA,
 6330,Upper Umpqua,time of contact,uppe1436,Map 4 California: Time of Contact,23,
-6331,Ura,2007,,Map 100 Northern Nigeria and Niger | Map 101 South-Western Nigeria,19 | 44,
+6331,Ura,2007,kamu1262,Map 100 Northern Nigeria and Niger | Map 101 South-Western Nigeria,19 | 44,Classified as a Kamuku language
 6332,Ura,2007,urav1235,Map 27 Vanuatu and New Caledonia,102,
 6333,Uradhi,time of contact,urad1239,Map 35 Australia: Time of Contact,232,
 6334,Urai,2007,urat1244,Map 33 Northern Papua New Guinea,244,
@@ -6374,12 +6374,12 @@ id,name,year,glottocode,map_name_full,number_legend,note
 6367,Ute-Southern Paiute-Chemehuevi,contemporary,utes1238,NA,NA,
 6368,Utu,2007,utuu1240,Map 33 Northern Papua New Guinea,104,
 6369,Utuli,2007,ilwa1237,Map 85 Kenyan Coast,2c,Classified as dialect of Ilwana.
-6370,Utyangikwathiya,time of contact,,Map 35 Australia: Time of Contact,230,
+6370,Utyangikwathiya,time of contact,urad1238,Map 35 Australia: Time of Contact,230,"https://aiatsis.gov.au/austlang/language/Y194 ""This group is included in Crowley's description of Uradhi Y184"""
 6371,Uvbie,2007,uvbi1238,Map 101 South-Western Nigeria,63d,
 6372,Uvol,2007,lote1237,Map 30 New Britain and New Ireland,47,
 6373,Uw Oykangand,time of contact,oyka1239,Map 35 Australia: Time of Contact,272,
 6374,Uyghur (Uighur),2007,uigh1240,Map 45 China and Mongolia | Map 57 Central Asia,37 | 16,
-6375,Uzbek,2007,,"Map 45 China and Mongolia | Map 53 Iran, Afghanistan and Pakistan | Map 57 Central Asia",38 | 77 | 15,
+6375,Uzbek,2007,nort2690,"Map 45 China and Mongolia | Map 53 Iran, Afghanistan and Pakistan | Map 57 Central Asia",38 | 77 | 15,
 6376,Uzbek,2007,nort2690,Map 45 China and Mongolia | Map 57 Central Asia,38 | 15,
 6377,Uzbek,2007,nort2690,"Map 53 Iran, Afghanistan and Pakistan | Map 57 Central Asia",77 | 15,
 6378,Uzekwe,2007,uzek1238,Map 95 South-Eastern Nigeria and Mid-Western Cameroon,78b,
@@ -6427,7 +6427,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 6420,Vute,2007,vute1244,Map 91 Adamawa Region | Map 95 South-Eastern Nigeria and Mid-Western Cameroon,41 | 68,
 6421,W. Angami,2007,anga1288,"Map 51 North-East India, Bangladesh, Bhutan and Nepal",131,
 6422,W. Rengma,2007,reng1253,"Map 51 North-East India, Bangladesh, Bhutan and Nepal",134,
-6423,Wa,2007,,"Map 47 Northern Thailand, Laos and Vietnam | Map 49 Burma (Myanmar)",29 | 7,
+6423,Wa,2007,waaa1245,"Map 47 Northern Thailand, Laos and Vietnam | Map 49 Burma (Myanmar)",29 | 7,
 6424,Waanyi,time of contact,wany1247,Map 35 Australia: Time of Contact,73,
 6425,Waata,2007,waat1238,Map 72 Sudan and the Horn of Africa | Map 85 Kenyan Coast,53n | 43h,
 6426,Wab (Som),2007,wabb1237,Map 33 Northern Papua New Guinea,389,
@@ -6442,8 +6442,8 @@ id,name,year,glottocode,map_name_full,number_legend,note
 6435,Wadapi-Laut,2007,nucl1466,Map 34 Irian Jaya,205,
 6436,Waddai,2007,maba1277,Map 71 North-East Africa | Map 72 Sudan and the Horn of Africa,35 | 23,
 6437,Wadikali,time of contact,wadi1261,Map 35 Australia: Time of Contact,386,
-6438,Wadjabangay!,time of contact,,Map 35 Australia: Time of Contact,327,
-6439,Wadjalang,time of contact,,Map 35 Australia: Time of Contact,330,
+6438,Wadjabangayi,time of contact,sout2765,Map 35 Australia: Time of Contact,327,An extinct language according to ISO 639-3
+6439,Wadjalang,time of contact,sout2765,Map 35 Australia: Time of Contact,330,https://collection.aiatsis.gov.au/austlang/language/D45
 6440,Wadjigu,time of contact,wadj1255,Map 35 Australia: Time of Contact,326,
 6441,Waerana,2007,waer1237,Map 38 Lesser Sunda Islands and Timor,16,
 6442,Waffa,2007,waff1241,Map 32 Southern Papua New Guinea,4,
@@ -6564,7 +6564,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 6557,Waskia,2007,wask1241,Map 33 Northern Papua New Guinea,15,
 6558,Wasteko,contemporary,huas1242,Map 11 Meso-America: Contemporary,1,
 6559,"Wasteko, Huasteco",time of contact,huas1242,Map 10 Meso-America: Time of Contact,1,
-6560,Wasulunka,2007,,Map 105 Ivory Coast | Map 106 Liberia and Sierra Leone | Map 107 Guinea and Mali,69e | 18c | 21b,
+6560,Wasulunka,2007,wasu1254,Map 105 Ivory Coast | Map 106 Liberia and Sierra Leone | Map 107 Guinea and Mali,69e | 18c | 21b,
 6561,Watakataui,2007,wata1251,Map 33 Northern Papua New Guinea,308,
 6562,Wataluma,2007,kani1281,Map 31 South-Eastern Papua New Guinea,27,
 6563,Watam,2007,wata1253,Map 33 Northern Papua New Guinea,332,
@@ -6632,7 +6632,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 6625,Western Fijian,2007,waya1268,Map 26 Polynesia,2,
 6626,Western Kenyah,2007,long1406,Map 41 Borneo and Madagascar,65,
 6627,Western Khams,2007,west2413,Map 45 China and Mongolia,90,
-6628,Western Monpa,2007,,Map 45 China and Mongolia,98,
+6628,Western Monpa,2007,bodi1256,Map 45 China and Mongolia,98,Unclear Bodic language
 6629,Western Nawa,contemporary,mich1245,Map 11 Meso-America: Contemporary,59b,
 6630,"Western Nawa, Western Nahuatl",time of contact,mich1245,Map 10 Meso-America: Time of Contact,59b,
 6631,Western Otomí,time of contact,quer1236,Map 10 Meso-America: Time of Contact,36c,The westernmost one of the Otomi languages in Glottolog.
@@ -6732,7 +6732,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 6725,Xhosa,2007,xhos1239,Map 74 Southern Africa,4,
 6726,Xibo,2007,xibe1242,Map 45 China and Mongolia,47,
 6727,Xinh Mul,2007,puoc1238,"Map 47 Northern Thailand, Laos and Vietnam",40,
-6728,Xixime,time of contact,,Map 3 South-Western North America: Time of Contact,98,
+6728,Xixime,time of contact,utoa1244,Map 3 South-Western North America: Time of Contact,98,"Poorly documented, extinct language"
 6729,Xârâcuu,2007,xara1244,Map 27 Vanuatu and New Caledonia,129,
 6730,Xârâgùre,2007,xara1243,Map 27 Vanuatu and New Caledonia,130,
 6731,Yaa,2007,nyaa1242,Map 83 Democratic Republic of Congo: Bas Congo and Southern Congo,28d,
@@ -6756,7 +6756,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 6749,Yagomi,2007,yago1240,Map 33 Northern Papua New Guinea,129,
 6750,Yagwoia,2007,yagw1240,Map 32 Southern Papua New Guinea,114,
 6751,Yahadian,2007,yaha1248,Map 34 Irian Jaya,76,
-6752,Yahahi,time of contact,,Map 16 Western Brazil: Time of Contact,254,
+6752,Yahahi,time of contact,pira1253,Map 16 Western Brazil: Time of Contact,254,Some variety of Pirahã
 6753,Yahang,2007,yaha1247,Map 33 Northern Papua New Guinea,250,
 6754,Yaka,2007,yaka1270,Map 81 Democratic Republic of Congo: Kasai | Map 83 Democratic Republic of Congo: Bas Congo and Southern Congo | Map 84 Angola,59 | 17b | 6,
 6755,Yakan,2007,yaka1277,Map 40 The Philippines,113,
