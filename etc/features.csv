@@ -1,5 +1,5 @@
 id,name,year,glottocode,map_name_full,number_legend,note
-1,!'O-!Khung ((!'O-)!Xung)	,2007,vase1234,Map 74 Southern Africa | Map 84 Angola,60 | 49,
+1,!'O-!Khung ((!'O-)!Xung),2007,vase1234,Map 74 Southern Africa | Map 84 Angola,60 | 49,
 2,!'O-!Khung ((!'O-)!Xung),2007,vase1234,Map 84 Angola,49,
 3,!Khong (!/Xõo),2007,xooo1239,Map 74 Southern Africa,56,
 4,!Khung ((!'O-)!Xung),2007,kung1261,Map 74 Southern Africa,59,
@@ -4138,7 +4138,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 4135,Mulaha,2007,mula1254,Map 32 Southern Papua New Guinea,135,
 4136,Mulam,2007,mula1253,Map 45 China and Mongolia,67,
 4137,Mulao,2007,gela1264,Map 45 China and Mongolia,77,
-4138,Muluriji,time of contact,mulu1243,Map 35 Australia: Time of Contact,297,
+4138,Muluriji,time of contact,mulu1243,Map 35 Australia: Time of Contact,297,Fixed typed off name
 4139,Mumbake,2007,nyon1241,Map 98 North-Eastern Nigeria,23,
 4140,Mumeng,2007,mume1239,Map 32 Southern Papua New Guinea,219,
 4141,Mumoni,2007,mumo1239,Map 85 Kenyan Coast,29c,
@@ -6311,7 +6311,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 6304,Umon,2007,umon1238,Map 101 South-Western Nigeria,30,
 6305,Umpila,time of contact,umpi1239,Map 35 Australia: Time of Contact,264,
 6306,Umutina,contemporary,umot1240,Map 19 Brazilian Atlantic Coast: Contemporary,279,
-6307,Umutina,time of contact,umot1240,Map 20 Central Pacific Coast: Time of Contact,279,
+6307,Umutina,time of contact,,Map 20 Central Pacific Coast: Time of Contact,279,Umutina is an extinct language of Brazil but the polygon is in Bolivia
 6308,Umvang,2007,omva1238,Map 87 Northern Congo and Southern Central African Republic | Map 88 Gabon and Equatorial Guinea | Map 92 South-Western Cameroon,70g | 43b | 40e,
 6309,Unami,time of contact,unam1242,Map 1 East Coast and Great Lakes: Time of Contact,31,
 6310,Uneme,2007,unem1238,Map 101 South-Western Nigeria,67,
@@ -6531,7 +6531,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 6524,Wapishan,contemporary,wapi1253,Map 13 Northern South America: Contemporary,101,
 6525,Wappo,time of contact,wapp1239,Map 4 California: Time of Contact,50,
 6526,War,2007,wark1246,"Map 51 North-East India, Bangladesh, Bhutan and Nepal",198a,
-6527,Waraikú,time of contact,arai1239,Map 14 Northern Pacific Coast: Time of Contact,96,
+6527,Waraikú,time of contact,arai1239,Map 14 Northern Pacific Coast: Time of Contact,96,"Extinct and poorly attested, but the regions given in Wikipedia, Solimões and Jutaí rivers, do not match the polygon here."
 6528,Warao,time of contact,wara1303,Map 12 Northern South America: Time of Contact,27,
 6529,Warao,contemporary,wara1303,Map 13 Northern South America: Contemporary,27,
 6530,"Warapu (Varofu, Waropu)",2007,bara1405,Map 33 Northern Papua New Guinea,198,
@@ -6955,7 +6955,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 6948,Zande,2007,zand1248,Map 79 Democratic Republic of Congo: Orienta | Map 82 Democratic Republic of Congo: Equate | Map 89 Central African Republic and South-Eastern Chad,42 | 70 | 4,
 6949,Zangskari,2007,zang1248,Map 54 North-West India,4,
 6950,Zangwal,2007,zang1255,"Map 97 North Plateau, Nigeria | Map 98 North-Eastern Nigeria",84 | 93,
-6951,Zari,2007,zari1242,"Map 97 North Plateau, Nigeria",90,
+6951,Zari,2007,zari1242,"Map 97 North Plateau, Nigeria",90,Fixed typed off name
 6952,Zaramo,2007,zara1247,Map 76 Southern Tanzania | Map 85 Kenyan Coast,8 | 19,
 6953,Zarma,2007,zarm1239,Map 102 Benin and Togo | Map 104 Burkina Faso | Map 73 North-West Africa,81 | 3 | 82,
 6954,Zarma,2007,zarm1239,Map 102 Benin and Togo | Map 73 North-West Africa,81 | 82,
