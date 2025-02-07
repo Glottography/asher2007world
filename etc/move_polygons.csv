@@ -2,6 +2,10 @@ source_fid,target_fid,latitude,longitude,note
 # Australia
 # An island off the Gold Coast has been merged into the wrong MultiPolygon based on a mistyped label
 3815,656,-23.6,151.18,
+# Papunesia
+# Rennell merged with Uruava for some reason
+6354,6354x,-11.5778,160.1371,move Rennellese polygon
+6354,6354x,-11.3,159.8205,move Rennellese polygon
 # South America
 # North America
 # A couple of islands off the coast of British Columbia have been merged into the wrong MultiPolygon
@@ -27,3 +31,5 @@ source_fid,target_fid,latitude,longitude,note
 4460,4460x,4.906,9.108,A polygon labeled Ngoro [82a] on Map 93 was wrongly aggregated with Ngoro [19c]
 5896,5896x,-2.447,140.434,Polygon labeled Tanah Merah [123] in Map 34 wrongly aggregated with Tanah Merah [94]
 4249,14249,6.249,8.497,Polygon erroneously labeled 22b on Map 95 was wrongly aggregated with 22
+5264,5264x,15.263,99.199,Polygon erroneously lumped in with polygon labeled 75 on different map
+3593,3593x,16.026,98.981,Polygon erroneously labeled 79 instead of 75 and lumped in with polygon 79 of different map
