@@ -10,3 +10,62 @@ kado1242,Atlas polygon is at the location of the Ganaan dialect (https://glottol
 phan1254,Glottolog mapping seems correct. Other languages in the area are quite spread out as well.
 uuuu1243,Wikipedia lists quite a few possible locations for the language.
 bull1247,"ElCat reports 'Since the few hundred remaining speakers are elderly and widely scattered, the language seems destined to die.'"
+aleu1260,Glottolog coordinate is on Andreanof Islands.
+mesk1242,"The Atlas does indeed shows Sauk-Meskwaki (Fox) (and Kickapoo) with locations in Michigan. Today, there are speakers in Iowa, Kansas, Nebraska and Oklahoma. Glottolog uses a coordinate somewhat in the middle, in Illinois."
+tuni1259,"Glottolog 5.1's treatment of Arabic varieties is not really compatible with the more fine-grained classification in the Atlas. Thus, we currently match varieties to the closest 'national' Arabic variety."
+kett1243,The Glottolog coordinate is in between two disjoint areas mapped to Ket in the Atlas.
+moks1248,Small pockets of Moskha speakers are spread out over a wide area. Glottolog's coordinate is halfway between Moscow and Ulynaovsk.
+noga1249,The area given in the Atlas matches the location of the Alabugat Tatar dialect of Nogai in Glottolog.
+homs1234,The Atlas shows Armenian-speaking pockets in the Krasnodar region. The Glottolog coordinate is in Armenia.
+nort2641,The Atlas shows an area East of the lake Van while Glottolog has a coordinate just North of Mosul.
+gura1251,The Atlas shows an area compatible with locations given in ElCat. The Glottolog coordinate fits Ethnologue's description of 'pockets from Mosul to Khanaqin'.
+west2369,"The Atlas shows 'Sistani', which is classified together with Shughni. According to Wikipedia and Glottolog, it is a dialect of Persion, though."
+dari1249,"The Atlas shows Dari-speaking areas in Afghanistan, while Glottolog's coordinate is 'in the middle' between Dari in Afghanistan and the Dari-speaking diaspora in Pakistan."
+mart1256,Languages in Australia's Western Desert are hard to locate precisely.
+manc1252,Location compatible with data in ElCat.
+nort2943,Area doesn't contain any other Glottolog coordinates and is close enough to the location given in Glottolog.
+chon1285,See https://github.com/glottolog/glottolog/issues/1152
+bash1263,See https://github.com/glottolog/glottolog/issues/1153
+koas1236,Glottolog coordinate is the location of the reservation where now most speakers live.
+cree1270,Glottolog coordinate is the location of a reservation.
+alab1237,Glottolog coordinate is the location of a reservation.
+ofoo1242,"According to Wikipedia, the location given in the Atlas could be some intermediate stop in the tribe's movement from Ohio to Lousiana, while the Glottolog coordinate is in Louisiana."
+hoch1243,Glottolog has location of Ho-Chunk Nation in Wisconsin and the Atlas the area of the Winnebago Tribe in Nebraska.
+woun1238,"Glottolog has location in Darién province, Panama, while the Atlas describes the area of another speaker community in the Chocó department in Colombia."
+ngan1300,See https://github.com/glottolog/glottolog/issues/1154
+xiri1242,"While the Glottolog coordinate is close to Cape Town, Glottolog also lists Namibia as country where Khiri was spoken. The Atlas gives an area in Namibia, at the border to South Africa."
+nkan1238,"Both, the Glottolog coordinate in Moxico province and the Atlas location in Cuando Cubango province of Angola are compatible with what Wikipedia says about speakers of Mbunda (and it's dialects)."
+ruun1238,"While Glottolog gives a location in Angola, it also lists The Democratic Republic of the Congo as country where Ruund is spoken. The latter is where the area in the Atlas is located."
+kenu1236,"Atlas location matches the Glottolog location of the corresponding dialect."
+nobi1240,"Locations in the Atlas and Glottolog are compatible with descriptions of Nobiin speaker areas in sources."
+daza1242,"Both, Glottolog location and Atlas area are in known Dazaga (Dassa) speaking areas according to Wikipedia."
+nafu1238,See https://github.com/glottolog/glottolog/issues/1155
+chon1287,"Glottolog partitions the languages of the Mijikenda cluster (https://en.wikipedia.org/wiki/Mijikenda_language) somewhat differently, thus lists Chonyi-Dzihana-Kauma with a location in Tanzania, whereas the Atlas gives a location for Chonyi, only, in Kenya."
+iran1262,"Glottolog's Iranum is either a language spoken in Borneo and the Philippines or different languages (see ISO 639-3 change reuest) where Glottolog's location is in Borneo and the Atlas area in the Philippines."
+mala1480,"Varieties of Malayic Dayak are spoken across West and Central Kalimantan. Thus, both the Glottolog and the Atlas location are compatible."
+same1240,See https://github.com/glottolog/glottolog/issues/1158
+ruch1235,"While exact locations seem to be unclear, Pale (the name in the Atlas) seems often used as synonym for Ruching Palaung (see https://en.wikipedia.org/wiki/Palaungic_languages)."
+maas1239,"Language is spoken in Mali, Ivory Coast and Ghana, with Glottolog's coordinate being somewhat in the middle in Burkina Faso, while the Atlas gives areas in Mali."
+nawd1238,"It seems clear that the language match is correct, although the Glottolog location (which is corroborated by Wikipedia) does not match."
+pana1293,See https://github.com/glottolog/glottolog/issues/1159
+kuoo1238,"Wikipedia says Kuo is spoken in 'scattered areas of the eastern part of Vina department', which is compatible with both, the Glottolog and the Atlas location."
+yaka1272,"The Atlas only gives one dialect, Glottolog's coordinate may be closer to a midpoint of all dialect areas."
+chon1285,See https://github.com/glottolog/glottolog/issues/1152
+bash1263,See https://github.com/glottolog/glottolog/issues/1153
+hija1235,"Glottolog coordinate is in between two areas mapped to hija1235"
+phuk1235,See https://github.com/glottolog/glottolog/issues/1156
+masa1311,"From name and classification the Glottolog match seems clear. The Atlas area is not corroborated by Glottolog nor Nimuendajú 1981."
+maca1260,"Glottolog has contemporary location."
+tere1279,"Glottolog has contemporary location."
+atsa1242,"Glottolog match based on name and classification seems clear. Location cannot be reconciled, though. HH: 'Atsahuaca is a contested entity but I don't know of any possibility near Pucallpa'"
+tora1263,"Glottolog coordinate and Asher Polygon both possible (Nimuendaju 1981). Glottolog reflects the place of the wordlist collection but not obvious whether this is the remnant location or one of the original locations."
+akur1238,"From name and classification the Glottolog match seems clear. Glottolog coordinate in Suriname is correct for 1775 (Nimuendajú 1981). The basis for a later or earlier location in Guyana is unclear."
+sheb1234,"Both locations are possible. Not much is known about the language."
+otom1276,"Rare case of a family with a - weird - coordinate."
+culi1244,Both locations are compatible with descriptions of Kulina-speaking areas in the literature.
+pota1247,"Glottolog's coordinate is somewhat the midpoint between places where the language was spoken or is about to be revived. The Atlas gives the original homeland."
+chey1247,Glottolog has the coordinate of the Northern Cheyenne Indian Reservation in Montana.
+pawn1254,"Glottolog has the contemporary location, the Atlas the historical location in what is now Nebraska."
+gbay1281,See https://github.com/glottolog/glottolog/issues/1161
+budz1238,"The Atlas location is right next to Glottolog's Motembo-Kunda, to which Budza is closely related according to Maho (2009)."
+mido1240,"The match to Glottolog's Midob seems clear considering name and classification. The Atlas location seems somewhat implausible, given that North Darfur is the supposed homeland of the language."

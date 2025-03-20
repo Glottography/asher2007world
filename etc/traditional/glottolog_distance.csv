@@ -12,7 +12,7 @@ abip1241,0.238051096840769,False,1
 abis1238,0,True,1
 abkh1244,0,False,2
 abro1238,0,False,1
-abua1244,0,True,2
+abua1244,0,True,1
 abui1241,0,True,1
 abun1252,0,False,1
 abur1243,0,True,1
@@ -387,7 +387,7 @@ bata1297,0.012177469592538874,False,1
 bata1301,0,True,1
 bata1314,0,False,2
 bate1262,0,True,2
-bath1244,2.4477971895394424,False,1
+bath1244,0,True,1
 bati1251,0.05800781840880065,False,1
 batu1255,0.06629280369238015,False,2
 baub1235,0,True,2
@@ -397,7 +397,7 @@ baur1253,0,True,1
 bauu1244,0,False,1
 bauw1240,0,True,1
 bauz1241,0,True,1
-baya1257,1.2785543666573433,False,2
+baya1257,0,True,2
 baym1241,0.12678524378800093,False,3
 bayo1255,0.2746403629305137,False,1
 beam1240,0,True,1
@@ -757,7 +757,7 @@ chuk1273,0,True,4
 chuk1274,0.15807331074769163,False,1
 chum1261,0,False,3
 chur1258,0,True,1
-chut1247,0,True,3
+chut1247,0,True,2
 chuu1238,0,True,3
 chuv1255,0,True,2
 chuw1238,0.04022133236023491,False,1
@@ -1188,6 +1188,7 @@ giry1241,0,True,2
 gitu1237,0,True,1
 gizr1240,0,True,1
 glav1244,0,False,1
+glio1241,0.29418118414955696,False,1
 gnau1240,0.029504132472569545,False,1
 goan1235,0,True,1
 godi1239,0,True,1
@@ -1240,6 +1241,7 @@ gunw1252,0,True,1
 gura1251,2.0572192171710353,False,2
 gura1252,0,True,1
 gure1255,0.03297173320109252,False,2
+guri1247,0.20446269444772336,False,1
 gurm1246,0.005239893449266102,False,1
 guro1248,0,True,1
 guru1261,1.7262967801914597,False,1
@@ -2077,7 +2079,7 @@ litz1237,0,True,1
 loba1239,0.8464800975600695,False,3
 lobi1245,0,True,1
 logo1259,0,True,1
-loko1255,0,False,3
+loko1255,0.038854209944615914,False,1
 lolo1259,0,True,12
 lolo1264,0,True,3
 loma1260,0,True,2
@@ -2204,7 +2206,7 @@ mala1494,0,False,5
 mala1495,0.001421807321685716,False,1
 mala1534,0,True,2
 malb1235,0.4855331269414346,False,2
-male1282,0.30370371404289415,False,2
+male1282,0.30370371404289415,False,1
 male1284,0.1006171645804795,False,1
 male1289,0,True,2
 male1291,0,True,1
@@ -2252,7 +2254,7 @@ mang1378,0.050581116031324126,False,3
 mang1381,0,True,1
 mang1382,0,True,1
 mang1383,0,True,1
-mang1394,0,True,2
+mang1394,0,True,1
 mang1396,0,True,2
 mang1403,0,True,1
 mang1404,0,False,1
@@ -3209,7 +3211,7 @@ putu1241,0,True,1
 puyu1239,0.06760876935240145,False,1
 pwaa1237,0,True,1
 pwap1237,0,True,1
-pwoe1235,0,False,7
+pwoe1235,0,True,5
 pwon1235,0.5593893674364957,False,9
 pyap1239,0,True,1
 pyek1235,0,True,1
@@ -3252,6 +3254,7 @@ remb1250,0,True,1
 remo1247,0.07270299824470501,False,1
 remp1241,0,True,1
 rend1243,0,True,1
+renn1242,0,True,2
 rera1240,0,True,1
 rere1240,0,True,1
 resh1242,0,True,2
@@ -3293,7 +3296,7 @@ russ1263,0,True,130
 russ1264,0,True,7
 rutu1240,0,True,1
 ruul1235,0,True,1
-ruun1238,0,False,5
+ruun1238,3.3803143608583053,False,2
 saaa1240,0,True,4
 saaa1241,0,True,1
 saaf1238,0.07679406278454355,False,1
@@ -3428,7 +3431,7 @@ sera1260,0,True,1
 sere1260,0,False,24
 sere1264,0.12935956630761078,False,3
 seri1257,0,True,3
-serr1255,0.45603797775810867,False,1
+serr1255,0.45604405279924093,False,1
 seru1244,0,True,2
 seru1246,0,True,1
 seta1245,0,True,1
@@ -3966,7 +3969,6 @@ umbu1235,0,True,1
 umbu1257,0,False,3
 umir1236,0,True,2
 umon1238,0.09114141233151918,False,1
-umot1240,4.008539839362034,False,1
 unaa1239,0.18757259598003076,False,2
 unam1242,0,False,1
 unem1238,0.44239363629358724,False,1
@@ -3990,7 +3992,7 @@ urii1240,0,True,1
 urim1251,0,True,1
 urim1252,0,True,1
 urip1239,0,False,1
-urua1242,0,True,3
+urua1242,0,True,1
 uruu1244,0,True,1
 usag1244,0.2684693619394759,False,3
 usan1239,0,True,1
@@ -4034,7 +4036,7 @@ vuna1239,0,True,1
 vute1244,0,False,5
 vwan1235,0.14907537379773522,False,1
 waam1244,0,True,1
-waat1238,3.0206986403828724,False,3
+waat1238,0.271861084906264,False,3
 wabb1237,0,True,1
 wabo1240,0,True,1
 wabo1241,0,True,6
@@ -4077,7 +4079,7 @@ wanc1238,0.1186101962156136,False,2
 wand1263,0,True,1
 wand1264,0.05133833489760774,False,2
 wand1267,0,True,8
-wand1278,0,True,4
+wand1278,0,True,3
 wane1241,0.18886271014021233,False,2
 wang1290,0,True,1
 wang1291,0,True,1
@@ -4256,7 +4258,6 @@ yane1238,0,True,1
 yang1290,0.4592512357762596,False,1
 yang1293,0.20209039212585603,False,1
 yang1298,0,False,1
-yann1237,6.559760611546838,False,1
 yans1239,0,True,2
 yany1243,0,True,8
 yaoa1239,0,True,2
@@ -4324,7 +4325,7 @@ yuag1237,0,True,1
 yuca1254,0,True,1
 yuch1247,0,True,1
 yuec1235,0,True,2
-yuga1244,0.9370954812984246,False,1
+yuga1244,0,True,1
 yuki1243,0.2876710243247912,False,1
 yuku1243,0,False,2
 yulu1243,0.22979800857550634,False,4
