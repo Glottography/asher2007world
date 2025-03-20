@@ -33,3 +33,21 @@ source_fid,target_fid,latitude,longitude,note
 4249,14249,6.249,8.497,Polygon erroneously labeled 22b on Map 95 was wrongly aggregated with 22
 5264,5264x,15.263,99.199,Polygon erroneously lumped in with polygon labeled 75 on different map
 3593,3593x,16.026,98.981,Polygon erroneously labeled 79 instead of 75 and lumped in with polygon 79 of different map
+#3588, Mapped to Malaweg, but Southern polygon is Sama Sibuguey, legend **115** not **11** on Map 40
+3588,5354,7.3644,122.8838,
+#2527, Southern polygon is Marathi, legend 19 on Map **52** not **54**
+2527,3712,20.361,78.719,
+#2634, Southern polygon is Kolami, legend 24 on Map **52** not **54**
+2634,2903,20.361,78.719,
+#3955, Western polygon is Santee-Sisseton, legend 20 on Map **5**, not **1**.
+3955,7000x,44.86,-93.05,
+#Fix 1279, Western polygon is Khorasani Turkish (Quchani) khor1269, legend 74 **not** 47 on Map 53.
+1279,7001x,37.326,57.903,
+#Fix 2455, cut off Western polygon. Same legend 67, but different color. Clearly some sort of error in the Atlas (The error is copied from World Atlas into Haynie and Gavin)
+2455,7002x,18.212,-101.77,
+#Fix 3341, split off Northern polygon which is Map 45, 51, Khamnigan - a new feature!
+3341,7003x,48.6321,107.2819,
+#Fix 3572, split off Southern polygon, which should be Pauserna, Map 20, 339. -> new feature! paus1244
+3572,4963x,-14.091,-61.018,
+#Fix 4805: split off Eastern part, which is presumably a typo, intending 387 rather than 381. But 387 is missing in the legend!
+4805,7004x,1.771,-55.226,

@@ -1622,7 +1622,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 1621,Etulo,2007,etul1245,Map 95 South-Eastern Nigeria and Mid-Western Cameroon,92,
 1622,Eudeve,time of contact,eude1234,Map 3 South-Western North America: Time of Contact,28,
 1623,Eunda-Kolonkodhi,2007,eund1238,Map 84 Angola,36h,
-1624,Evale,2007,kuan1248,Map 84 Angola,36e,
+1624,Evale,2007,kuan1247,Map 84 Angola,36e,Evale is an Ovambo-speaking ethnicity in Angola.
 1625,Evand,2007,evan1238,Map 95 South-Eastern Nigeria and Mid-Western Cameroon,5,
 1626,Even (Lamut),2007,even1260,Map 55 Eastern Siberia,11,
 1627,Evenki (Tungus),2007,even1259,Map 55 Eastern Siberia,10,
@@ -1823,8 +1823,8 @@ id,name,year,glottocode,map_name_full,number_legend,note
 1822,German,2007,stan1295,"Map 58 Western Russia, the Baltic States, Belarus, Ukraine and Moldova | Map 61 Hungary, Romania and the Balkans | Map 62 Poland, the Czech Republic and Slovakia | Map 64 The Nordic Countries | Map 65 Germany, Austria, Liechtenstein and Switzerland | Map 67 Italy, Corsica, Sardinia, Sicily and Malta | Map 69 France, Belgium, the Netherlands and Luxembourg",G | 12 | 12 | 6 | 1 | 9 | 8,
 1823,German,2007,stan1295,"Map 58 Western Russia, the Baltic States, Belarus, Ukraine and Moldova | Map 62 Poland, the Czech Republic and Slovakia | Map 64 The Nordic Countries | Map 65 Germany, Austria, Liechtenstein and Switzerland",G | 12 | 6 | 1,
 1824,German,2007,stan1295,"Map 58 Western Russia, the Baltic States, Belarus, Ukraine and Moldova | Map 64 The Nordic Countries | Map 65 Germany, Austria, Liechtenstein and Switzerland | Map 69 France, Belgium, the Netherlands and Luxembourg",G | 6 | 1 | 8,
-1825,German,2007,stan1296,"Map 64 The Nordic Countries | Map 65 Germany, Austria, Liechtenstein and Switzerland | Map 69 France, Belgium, the Netherlands and Luxembourg",6 | 1 | 8,
-1826,German,2007,stan1296,"Map 65 Germany, Austria, Liechtenstein and Switzerland | Map 67 Italy, Corsica, Sardinia, Sicily and Malta | Map 69 France, Belgium, the Netherlands and Luxembourg",1 | 9 | 8,
+1825,German,2007,stan1295,"Map 64 The Nordic Countries | Map 65 Germany, Austria, Liechtenstein and Switzerland | Map 69 France, Belgium, the Netherlands and Luxembourg",6 | 1 | 8,
+1826,German,2007,stan1295,"Map 65 Germany, Austria, Liechtenstein and Switzerland | Map 67 Italy, Corsica, Sardinia, Sicily and Malta | Map 69 France, Belgium, the Netherlands and Luxembourg",1 | 9 | 8,
 1827,Geruma,2007,geru1240,"Map 97 North Plateau, Nigeria | Map 98 North-Eastern Nigeria",71 | 75,
 1828,Geser-Goram,2007,gese1240,Map 34 Irian Jaya | Map 37 The Moluccas,223 | 30,
 1829,Geta (Gtah),2007,gata1239,"Map 51 North-East India, Bangladesh, Bhutan and Nepal",210,
@@ -1967,7 +1967,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 1966,Guyanese Creole French,contemporary,guia1246,Map 13 Northern South America: Contemporary,NA,
 1967,Guéren,time of contact,guer1242,Map 18 Brazilian Atlantic Coast: Time of Contact,283,
 1968,Gwa,2007,guaa1238,Map 102 Benin and Togo | Map 103 Ghana,24 | 18,
-1969,Gwa,2007,gwaa1239,Map 81 Democratic Republic of Congo: Kasai,51,
+1969,Gwa,2007,bush1247,Map 81 Democratic Republic of Congo: Kasai,51,Classified as sister language of Ngende.
 1970,Gwa,2007,gwaa1239,"Map 97 North Plateau, Nigeria",55,
 1971,Gwandara-Gwari,2007,gwan1268,"Map 101 South-Western Nigeria | Map 96 South Plateau, Nigeria",96 | 59,
 1972,Gwano,2007,gwan1243,Map 85 Kenyan Coast,3b,
@@ -3832,7 +3832,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 3828,Mbai,2007,mbay1241,"Map 89 Central African Republic and South-Eastern Chad | Map 90 Central African Republic, South-Western Chad and Cameroon",67 | 41c,
 3829,Mbai-Diabe,2007,diab1238,"Map 90 Central African Republic, South-Western Chad and Cameroon",32,
 3830,Mbala,2007,mbal1257,Map 81 Democratic Republic of Congo: Kasai | Map 83 Democratic Republic of Congo: Bas Congo and Southern Congo,67 | 18,
-3831,Mbala,2007,mbal1257,Map 89 Central African Republic and South-Eastern Chad,23,
+3831,Mbala,2007,band1345,Map 89 Central African Republic and South-Eastern Chad,23,Possibly the Ngbala dialect of this best fitting Banda language Banda-Ndele.
 3832,Mbalantu,2007,mbal1262,Map 84 Angola,36l,
 3833,Mbaloh,2007,emba1238,Map 41 Borneo and Madagascar,29,
 3834,Mbamba,2007,omba1241,Map 81 Democratic Republic of Congo: Kasai | Map 83 Democratic Republic of Congo: Bas Congo and Southern Congo,23 | 32,
@@ -4322,7 +4322,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 4317,Ndamba,2007,ndam1239,Map 76 Southern Tanzania,32,
 4318,Ndao,2007,dhao1237,Map 38 Lesser Sunda Islands and Timor,13,
 4319,Ndasa,2007,ndas1238,Map 83 Democratic Republic of Congo: Bas Congo and Southern Congo | Map 88 Gabon and Equatorial Guinea,50 | 32,
-4320,Ndau,2007,ndau1241,Map 39 Sulawesi,26,
+4320,Ndau,2007,pend1242,Map 39 Sulawesi,26,Glottolog language on Sulawesi with matching ElCat name.
 4321,Ndau,2007,ndau1241,Map 74 Southern Africa | Map 75 Mozambique,19 | 42a,
 4322,Nde,2007,ndee1242,Map 93 Central South-Western Cameroon | Map 95 South-Eastern Nigeria and Mid-Western Cameroon,27 | 29a,
 4323,Ndebele,2007,nort2795,Map 74 Southern Africa,1,
@@ -4967,6 +4967,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 4961,Paumarí,contemporary,paum1247,Map 17 Western Brazil: Contemporary,131,
 4962,Pauna-Paikone,time of contact,paun1241,Map 20 Central Pacific Coast: Time of Contact,118,
 4963,Pauserna,contemporary,paus1244,Map 21 Central Pacific Coast: Contemporary,339,
+4963x,Pauserna,time of contact,paus1244,Map 20 Central Pacific Coast: Time of Contact,339,
 4964,Pauwi,2007,pauw1243,Map 34 Irian Jaya,173,
 4965,Pawaian,2007,pawa1255,Map 32 Southern Papua New Guinea,155,
 4966,Pawishiana,time of contact,paux1236,Map 12 Northern South America: Time of Contact,397,
@@ -5869,7 +5870,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 5862,Takuu,2007,taku1257,Map 26 Polynesia | Map 29 Solomon Islands and Bougainville,24 | 65,
 5863,Tal,2007,tall1250,"Map 96 South Plateau, Nigeria",66,
 5864,Tala,2007,tala1295,"Map 97 North Plateau, Nigeria | Map 98 North-Eastern Nigeria",82 | 91,
-5865,Tale,2007,tale1239,Map 80 Democratic Republic of Congo: Kivu,62,
+5865,Tale,2007,luba1253,Map 80 Democratic Republic of Congo: Kivu,62,Unclear. None of the languages and varieties which are classified as sisters of Tale in the Atlas have matching names in Glottolog.
 5866,Tale,2007,tale1239,"Map 90 Central African Republic, South-Western Chad and Cameroon",11,
 5867,Taleshi (Talyshi),2007,taly1247,"Map 53 Iran, Afghanistan and Pakistan",12,
 5868,Taliabo,2007,tali1262,Map 37 The Moluccas,35,
@@ -7000,3 +7001,8 @@ id,name,year,glottocode,map_name_full,number_legend,note
 6990,Ḥarb,2007,najd1235,Map 70 The Middle East and Arabian Peninsula,34,
 6991,Ḥaḑramī Dialects,2007,hadr1236,Map 70 The Middle East and Arabian Peninsula,99,
 6992,—Murrinhpatha,time of contact,murr1259,Map 35 Australia: Time of Contact,39,
+7000x,Santee-Sisseton,time of contact,dako1259,Map 5 The Great Plains: Time of Contact,20,
+7001x,Khorasani Turkish (Quchani),2007,khor1269,"Map 53 Iran, Afghanistan and Pakistan",74,
+7002x,No label,time of contact,,Map 10 Meso-America: Time of Contact,67
+7003x,Khamnigan,2007,kham1281,Map 45 China and Mongolia,51,
+7004x,No label,time of contact,,Map 12 Northern South America: Time of Contact,387
