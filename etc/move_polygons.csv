@@ -51,3 +51,28 @@ source_fid,target_fid,latitude,longitude,note
 3572,4963x,-14.091,-61.018,
 #Fix 4805: split off Eastern part, which is presumably a typo, intending 387 rather than 381. But 387 is missing in the legend!
 4805,7004x,1.771,-55.226,
+# 5684: split off Western part, Lodhanti, lodh1244, Map 54, 67.
+5684,7005x,25.815,79.535,
+#2955, 7 island polygons must be moved to 2053
+2955,2053,51.564,-128.013,
+2955,2053,51.962,-128.094,
+2955,2053,51.9467,-128.4506,
+2955,2053,52.198,-128.338,
+2955,2053,52.121,-128.212,
+2955,2053,52.245,-127.988,
+2955,2053,52.149,-127.723,
+#1044, Move Southern Polygon to 4680
+1044,4680,-22.4181,166.8077,
+#5993, Split off the two Western-most polygons. These could be - maybe - Peba, which is missing from the Atlas (and a legend number 177 is missing, too).
+5993,7006x,-5.72,-74.53,
+5993,7006x,-3.91,-70.53,
+#4167, Split off Eastern polygon. This polygon looks like it should be https://en.wikipedia.org/wiki/Tarairi%C3%BA_language Notably, there's a couple of legend numbers missing, e.g. 314
+4167,7007x,-4.82,-39,
+#4896, Split off Southern polygon.That's 82 on Map 46, Jinuo [Jinuo] jino1236 -> 2362
+4896,2362,21.6298,100.7383,
+#5261, Split off Southern polygon. That's 91 on Map 46, Akheu [Hani] akeu1235 -> new feature
+5261,7008x,21.6628,101.289,
+#4856, North-Western polygon must be merged with bigger part of 5498 to form Central Alaskan Yup'ik
+4856,7009x,60.147,-166.378,
+#6500,Typo: Northern polygon is 77, Uzbek  6375
+6500,6375,36.499,65.891,

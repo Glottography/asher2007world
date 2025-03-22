@@ -34,7 +34,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 33,?Kaskan,time of contact,,Map 10 Meso-America: Time of Contact,55,"Atlas says ""undocumented"""
 34,?Tekockin,time of contact,,Map 10 Meso-America: Time of Contact,54,"Atlas says ""undocumented"""
 35,Aari,2007,aari1239,Map 72 Sudan and the Horn of Africa,106,
-36,Abaga,2007,abag1245,Map 32 Southern Papua New Guinea,78,
+36,Ambasi (Dawari),2007,amba1268,Map 32 Southern Papua New Guinea,145,Error typing off label.
 37,Abaga,2007,abag1245,Map 32 Southern Papua New Guinea | Map 33 Northern Papua New Guinea,78 | 144,
 38,Abai Sungai,2007,abai1240,Map 41 Borneo and Madagascar,110,
 39,Abaknon,2007,inab1237,Map 40 The Philippines,120,
@@ -295,7 +295,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 294,Arara-Parirí,time of contact,para1310,Map 18 Brazilian Atlantic Coast: Time of Contact,414,
 295,Arara-Urukú,time of contact,karo1305,Map 16 Western Brazil: Time of Contact,375,
 296,Arara-Urukú,contemporary,karo1305,Map 17 Western Brazil: Contemporary,375,
-297,Arawe,2007,para1307,Map 30 New Britain and New Ireland,42,
+297,Arawe,2007,solo1258,Map 30 New Britain and New Ireland,42,Glottolog match is the Arawe language with the most fitting location and dialect Nuclear Arawe.
 298,Araweté,contemporary,araw1273,Map 19 Brazilian Atlantic Coast: Contemporary,344,
 299,Arawum,2007,araw1272,Map 33 Northern Papua New Guinea,27,
 300,Arawá,time of contact,arua1263,Map 16 Western Brazil: Time of Contact,127,
@@ -571,7 +571,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 570,Banū Iznasen,2007,beni1249,Map 73 North-West Africa,65,
 571,Banū Kharūş,2007,oman1239,Map 70 The Middle East and Arabian Peninsula,76,
 572,Banū Khālid,2007,najd1235,Map 70 The Middle East and Arabian Peninsula,37,
-573,Banū Salaḥ,2007,tari1263,Map 73 North-West Africa,49,
+573,Banū Salaḥ,2007,chen1266,Map 73 North-West Africa,49,A variety of Berber located near Algiers.
 574,Banū Snūus,2007,beni1254,Map 73 North-West Africa,54,
 575,Banū Swayf Subgroup,2007,egyp1253,Map 71 North-East Africa,4,
 576,Banū Wahb,2007,najd1235,Map 70 The Middle East and Arabian Peninsula,27,
@@ -950,7 +950,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 949,Bunak,2007,buna1278,Map 38 Lesser Sunda Islands and Timor,66,
 950,Bunama,2007,buna1276,Map 31 South-Eastern Papua New Guinea,26,
 951,Bunan,2007,gahr1239,Map 54 North-West India,18,
-952,Bunda,2007,mbun1249,Map 84 Angola,1g,
+952,Bunda,2007,koon1244,Map 84 Angola,1g,Classified as dialect of Kongo.
 953,Bundeli,2007,bund1253,Map 54 North-West India,66,
 954,Bungain,2007,bung1270,Map 33 Northern Papua New Guinea,264,
 955,Bungandid),time of contact,bung1264,Map 35 Australia: Time of Contact,448,
@@ -2325,7 +2325,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 2324,Jaúna,time of contact,yahu1241,Map 12 Northern South America: Time of Contact,152,
 2325,Jaúna,contemporary,yahu1241,Map 13 Northern South America: Contemporary,152,
 2326,Jegu,2007,,Map 89 Central African Republic and South-Eastern Chad,82c,
-2327,Jeh,2007,jehh1245,"Map 47 Northern Thailand, Laos and Vietnam",65,
+2327,Lisu,2007,lisu1250,"Map 47 Northern Thailand, Laos and Vietnam",86,Must be an error during merging content across maps.
 2328,Jeh,2007,jehh1245,"Map 47 Northern Thailand, Laos and Vietnam | Map 48 Southern Thailand, Laos and Vietnam, and Cambodia",65 | 50,
 2329,Jehai,2007,jeha1242,"Map 44 West Malaysia and Singapore | Map 48 Southern Thailand, Laos and Vietnam, and Cambodia",4 | 24,
 2330,Jehai,2007,jeha1242,"Map 48 Southern Thailand, Laos and Vietnam, and Cambodia",24,
@@ -2351,7 +2351,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 2350,Jilim,2007,jili1241,Map 33 Northern Papua New Guinea,48,
 2351,Jimajima,2007,dima1252,Map 31 South-Eastern Papua New Guinea,75,
 2352,Jimbin,2007,zumb1240,"Map 97 North Plateau, Nigeria",80,
-2353,Jimi,2007,jimi1254,Map 95 South-Eastern Nigeria and Mid-Western Cameroon,101,
+2353,Jimi,2007,bogh1241,Map 95 South-Eastern Nigeria and Mid-Western Cameroon,101,Classified as Boghom language.
 2354,Jimi,2007,jimi1255,"Map 97 North Plateau, Nigeria",92,
 2355,Jimjimen,2007,jimi1254,Map 94 Northern Cameroon,49,
 2356,Jin,2007,chin1463,Map 45 China and Mongolia,70,
@@ -2622,7 +2622,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 2621,Kasa,2007,,"Map 108 Senegal, Gambia and Guinea Bissau",14,
 2622,Kasele,2007,akas1242,Map 102 Benin and Togo,55,
 2623,Kasem,2007,kase1253,Map 103 Ghana | Map 104 Burkina Faso,68 | 43,
-2624,Kaseng,2007,tali1257,"Map 47 Northern Thailand, Laos and Vietnam",63,Matching classification and hhbib_lgcode
+2624,Kucong [Lahu],2007,kuco1235,"Map 46 Yunnan Province, China",63,Label from the wrong map was used.
 2625,Kaseng,2007,tali1257,"Map 47 Northern Thailand, Laos and Vietnam | Map 48 Southern Thailand, Laos and Vietnam, and Cambodia",63 | 64,Matching classification and hhbib_lgcode
 2626,Kasenga,2007,kase1254,Map 78 Democratic Republic of Congo: Katang | Map 80 Democratic Republic of Congo: Kivu,12 | 55,
 2627,Kashararí,time of contact,kaxa1239,Map 14 Northern Pacific Coast: Time of Contact,213,
@@ -3076,7 +3076,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 3073,Kumba,2007,kumb1238,Map 98 North-Eastern Nigeria,29,
 3074,Kumeyaay,time of contact,kumi1248,Map 3 South-Western North America: Time of Contact,53,
 3075,Kumeyaay,contemporary,kumi1248,NA,NA,
-3076,Kumokio,2007,kumu1247,Map 32 Southern Papua New Guinea,41,
+3076,Sinagoro,2007,sina1266,Map 32 Southern Papua New Guinea,235,Wrong label typed off
 3077,Kumokio,2007,kumu1247,Map 32 Southern Papua New Guinea | Map 33 Northern Papua New Guinea,41 | 109,
 3078,Kumu,2007,komo1260,Map 79 Democratic Republic of Congo: Orienta | Map 80 Democratic Republic of Congo: Kivu,16 | 11,
 3079,Kumu,2007,,Map 79 Democratic Republic of Congo: Orienta | Map 80 Democratic Republic of Congo: Kivu | Map 81 Democratic Republic of Congo: Kasai,16 | 11 | 45,
@@ -3219,7 +3219,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 3216,Lahu [Lahu],2007,lahu1253,"Map 46 Yunnan Province, China",62,
 3217,Laimón,time of contact,coch1272,Map 3 South-Western North America: Time of Contact,60,
 3218,Laizo,2007,laiz1241,"Map 51 North-East India, Bangladesh, Bhutan and Nepal",147,
-3219,Laji,2007,lakk1238,Map 45 China and Mongolia,76,
+3219,Laji,2007,gela1265,Map 45 China and Mongolia,76,Classified as Gelao language
 3220,Lajia,2007,lakk1238,Map 45 China and Mongolia,62,
 3221,Lak,2007,lakk1252,Map 59 The Caucasus,37,
 3222,Laka,2007,laka1254,"Map 90 Central African Republic, South-Western Chad and Cameroon | Map 91 Adamawa Region",41a | 32,
@@ -3851,7 +3851,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 3847,Mbe,2007,mbee1249,Map 95 South-Eastern Nigeria and Mid-Western Cameroon,38,
 3848,Mbedam,2007,mbed1242,Map 94 Northern Cameroon,47,
 3849,Mbeere,2007,mbee1248,Map 72 Sudan and the Horn of Africa | Map 85 Kenyan Coast,206 | 31,
-3850,Mbele,2007,mber1258,"Map 89 Central African Republic and South-Eastern Chad | Map 90 Central African Republic, South-Western Chad and Cameroon",9 | 23,
+3850,Mbele,2007,band1342,"Map 89 Central African Republic and South-Eastern Chad | Map 90 Central African Republic, South-Western Chad and Cameroon",9 | 23,Classified as Banda-Mbres language.
 3851,Mbelo,2007,mong1338,Map 81 Democratic Republic of Congo: Kasai,1q,
 3852,Mbembe,2007,cros1244,Map 93 Central South-Western Cameroon | Map 95 South-Eastern Nigeria and Mid-Western Cameroon,15a | 75d,
 3853,Mbembe,2007,tigo1236,Map 95 South-Eastern Nigeria and Mid-Western Cameroon,81,Classified as Jukunoid in the Atlas
@@ -4327,7 +4327,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 4322,Nde,2007,ndee1242,Map 93 Central South-Western Cameroon | Map 95 South-Eastern Nigeria and Mid-Western Cameroon,27 | 29a,
 4323,Ndebele,2007,nort2795,Map 74 Southern Africa,1,
 4324,Ndebele,2007,nort2795,Map 74 Southern Africa | Map 77 Zambia,1 | 60,
-4325,Ndembu,2007,lund1266,Map 84 Angola,14,
+4325,Ndembu,2007,kimb1241,Map 84 Angola,14,Classified as Kimbundu language
 4326,Ndemli,2007,ndem1249,Map 92 South-Western Cameroon | Map 93 Central South-Western Cameroon,"3, F | 34, D",
 4327,Ndemli,2007,ndem1249,Map 93 Central South-Western Cameroon,"34, D",
 4328,Ndendeule,2007,nden1249,Map 75 Mozambique | Map 76 Southern Tanzania,8 | 36,
@@ -5217,7 +5217,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 5210,Remo (Bonda),2007,bond1245,"Map 51 North-East India, Bangladesh, Bhutan and Nepal",209,
 5211,Rempi,2007,remp1241,Map 33 Northern Papua New Guinea,87,
 5212,Rendille,2007,rend1243,Map 72 Sudan and the Horn of Africa | Map 85 Kenyan Coast | Map 86 Central East Africa,57 | 39 | 94,
-5213,Rengpungmo,2007,reng1254,"Map 51 North-East India, Bangladesh, Bhutan and Nepal",15,
+5213,Rengpungmo,2007,sout3216,"Map 51 North-East India, Bangladesh, Bhutan and Nepal",15,"The language is classified as Tibetan with sister languages Dolpo and Tichurong. There's no exact Glottolog match, though."
 5214,Rera,2007,havu1238,Map 80 Democratic Republic of Congo: Kivu,45b,Classified as dialect of Havu
 5215,Rerau,2007,rera1240,Map 33 Northern Papua New Guinea,31,
 5216,Reshe,2007,resh1242,Map 100 Northern Nigeria and Niger | Map 101 South-Western Nigeria | Map 102 Benin and Togo,24 | 37 | 38,
@@ -5568,7 +5568,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 5560,Shoshone,contemporary,shos1248,NA,NA,
 5561,Showa,2007,bush1247,Map 81 Democratic Republic of Congo: Kasai,49a,
 5562,Shua,2007,tsoa1238,Map 74 Southern Africa | Map 77 Zambia,48 | 76,
-5563,Shughni,2007,shug1248,"Map 53 Iran, Afghanistan and Pakistan",29,
+5563,Shughni,2007,,"Map 53 Iran, Afghanistan and Pakistan",29,The location seems very implausible for Shugni.
 5564,Shughni,2007,shug1248,"Map 53 Iran, Afghanistan and Pakistan | Map 57 Central Asia",29 | 8,
 5565,Shukriyya,2007,shuk1244,Map 72 Sudan and the Horn of Africa,7,
 5566,Shukriyya With Beja,2007,beja1238,Map 72 Sudan and the Horn of Africa,7a,
@@ -5857,7 +5857,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 5849,Taiwan Dialect,2007,mand1415,"Map 50 Japan, Korea and Taiwan",2,
 5850,Taizhou Dialect,2007,taiz1238,Map 45 China and Mongolia,7d,
 5851,Tajik,2007,taji1245,Map 45 China and Mongolia | Map 57 Central Asia,123 | 3,
-5852,Tajiki,2007,taji1245,"Map 53 Iran, Afghanistan and Pakistan",5,
+5852,Tajiki,2007,,"Map 53 Iran, Afghanistan and Pakistan",5,"Location seems implausible for Tajik. It would perfectly fit Qashqa'i [qxq], though, which is otherwise missing from the map. So we assume this is a labeling error."
 5853,Tajuos,2007,taju1238,Map 106 Liberia and Sierra Leone,13b,
 5854,Takame,time of contact,atac1235,Map 12 Northern South America: Time of Contact,165,
 5855,Takana,time of contact,taca1256,Map 20 Central Pacific Coast: Time of Contact,238,
@@ -7006,3 +7006,8 @@ id,name,year,glottocode,map_name_full,number_legend,note
 7002x,No label,time of contact,,Map 10 Meso-America: Time of Contact,67
 7003x,Khamnigan,2007,kham1281,Map 45 China and Mongolia,51,
 7004x,No label,time of contact,,Map 12 Northern South America: Time of Contact,387
+7005x,Lodhanti,2007,lodh1244,Map 54 North-West India,67
+7006x,No label,time of contact,,Map 14 Northern Pacific Coast: Time of Contact,348,Could be Peba. Legend number 177 is missing and would fit between two sister languages.
+7007x,No label,time of contact,,Map 18 Brazilian Atlantic Coast: Time of Contact,251,"Could be https://en.wikipedia.org/wiki/Tarairi%C3%BA_language Notably, there's a couple of legend numbers missing, e.g. 314"
+7008x,Akheu [Hani],2007,akeu1235,"Map 46 Yunnan Province, China",91
+7009x,Central Alaskan Yup'ik,time of contact,cent2127,Map 7 Northern North America: Time of Contact,4

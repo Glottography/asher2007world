@@ -1,4 +1,4 @@
-source_fid,subtract,replace,note
+source_fid,subtract,replace,note,num_polys
 # Eurasia
 6289,5244,,Ukrainian is only spoken in enclaves in Romania not throughout
 6231,5244,,Turkish is only spoken in enclaves in Romania not throughout
@@ -63,7 +63,7 @@ source_fid,subtract,replace,note
 196,4917,,
 368,4917,,
 2555,4917,,
-2600,4917,,
+2600,4917,,FIXME: Remaining artefacts of the removal must be cleaned up!,1
 2630,4917,,
 3061,4917,,
 3752,4917,,
