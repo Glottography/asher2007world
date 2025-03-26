@@ -113,3 +113,6 @@ source_fid,target_fid,latitude,longitude,note
 307,7014x,14.887,99.384,
 #5648,Remove Eastern polygon. Has same label, but in different color!
 5648,,3.802,12.386,
+#5880: Split Eastern polygon. That's 42 on Map 46, Atsi (Zaiwa) [Jingpo] 370
+5880,370,24.087,97.743,
+#4934 split off Eastern polygons. There's no basis for a speaker population < 50 worldwide to have major locations in Paramaribo.

@@ -1527,7 +1527,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 1526,Eastern Soke,contemporary,chia1261,Map 11 Meso-America: Contemporary,22b,
 1527,"Eastern Soke, Zoque",time of contact,chia1262,Map 10 Meso-America: Time of Contact,22b,
 1528,Eastern Swampy Cree,time of contact,east2541,Map 7 Northern North America: Time of Contact,65,
-1529,Eastern Swampy Cree,contemporary,east2541,NA,NA,
+1529,Eastern Swampy Cree,contemporary,east2541,Map 8 Northern North America: Contemporary,19,
 1530,Eastern Tol,time of contact,toll1241,Map 10 Meso-America: Time of Contact,33b,
 1531,Eastern Tol,contemporary,toll1241,Map 11 Meso-America: Contemporary,33b,
 1532,Eastern Yugur,2007,east2337,Map 45 China and Mongolia,34,
@@ -5110,7 +5110,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 5102,Portuguese-Based Creoles,2007,,Map 88 Gabon and Equatorial Guinea,57,
 5103,Portvato,2007,port1293,Map 27 Vanuatu and New Caledonia,58,
 5104,Potawatomi,time of contact,pota1247,Map 1 East Coast and Great Lakes: Time of Contact,13,
-5105,Potiguara,contemporary,tupi1273,Map 19 Brazilian Atlantic Coast: Contemporary,341d,
+5105,Potiguara,contemporary,poti1237,Map 19 Brazilian Atlantic Coast: Contemporary,341d,
 5106,Poto,2007,temb1272,Map 82 Democratic Republic of Congo: Equate,35a,Classified as dialect of Ngombe-Motembo
 5107,Pove,2007,tsog1243,Map 83 Democratic Republic of Congo: Bas Congo and Southern Congo | Map 88 Gabon and Equatorial Guinea,54 | 23,
 5108,Poyanawa,time of contact,poya1241,Map 14 Northern Pacific Coast: Time of Contact,230,
@@ -6866,7 +6866,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 6853,"Yele (Yela, Yeletnye)",2007,yele1255,Map 31 South-Eastern Papua New Guinea,88,
 6854,Yelmek,2007,yelm1242,Map 34 Irian Jaya,171,
 6855,Yemba (Dschang),2007,yemb1246,Map 93 Central South-Western Cameroon,60,
-6856,Yembe,2007,song1303,Map 81 Democratic Republic of Congo: Kasai,1p,
+6856,Yembe,2007,mong1338,Map 81 Democratic Republic of Congo: Kasai,1p,Classified as a dialect of Mongo
 6857,Yembe,2007,,Map 84 Angola,2b,
 6858,Yemsa,2007,yems1235,Map 72 Sudan and the Horn of Africa,91,
 6859,Yeraka!,2007,yera1243,Map 33 Northern Papua New Guinea,289,
