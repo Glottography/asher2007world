@@ -84,7 +84,7 @@ class Dataset(pyglottography.Dataset):
                 assert int(size(intersection_all([p.shape for _, p, _ in polys]))) == a
                 # Yield just one shape, with updated metadata.
                 features.append((
-                    list(sorted([pid for pid, _, _ in polys], key=lambda x: int(x))),
+                    list(sorted([pid for pid, _, _ in polys], key=lambda x: int(x.replace('x', '')))),
                     polys[0][1],
                     gc))
             else:  # All good, only one language mapped to the polygon.

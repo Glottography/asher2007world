@@ -76,3 +76,40 @@ source_fid,target_fid,latitude,longitude,note
 4856,7009x,60.147,-166.378,
 #6500,Typo: Northern polygon is 77, Uzbek  6375
 6500,6375,36.499,65.891,
+#4162,Split Southern poly. That's Kwale, Map 32, 137. uare1241
+4162,7010x,-9.6988,147.6652,
+#4671,Split Southern poly, That's Barai, Map 32, 128, nucl1630
+4671,583,-9.336,147.98,
+#174,Split Western poly, That's Busa, Map 33, 372, not 327. odia1239 (Matching location and ElCat name)
+174,7011x,-3.8942,141.4686,
+# Move Agara'iwa out of West Kambari Multi-Polygon
+6602,6602x,10.254,4.817,
+6602,6602x,10.582,4.337,
+6602,6602x,10.829,4.418,
+#5271
+#4x legend 22 (Miao (Various Languages)) -> feature 3953
+5271,3953,27.106,105.197
+5271,3953,26.5315,105.2195
+5271,3953,26.357,105.125
+5271,3953,26.024,105.194
+#legend 52 (Nasu [Yi]) -> feature 4292
+5271,4292,25.891,104.623
+# The second polygon for Semnani at the border to Iraq must be an error.
+5463,,32.666,47.088,
+# Western one should indeed be Pauxiana on the Rio Catremani. The eastern one should be Pauxi [NOCODE_Pauxi], because the location matches and there's the similarity in name to the Pauxiana. What little is known of the Pauxi is summarized in Nimuendaju 1948.
+4966,4966x,-0.47,-56.19,
+#6322,split Eastern, coastal polygon to 875, poly is labeled 112, but in color used for 12.
+6322,875,5.171,118.238,
+#4350,The Northern Poly is Lemerig, legend 10 not 20.
+4350,7012x,-13.807,167.485,
+#5264,Split off Northern Polygon. That's 75 on Map 45, Kadai -> Gelao -> Buyang, buya1244
+5264,7013x,23.414,106.278,
+#5317,SPlit off Northern Polygon. That's 73 on Map 45, Southern Zhuang (Nung), nung1283
+5317,5740,22.65,107.281,
+#5842,Split off Southern Polygon. That's 20 on Map 48. Thai 6024
+5842,6024,15.02,100.448,
+#307,Split off two Western Polygons. Those are 76 on Map 48, Tibeto Burman, Burmese Gwi, Gong. ugon1239
+307,7014x,15.166,99.481,
+307,7014x,14.887,99.384,
+#5648,Remove Eastern polygon. Has same label, but in different color!
+5648,,3.802,12.386,
