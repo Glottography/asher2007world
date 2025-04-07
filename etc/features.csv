@@ -1171,7 +1171,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 1170,Cholón,time of contact,chol1284,Map 14 Northern Pacific Coast: Time of Contact,195,
 1171,Chomo(-Karim),2007,como1258,Map 95 South-Eastern Nigeria and Mid-Western Cameroon | Map 98 North-Eastern Nigeria,85 | 61,
 1172,Chong,2007,chon1284,"Map 48 Southern Thailand, Laos and Vietnam, and Cambodia",28,
-1173,Chontal,contemporary,taba1266,Map 11 Meso-America: Contemporary,32,
+1173,Chontal,contemporary,lowl1260,Map 11 Meso-America: Contemporary,32,
 1174,Chontal (Of Oxaca),time of contact,lowl1260,Map 10 Meso-America: Time of Contact,32,
 1175,Chonyi,2007,chon1287,Map 85 Kenyan Coast,6,
 1176,Chopi,2007,chop1243,Map 75 Mozambique,44,
@@ -5881,7 +5881,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 5872,Talishi,2007,taly1247,Map 59 The Caucasus,4,
 5873,Talni,2007,taln1239,Map 102 Benin and Togo | Map 103 Ghana | Map 104 Burkina Faso,66 | 45 | 21,
 5874,Talodi,2007,talo1250,Map 71 North-East Africa,97,
-5875,,2007,talu1238,"Map 46 Yunnan Province, China","19, 20",See 5271
+5875,,2007,,"Map 46 Yunnan Province, China","19, 20",See 5271. Amalgamates several differently classified polygons.
 5876,Tam,2007,tami1290,Map 32 Southern Papua New Guinea,224,
 5877,Tama,2007,tama1332,Map 71 North-East Africa | Map 72 Sudan and the Horn of Africa,87 | 145,
 5878,Tamagario,2007,tama1336,Map 34 Irian Jaya,39,

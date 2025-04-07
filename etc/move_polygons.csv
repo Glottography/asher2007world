@@ -116,3 +116,13 @@ source_fid,target_fid,latitude,longitude,note
 #5880: Split Eastern polygon. That's 42 on Map 46, Atsi (Zaiwa) [Jingpo] 370
 5880,370,24.087,97.743,
 #4934 split off Eastern polygons. There's no basis for a speaker population < 50 worldwide to have major locations in Paramaribo.
+4934,,4.633,-52.429,
+4934,,5.234,-54.163,
+#4166, split off the three Western polygons. For some reason, Mura seems to be all over the place ...
+4166,,0.034,-72.131,
+4166,,-1.0315,-72.19,
+4166,,-9.707,-71.9,
+#4101 remove Northern polygon. Movima has just 1400 speakers, they can't be spread out that far! On map 17 there are also differently colored polygons labeled 333!
+4101,,-4.867,-70.621,
+#6478 split off Southern polygon, that's not 33 Map 13, but 333 Map 17, but it's not Movima either. Just remove!
+6478,,-5.898,-70.514,

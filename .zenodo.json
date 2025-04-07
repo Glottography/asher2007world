@@ -1,0 +1,18 @@
+{
+    "creators": [
+        {
+            "name": "The Glottography Consortium"
+        }
+    ],
+    "title": "Glottography dataset derived from Asher and Moseley 2007 \"Atlas of the World's Languages\"",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Generic",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Asher, R. E. &amp; Christopher J. Moseley (eds.) 2007. Atlas of the World&#x27;s Languages. 2nd edn. Routledge.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
