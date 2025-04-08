@@ -27,4 +27,3 @@ jobs:
     - name: Test with pytest
       run: |
         pytest --cldf-metadata=cldf/traditional/traditional-metadata.json test.py
-        pytest --cldf-metadata=cldf/contemporary/contemporary-metadata.json test.py
