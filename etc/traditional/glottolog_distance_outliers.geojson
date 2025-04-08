@@ -116,7 +116,7 @@
       },
       "properties": {
         "title": "adai1235: Adai",
-        "fill": "#5551CC",
+        "fill": "#333F80",
         "family": null,
         "cldf:languageReference": "adai1235",
         "fill-opacity": 0.5,
@@ -127,7 +127,7 @@
         "Family": "None",
         "Speaker_Area": "languages",
         "Maps": "['Map 2 South-Eastern North America: Time of Contact [19]']",
-        "stroke": "#5551CC"
+        "stroke": "#333F80"
       }
     },
     {
@@ -141,7 +141,7 @@
       },
       "properties": {
         "title": "adai1235 -> adai1235: Adai",
-        "marker-color": "#5551CC"
+        "marker-color": "#333F80"
       }
     },
     {
@@ -1109,7 +1109,7 @@
       },
       "properties": {
         "title": "aima1241: Aimaq",
-        "fill": "#51CC87",
+        "fill": "#CC8B51",
         "family": "Indo-European",
         "cldf:languageReference": "aima1241",
         "fill-opacity": 0.5,
@@ -1120,7 +1120,7 @@
         "Family": "Indo-European",
         "Speaker_Area": "languages",
         "Maps": "['Map 53 Iran, Afghanistan and Pakistan [8a]', 'Map 53 Iran, Afghanistan and Pakistan [8b]', 'Map 53 Iran, Afghanistan and Pakistan [8c]', 'Map 53 Iran, Afghanistan and Pakistan [8d]']",
-        "stroke": "#51CC87"
+        "stroke": "#CC8B51"
       }
     },
     {
@@ -1134,7 +1134,7 @@
       },
       "properties": {
         "title": "aima1241 -> aima1241: Aimaq",
-        "marker-color": "#51CC87"
+        "marker-color": "#CC8B51"
       }
     },
     {
@@ -1424,7 +1424,7 @@
       },
       "properties": {
         "title": "alle1238: Allentiac",
-        "fill": "#804833",
+        "fill": "#336380",
         "family": "Huarpean",
         "cldf:languageReference": "alle1238",
         "fill-opacity": 0.5,
@@ -1435,7 +1435,7 @@
         "Family": "Huarpean",
         "Speaker_Area": "languages",
         "Maps": "['Map 22 Southern South America: Time of Contact [250a]']",
-        "stroke": "#804833"
+        "stroke": "#336380"
       }
     },
     {
@@ -1449,7 +1449,7 @@
       },
       "properties": {
         "title": "alle1238 -> alle1238: Allentiac",
-        "marker-color": "#804833"
+        "marker-color": "#336380"
       }
     },
     {
@@ -1539,7 +1539,7 @@
       },
       "properties": {
         "title": "anda1286: Andaqui",
-        "fill": "#A651CC",
+        "fill": "#33806A",
         "family": null,
         "cldf:languageReference": "anda1286",
         "fill-opacity": 0.5,
@@ -1550,7 +1550,7 @@
         "Family": "None",
         "Speaker_Area": "languages",
         "Maps": "['Map 12 Northern South America: Time of Contact [14]']",
-        "stroke": "#A651CC"
+        "stroke": "#33806A"
       }
     },
     {
@@ -1564,7 +1564,7 @@
       },
       "properties": {
         "title": "anda1286 -> anda1286: Andaqui",
-        "marker-color": "#A651CC"
+        "marker-color": "#33806A"
       }
     },
     {
@@ -1622,7 +1622,7 @@
       },
       "properties": {
         "title": "angi1238: Angika",
-        "fill": "#CC5151",
+        "fill": "#5187CC",
         "family": "Indo-European",
         "cldf:languageReference": "angi1238",
         "fill-opacity": 0.5,
@@ -1633,7 +1633,7 @@
         "Family": "Indo-European",
         "Speaker_Area": "languages",
         "Maps": "['Map 51 North-East India, Bangladesh, Bhutan and Nepal [170]']",
-        "stroke": "#CC5151"
+        "stroke": "#5187CC"
       }
     },
     {
@@ -1647,7 +1647,7 @@
       },
       "properties": {
         "title": "angi1238 -> angi1238: Angika",
-        "marker-color": "#CC5151"
+        "marker-color": "#5187CC"
       }
     },
     {
@@ -1909,7 +1909,7 @@
       },
       "properties": {
         "title": "apia1248: Apiak\u00e1",
-        "fill": "#353380",
+        "fill": "#338054",
         "family": "Tupian",
         "cldf:languageReference": "apia1248",
         "fill-opacity": 0.5,
@@ -1920,7 +1920,7 @@
         "Family": "Tupian",
         "Speaker_Area": "languages",
         "Maps": "['Map 18 Brazilian Atlantic Coast: Time of Contact [357]']",
-        "stroke": "#353380"
+        "stroke": "#338054"
       }
     },
     {
@@ -1934,7 +1934,7 @@
       },
       "properties": {
         "title": "apia1248 -> apia1248: Apiak\u00e1",
-        "marker-color": "#353380"
+        "marker-color": "#338054"
       }
     },
     {
@@ -3232,7 +3232,7 @@
       },
       "properties": {
         "title": "arap1274: Arapaho",
-        "fill": "#C8CC51",
+        "fill": "#803374",
         "family": "Algic",
         "cldf:languageReference": "arap1274",
         "fill-opacity": 0.5,
@@ -3243,7 +3243,7 @@
         "Family": "Algic",
         "Speaker_Area": "languages",
         "Maps": "['Map 5 The Great Plains: Time of Contact [10]', 'Map 5 The Great Plains: Time of Contact [9]']",
-        "stroke": "#C8CC51"
+        "stroke": "#803374"
       }
     },
     {
@@ -3257,7 +3257,7 @@
       },
       "properties": {
         "title": "arap1274 -> arap1274: Arapaho",
-        "marker-color": "#C8CC51"
+        "marker-color": "#803374"
       }
     },
     {
@@ -3529,7 +3529,7 @@
       },
       "properties": {
         "title": "asho1236: Asho Chin",
-        "fill": "#51CC65",
+        "fill": "#CCAE51",
         "family": "Sino-Tibetan",
         "cldf:languageReference": "asho1236",
         "fill-opacity": 0.5,
@@ -3540,7 +3540,7 @@
         "Family": "Sino-Tibetan",
         "Speaker_Area": "languages",
         "Maps": "['Map 51 North-East India, Bangladesh, Bhutan and Nepal [149]']",
-        "stroke": "#51CC65"
+        "stroke": "#CCAE51"
       }
     },
     {
@@ -3554,7 +3554,7 @@
       },
       "properties": {
         "title": "asho1236 -> asho1236: Asho Chin",
-        "marker-color": "#51CC65"
+        "marker-color": "#CCAE51"
       }
     },
     {
@@ -3628,7 +3628,7 @@
       },
       "properties": {
         "title": "asur1254: Asuri",
-        "fill": "#CC51B9",
+        "fill": "#768033",
         "family": "Austroasiatic",
         "cldf:languageReference": "asur1254",
         "fill-opacity": 0.5,
@@ -3639,7 +3639,7 @@
         "Family": "Austroasiatic",
         "Speaker_Area": "languages",
         "Maps": "['Map 51 North-East India, Bangladesh, Bhutan and Nepal [202]']",
-        "stroke": "#CC51B9"
+        "stroke": "#768033"
       }
     },
     {
@@ -3653,7 +3653,7 @@
       },
       "properties": {
         "title": "asur1254 -> asur1254: Asuri",
-        "marker-color": "#CC51B9"
+        "marker-color": "#768033"
       }
     },
     {
@@ -4269,7 +4269,7 @@
       },
       "properties": {
         "title": "bagh1251: Bagheli",
-        "fill": "#CC5168",
+        "fill": "#523380",
         "family": "Indo-European",
         "cldf:languageReference": "bagh1251",
         "fill-opacity": 0.5,
@@ -4280,7 +4280,7 @@
         "Family": "Indo-European",
         "Speaker_Area": "languages",
         "Maps": "['Map 51 North-East India, Bangladesh, Bhutan and Nepal [168]', 'Map 54 North-West India [71]']",
-        "stroke": "#CC5168"
+        "stroke": "#523380"
       }
     },
     {
@@ -4294,7 +4294,7 @@
       },
       "properties": {
         "title": "bagh1251 -> bagh1251: Bagheli",
-        "marker-color": "#CC5168"
+        "marker-color": "#523380"
       }
     },
     {
@@ -4894,7 +4894,7 @@
       },
       "properties": {
         "title": "baka1272: Baka (Cameroon)",
-        "fill": "#CC51C5",
+        "fill": "#CC5151",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "baka1272",
         "fill-opacity": 0.5,
@@ -4905,7 +4905,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 87 Northern Congo and Southern Central African Republic [75]']",
-        "stroke": "#CC51C5"
+        "stroke": "#CC5151"
       }
     },
     {
@@ -4919,7 +4919,7 @@
       },
       "properties": {
         "title": "baka1272 -> baka1272: Baka (Cameroon)",
-        "marker-color": "#CC51C5"
+        "marker-color": "#CC5151"
       }
     },
     {
@@ -5195,7 +5195,7 @@
       },
       "properties": {
         "title": "balt1258: Balti",
-        "fill": "#688033",
+        "fill": "#6151CC",
         "family": "Sino-Tibetan",
         "cldf:languageReference": "balt1258",
         "fill-opacity": 0.5,
@@ -5206,7 +5206,7 @@
         "Family": "Sino-Tibetan",
         "Speaker_Area": "languages",
         "Maps": "['Map 53 Iran, Afghanistan and Pakistan [78]', 'Map 54 North-West India [2]']",
-        "stroke": "#688033"
+        "stroke": "#6151CC"
       }
     },
     {
@@ -5220,7 +5220,7 @@
       },
       "properties": {
         "title": "balt1258 -> balt1258: Balti",
-        "marker-color": "#688033"
+        "marker-color": "#6151CC"
       }
     },
     {
@@ -5330,7 +5330,7 @@
       },
       "properties": {
         "title": "bamw1238: Bamwe",
-        "fill": "#BDCC51",
+        "fill": "#CC5197",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "bamw1238",
         "fill-opacity": 0.5,
@@ -5341,7 +5341,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 82 Democratic Republic of Congo: Equate [21]']",
-        "stroke": "#BDCC51"
+        "stroke": "#CC5197"
       }
     },
     {
@@ -5355,7 +5355,7 @@
       },
       "properties": {
         "title": "bamw1238 -> bamw1238: Bamwe",
-        "marker-color": "#BDCC51"
+        "marker-color": "#CC5197"
       }
     },
     {
@@ -6007,7 +6007,7 @@
       },
       "properties": {
         "title": "bash1264: Bashkir",
-        "fill": "#CCC551",
+        "fill": "#55CC51",
         "family": "Turkic",
         "cldf:languageReference": "bash1264",
         "fill-opacity": 0.5,
@@ -6018,7 +6018,7 @@
         "Family": "Turkic",
         "Speaker_Area": "languages",
         "Maps": "['Map 56 Western Siberia [3]', 'Map 58 Western Russia, the Baltic States, Belarus, Ukraine and Moldova [14]']",
-        "stroke": "#CCC551"
+        "stroke": "#55CC51"
       }
     },
     {
@@ -6032,7 +6032,7 @@
       },
       "properties": {
         "title": "bash1264 -> bash1264: Bashkir",
-        "marker-color": "#CCC551"
+        "marker-color": "#55CC51"
       }
     },
     {
@@ -6864,7 +6864,7 @@
       },
       "properties": {
         "title": "bata1285: Batanga",
-        "fill": "#3C8033",
+        "fill": "#448033",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "bata1285",
         "fill-opacity": 0.5,
@@ -6875,7 +6875,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 92 South-Western Cameroon [23]', 'Map 92 South-Western Cameroon [24]']",
-        "stroke": "#3C8033"
+        "stroke": "#448033"
       }
     },
     {
@@ -6889,7 +6889,7 @@
       },
       "properties": {
         "title": "bata1285 -> bata1285: Batanga",
-        "marker-color": "#3C8033"
+        "marker-color": "#448033"
       }
     },
     {
@@ -8681,7 +8681,7 @@
       },
       "properties": {
         "title": "binj1249: Binji",
-        "fill": "#683380",
+        "fill": "#83CC51",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "binj1249",
         "fill-opacity": 0.5,
@@ -8692,7 +8692,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 78 Democratic Republic of Congo: Katang [21]', 'Map 80 Democratic Republic of Congo: Kivu [66]', 'Map 81 Democratic Republic of Congo: Kasai [69]']",
-        "stroke": "#683380"
+        "stroke": "#83CC51"
       }
     },
     {
@@ -8706,7 +8706,7 @@
       },
       "properties": {
         "title": "binj1249 -> binj1249: Binji",
-        "marker-color": "#683380"
+        "marker-color": "#83CC51"
       }
     },
     {
@@ -9292,7 +9292,7 @@
       },
       "properties": {
         "title": "biss1248: Bissa",
-        "fill": "#338054",
+        "fill": "#CC9751",
         "family": "Mande",
         "cldf:languageReference": "biss1248",
         "fill-opacity": 0.5,
@@ -9303,7 +9303,7 @@
         "Family": "Mande",
         "Speaker_Area": "languages",
         "Maps": "['Map 102 Benin and Togo [78]', 'Map 103 Ghana [83]', 'Map 104 Burkina Faso [85]']",
-        "stroke": "#338054"
+        "stroke": "#CC9751"
       }
     },
     {
@@ -9317,7 +9317,7 @@
       },
       "properties": {
         "title": "biss1248 -> biss1248: Bissa",
-        "marker-color": "#338054"
+        "marker-color": "#CC9751"
       }
     },
     {
@@ -9459,7 +9459,7 @@
       },
       "properties": {
         "title": "bomi1238: Bomitaba",
-        "fill": "#523380",
+        "fill": "#8F51CC",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "bomi1238",
         "fill-opacity": 0.5,
@@ -9470,7 +9470,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 82 Democratic Republic of Congo: Equate [28]', 'Map 87 Northern Congo and Southern Central African Republic [7]']",
-        "stroke": "#523380"
+        "stroke": "#8F51CC"
       }
     },
     {
@@ -9484,7 +9484,7 @@
       },
       "properties": {
         "title": "bomi1238 -> bomi1238: Bomitaba",
-        "marker-color": "#523380"
+        "marker-color": "#8F51CC"
       }
     },
     {
@@ -13406,7 +13406,7 @@
       },
       "properties": {
         "title": "bomk1234: Bom-Kim",
-        "fill": "#807B33",
+        "fill": "#603380",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "bomk1234",
         "fill-opacity": 0.5,
@@ -13417,7 +13417,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 106 Liberia and Sierra Leone [4]', 'Map 106 Liberia and Sierra Leone [7]']",
-        "stroke": "#807B33"
+        "stroke": "#603380"
       }
     },
     {
@@ -13431,7 +13431,7 @@
       },
       "properties": {
         "title": "bomk1234 -> bomk1234: Bom-Kim",
-        "marker-color": "#807B33"
+        "marker-color": "#603380"
       }
     },
     {
@@ -17881,7 +17881,7 @@
       },
       "properties": {
         "title": "bora1271: Borana-Arsi-Guji Oromo",
-        "fill": "#333880",
+        "fill": "#806533",
         "family": "Afro-Asiatic",
         "cldf:languageReference": "bora1271",
         "fill-opacity": 0.5,
@@ -17892,7 +17892,7 @@
         "Family": "Afro-Asiatic",
         "Speaker_Area": "languages",
         "Maps": "['Map 72 Sudan and the Horn of Africa [53e]', 'Map 72 Sudan and the Horn of Africa [53f]', 'Map 72 Sudan and the Horn of Africa [53h]', 'Map 72 Sudan and the Horn of Africa [53i]', 'Map 85 Kenyan Coast [43b]', 'Map 86 Central East Africa [96b]']",
-        "stroke": "#333880"
+        "stroke": "#806533"
       }
     },
     {
@@ -17906,7 +17906,7 @@
       },
       "properties": {
         "title": "bora1271 -> bora1271: Borana-Arsi-Guji Oromo",
-        "marker-color": "#333880"
+        "marker-color": "#806533"
       }
     },
     {
@@ -18910,7 +18910,7 @@
       },
       "properties": {
         "title": "burj1242: Burji",
-        "fill": "#803A33",
+        "fill": "#338080",
         "family": "Afro-Asiatic",
         "cldf:languageReference": "burj1242",
         "fill-opacity": 0.5,
@@ -18921,7 +18921,7 @@
         "Family": "Afro-Asiatic",
         "Speaker_Area": "languages",
         "Maps": "['Map 72 Sudan and the Horn of Africa [69]', 'Map 85 Kenyan Coast [42]', 'Map 86 Central East Africa [95]']",
-        "stroke": "#803A33"
+        "stroke": "#338080"
       }
     },
     {
@@ -18935,7 +18935,7 @@
       },
       "properties": {
         "title": "burj1242 -> burj1242: Burji",
-        "marker-color": "#803A33"
+        "marker-color": "#338080"
       }
     },
     {
@@ -19359,7 +19359,7 @@
       },
       "properties": {
         "title": "caol1238: Cao Lan",
-        "fill": "#B1CC51",
+        "fill": "#9A51CC",
         "family": "Tai-Kadai",
         "cldf:languageReference": "caol1238",
         "fill-opacity": 0.5,
@@ -19370,7 +19370,7 @@
         "Family": "Tai-Kadai",
         "Speaker_Area": "languages",
         "Maps": "['Map 47 Northern Thailand, Laos and Vietnam [13]']",
-        "stroke": "#B1CC51"
+        "stroke": "#9A51CC"
       }
     },
     {
@@ -19384,7 +19384,7 @@
       },
       "properties": {
         "title": "caol1238 -> caol1238: Cao Lan",
-        "marker-color": "#B1CC51"
+        "marker-color": "#9A51CC"
       }
     },
     {
@@ -19626,7 +19626,7 @@
       },
       "properties": {
         "title": "cent2194: Central Moroccan Berber",
-        "fill": "#CC518B",
+        "fill": "#80336C",
         "family": "Afro-Asiatic",
         "cldf:languageReference": "cent2194",
         "fill-opacity": 0.5,
@@ -19637,7 +19637,7 @@
         "Family": "Afro-Asiatic",
         "Speaker_Area": "languages",
         "Maps": "['Map 73 North-West Africa [68]']",
-        "stroke": "#CC518B"
+        "stroke": "#80336C"
       }
     },
     {
@@ -19651,7 +19651,7 @@
       },
       "properties": {
         "title": "cent2194 -> cent2194: Central Moroccan Berber",
-        "marker-color": "#CC518B"
+        "marker-color": "#80336C"
       }
     },
     {
@@ -19903,7 +19903,7 @@
       },
       "properties": {
         "title": "chit1275: Chittagonian",
-        "fill": "#5165CC",
+        "fill": "#353380",
         "family": "Indo-European",
         "cldf:languageReference": "chit1275",
         "fill-opacity": 0.5,
@@ -19914,7 +19914,7 @@
         "Family": "Indo-European",
         "Speaker_Area": "languages",
         "Maps": "['Map 51 North-East India, Bangladesh, Bhutan and Nepal [178]']",
-        "stroke": "#5165CC"
+        "stroke": "#353380"
       }
     },
     {
@@ -19928,7 +19928,7 @@
       },
       "properties": {
         "title": "chit1275 -> chit1275: Chittagonian",
-        "marker-color": "#5165CC"
+        "marker-color": "#353380"
       }
     },
     {
@@ -20458,7 +20458,7 @@
       },
       "properties": {
         "title": "deng1250: Dengese",
-        "fill": "#33805C",
+        "fill": "#BDCC51",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "deng1250",
         "fill-opacity": 0.5,
@@ -20469,7 +20469,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 81 Democratic Republic of Congo: Kasai [1a]']",
-        "stroke": "#33805C"
+        "stroke": "#BDCC51"
       }
     },
     {
@@ -20483,7 +20483,7 @@
       },
       "properties": {
         "title": "deng1250 -> deng1250: Dengese",
-        "marker-color": "#33805C"
+        "marker-color": "#BDCC51"
       }
     },
     {
@@ -20525,7 +20525,7 @@
       },
       "properties": {
         "title": "dung1253: Dungan",
-        "fill": "#803333",
+        "fill": "#6CCC51",
         "family": "Sino-Tibetan",
         "cldf:languageReference": "dung1253",
         "fill-opacity": 0.5,
@@ -20536,7 +20536,7 @@
         "Family": "Sino-Tibetan",
         "Speaker_Area": "languages",
         "Maps": "['Map 57 Central Asia [18]']",
-        "stroke": "#803333"
+        "stroke": "#6CCC51"
       }
     },
     {
@@ -20550,7 +20550,7 @@
       },
       "properties": {
         "title": "dung1253 -> dung1253: Dungan",
-        "marker-color": "#803333"
+        "marker-color": "#6CCC51"
       }
     },
     {
@@ -20860,7 +20860,7 @@
       },
       "properties": {
         "title": "east2409: East Nyala",
-        "fill": "#CC8051",
+        "fill": "#C8CC51",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "east2409",
         "fill-opacity": 0.5,
@@ -20871,7 +20871,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 86 Central East Africa [29]']",
-        "stroke": "#CC8051"
+        "stroke": "#C8CC51"
       }
     },
     {
@@ -20885,7 +20885,7 @@
       },
       "properties": {
         "title": "east2409 -> east2409: East Nyala",
-        "marker-color": "#CC8051"
+        "marker-color": "#C8CC51"
       }
     },
     {
@@ -21327,7 +21327,7 @@
       },
       "properties": {
         "title": "east2426: Eastern Maninkakan",
-        "fill": "#603380",
+        "fill": "#805E33",
         "family": "Mande",
         "cldf:languageReference": "east2426",
         "fill-opacity": 0.5,
@@ -21338,7 +21338,7 @@
         "Family": "Mande",
         "Speaker_Area": "languages",
         "Maps": "['Map 105 Ivory Coast [69e]', 'Map 106 Liberia and Sierra Leone [18c]', 'Map 107 Guinea and Mali [21b]']",
-        "stroke": "#603380"
+        "stroke": "#805E33"
       }
     },
     {
@@ -21352,7 +21352,7 @@
       },
       "properties": {
         "title": "east2426 -> east2426: Eastern Maninkakan",
-        "marker-color": "#603380"
+        "marker-color": "#805E33"
       }
     },
     {
@@ -21538,7 +21538,7 @@
       },
       "properties": {
         "title": "east2690: Eastern Egyptian Bedawi Arabic",
-        "fill": "#3C3380",
+        "fill": "#807B33",
         "family": "Afro-Asiatic",
         "cldf:languageReference": "east2690",
         "fill-opacity": 0.5,
@@ -21549,7 +21549,7 @@
         "Family": "Afro-Asiatic",
         "Speaker_Area": "languages",
         "Maps": "['Map 70 The Middle East and Arabian Peninsula [80]']",
-        "stroke": "#3C3380"
+        "stroke": "#807B33"
       }
     },
     {
@@ -21563,7 +21563,7 @@
       },
       "properties": {
         "title": "east2690 -> east2690: Eastern Egyptian Bedawi Arabic",
-        "marker-color": "#3C3380"
+        "marker-color": "#807B33"
       }
     },
     {
@@ -22063,7 +22063,7 @@
       },
       "properties": {
         "title": "esee1248: Ese Ejja",
-        "fill": "#338063",
+        "fill": "#803350",
         "family": "Pano-Tacanan",
         "cldf:languageReference": "esee1248",
         "fill-opacity": 0.5,
@@ -22074,7 +22074,7 @@
         "Family": "Pano-Tacanan",
         "Speaker_Area": "languages",
         "Maps": "['Map 14 Northern Pacific Coast: Time of Contact [242]']",
-        "stroke": "#338063"
+        "stroke": "#803350"
       }
     },
     {
@@ -22088,7 +22088,7 @@
       },
       "properties": {
         "title": "esee1248 -> esee1248: Ese Ejja",
-        "marker-color": "#338063"
+        "marker-color": "#803350"
       }
     },
     {
@@ -22294,7 +22294,7 @@
       },
       "properties": {
         "title": "fala1243: Falam Chin",
-        "fill": "#803341",
+        "fill": "#804133",
         "family": "Sino-Tibetan",
         "cldf:languageReference": "fala1243",
         "fill-opacity": 0.5,
@@ -22305,7 +22305,7 @@
         "Family": "Sino-Tibetan",
         "Speaker_Area": "languages",
         "Maps": "['Map 49 Burma (Myanmar) [48]']",
-        "stroke": "#803341"
+        "stroke": "#804133"
       }
     },
     {
@@ -22319,7 +22319,7 @@
       },
       "properties": {
         "title": "fala1243 -> fala1243: Falam Chin",
-        "marker-color": "#803341"
+        "marker-color": "#804133"
       }
     },
     {
@@ -22437,7 +22437,7 @@
       },
       "properties": {
         "title": "gafa1240: Gafat",
-        "fill": "#CC9751",
+        "fill": "#335C80",
         "family": "Afro-Asiatic",
         "cldf:languageReference": "gafa1240",
         "fill-opacity": 0.5,
@@ -22448,7 +22448,7 @@
         "Family": "Afro-Asiatic",
         "Speaker_Area": "languages",
         "Maps": "['Map 72 Sudan and the Horn of Africa [34]']",
-        "stroke": "#CC9751"
+        "stroke": "#335C80"
       }
     },
     {
@@ -22462,7 +22462,7 @@
       },
       "properties": {
         "title": "gafa1240 -> gafa1240: Gafat",
-        "marker-color": "#CC9751"
+        "marker-color": "#335C80"
       }
     },
     {
@@ -22560,7 +22560,7 @@
       },
       "properties": {
         "title": "gaga1249: Gagauz",
-        "fill": "#B151CC",
+        "fill": "#78CC51",
         "family": "Turkic",
         "cldf:languageReference": "gaga1249",
         "fill-opacity": 0.5,
@@ -22571,7 +22571,7 @@
         "Family": "Turkic",
         "Speaker_Area": "languages",
         "Maps": "['Map 58 Western Russia, the Baltic States, Belarus, Ukraine and Moldova [11]', 'Map 61 Hungary, Romania and the Balkans [16]']",
-        "stroke": "#B151CC"
+        "stroke": "#78CC51"
       }
     },
     {
@@ -22585,7 +22585,7 @@
       },
       "properties": {
         "title": "gaga1249 -> gaga1249: Gagauz",
-        "marker-color": "#B151CC"
+        "marker-color": "#78CC51"
       }
     },
     {
@@ -22683,7 +22683,7 @@
       },
       "properties": {
         "title": "gahr1239: Bunan",
-        "fill": "#CCA251",
+        "fill": "#80337B",
         "family": "Sino-Tibetan",
         "cldf:languageReference": "gahr1239",
         "fill-opacity": 0.5,
@@ -22694,7 +22694,7 @@
         "Family": "Sino-Tibetan",
         "Speaker_Area": "languages",
         "Maps": "['Map 54 North-West India [18]']",
-        "stroke": "#CCA251"
+        "stroke": "#80337B"
       }
     },
     {
@@ -22708,7 +22708,7 @@
       },
       "properties": {
         "title": "gahr1239 -> gahr1239: Bunan",
-        "marker-color": "#CCA251"
+        "marker-color": "#80337B"
       }
     },
     {
@@ -22822,7 +22822,7 @@
       },
       "properties": {
         "title": "ganz1246: Ganza",
-        "fill": "#CC5174",
+        "fill": "#CC51A2",
         "family": "Blue Nile Mao",
         "cldf:languageReference": "ganz1246",
         "fill-opacity": 0.5,
@@ -22833,7 +22833,7 @@
         "Family": "Blue Nile Mao",
         "Speaker_Area": "languages",
         "Maps": "['Map 72 Sudan and the Horn of Africa [102]']",
-        "stroke": "#CC5174"
+        "stroke": "#CC51A2"
       }
     },
     {
@@ -22847,7 +22847,7 @@
       },
       "properties": {
         "title": "ganz1246 -> ganz1246: Ganza",
-        "marker-color": "#CC5174"
+        "marker-color": "#CC51A2"
       }
     },
     {
@@ -23597,7 +23597,7 @@
       },
       "properties": {
         "title": "garr1259: Garre",
-        "fill": "#803348",
+        "fill": "#BD51CC",
         "family": "Afro-Asiatic",
         "cldf:languageReference": "garr1259",
         "fill-opacity": 0.5,
@@ -23608,7 +23608,7 @@
         "Family": "Afro-Asiatic",
         "Speaker_Area": "languages",
         "Maps": "['Map 85 Kenyan Coast [43d]']",
-        "stroke": "#803348"
+        "stroke": "#BD51CC"
       }
     },
     {
@@ -23622,7 +23622,7 @@
       },
       "properties": {
         "title": "garr1259 -> garr1259: Garre",
-        "marker-color": "#803348"
+        "marker-color": "#BD51CC"
       }
     },
     {
@@ -23896,7 +23896,7 @@
       },
       "properties": {
         "title": "geic1236: Jeic\u00f3",
-        "fill": "#CC51A2",
+        "fill": "#6F8033",
         "family": "Nuclear-Macro-Je",
         "cldf:languageReference": "geic1236",
         "fill-opacity": 0.5,
@@ -23907,7 +23907,7 @@
         "Family": "Nuclear-Macro-Je",
         "Speaker_Area": "languages",
         "Maps": "['Map 18 Brazilian Atlantic Coast: Time of Contact [297]']",
-        "stroke": "#CC51A2"
+        "stroke": "#6F8033"
       }
     },
     {
@@ -23921,7 +23921,7 @@
       },
       "properties": {
         "title": "geic1236 -> geic1236: Jeic\u00f3",
-        "marker-color": "#CC51A2"
+        "marker-color": "#6F8033"
       }
     },
     {
@@ -24019,7 +24019,7 @@
       },
       "properties": {
         "title": "guam1236: Guamo",
-        "fill": "#598033",
+        "fill": "#806C33",
         "family": null,
         "cldf:languageReference": "guam1236",
         "fill-opacity": 0.5,
@@ -24030,7 +24030,7 @@
         "Family": "None",
         "Speaker_Area": "languages",
         "Maps": "['Map 12 Northern South America: Time of Contact [58]']",
-        "stroke": "#598033"
+        "stroke": "#806C33"
       }
     },
     {
@@ -24044,7 +24044,7 @@
       },
       "properties": {
         "title": "guam1236 -> guam1236: Guamo",
-        "marker-color": "#598033"
+        "marker-color": "#806C33"
       }
     },
     {
@@ -24258,7 +24258,7 @@
       },
       "properties": {
         "title": "guar1292: Guarayu",
-        "fill": "#336380",
+        "fill": "#A651CC",
         "family": "Tupian",
         "cldf:languageReference": "guar1292",
         "fill-opacity": 0.5,
@@ -24269,7 +24269,7 @@
         "Family": "Tupian",
         "Speaker_Area": "languages",
         "Maps": "['Map 20 Central Pacific Coast: Time of Contact [338]']",
-        "stroke": "#336380"
+        "stroke": "#A651CC"
       }
     },
     {
@@ -24283,7 +24283,7 @@
       },
       "properties": {
         "title": "guar1292 -> guar1292: Guarayu",
-        "marker-color": "#336380"
+        "marker-color": "#A651CC"
       }
     },
     {
@@ -24591,7 +24591,7 @@
       },
       "properties": {
         "title": "guru1261: Gurung",
-        "fill": "#805E33",
+        "fill": "#358033",
         "family": "Sino-Tibetan",
         "cldf:languageReference": "guru1261",
         "fill-opacity": 0.5,
@@ -24602,7 +24602,7 @@
         "Family": "Sino-Tibetan",
         "Speaker_Area": "languages",
         "Maps": "['Map 51 North-East India, Bangladesh, Bhutan and Nepal [4]']",
-        "stroke": "#805E33"
+        "stroke": "#358033"
       }
     },
     {
@@ -24616,7 +24616,7 @@
       },
       "properties": {
         "title": "guru1261 -> guru1261: Gurung",
-        "marker-color": "#805E33"
+        "marker-color": "#358033"
       }
     },
     {
@@ -24792,7 +24792,7 @@
       },
       "properties": {
         "title": "haio1238: Hai//om-Akhoe",
-        "fill": "#CC5197",
+        "fill": "#8FCC51",
         "family": "Khoe-Kwadi",
         "cldf:languageReference": "haio1238",
         "fill-opacity": 0.5,
@@ -24803,7 +24803,7 @@
         "Family": "Khoe-Kwadi",
         "Speaker_Area": "languages",
         "Maps": "['Map 74 Southern Africa [46a]', 'Map 84 Angola [53]']",
-        "stroke": "#CC5197"
+        "stroke": "#8FCC51"
       }
     },
     {
@@ -24817,7 +24817,7 @@
       },
       "properties": {
         "title": "haio1238 -> haio1238: Hai//om-Akhoe",
-        "marker-color": "#CC5197"
+        "marker-color": "#8FCC51"
       }
     },
     {
@@ -25266,7 +25266,7 @@
       },
       "properties": {
         "title": "hung1280: Hungu-Pombo",
-        "fill": "#CC8B51",
+        "fill": "#338038",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "hung1280",
         "fill-opacity": 0.5,
@@ -25277,7 +25277,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 84 Angola [8]']",
-        "stroke": "#CC8B51"
+        "stroke": "#338038"
       }
     },
     {
@@ -25291,7 +25291,7 @@
       },
       "properties": {
         "title": "hung1280 -> hung1280: Hungu-Pombo",
-        "marker-color": "#CC8B51"
+        "marker-color": "#338038"
       }
     },
     {
@@ -27899,7 +27899,7 @@
       },
       "properties": {
         "title": "iris1253: Irish",
-        "fill": "#5159CC",
+        "fill": "#5193CC",
         "family": "Indo-European",
         "cldf:languageReference": "iris1253",
         "fill-opacity": 0.5,
@@ -27910,7 +27910,7 @@
         "Family": "Indo-European",
         "Speaker_Area": "languages",
         "Maps": "['Map 63 The British Isles [4]']",
-        "stroke": "#5159CC"
+        "stroke": "#5193CC"
       }
     },
     {
@@ -27924,7 +27924,7 @@
       },
       "properties": {
         "title": "iris1253 -> iris1253: Irish",
-        "marker-color": "#5159CC"
+        "marker-color": "#5193CC"
       }
     },
     {
@@ -28162,7 +28162,7 @@
       },
       "properties": {
         "title": "jica1244: Jicarilla Apache",
-        "fill": "#8FCC51",
+        "fill": "#5170CC",
         "family": "Athabaskan-Eyak-Tlingit",
         "cldf:languageReference": "jica1244",
         "fill-opacity": 0.5,
@@ -28173,7 +28173,7 @@
         "Family": "Athabaskan-Eyak-Tlingit",
         "Speaker_Area": "languages",
         "Maps": "['Map 3 South-Western North America: Time of Contact [6]']",
-        "stroke": "#8FCC51"
+        "stroke": "#5170CC"
       }
     },
     {
@@ -28187,7 +28187,7 @@
       },
       "properties": {
         "title": "jica1244 -> jica1244: Jicarilla Apache",
-        "marker-color": "#8FCC51"
+        "marker-color": "#5170CC"
       }
     },
     {
@@ -28739,7 +28739,7 @@
       },
       "properties": {
         "title": "kago1248: Kagoro",
-        "fill": "#334680",
+        "fill": "#33804D",
         "family": "Mande",
         "cldf:languageReference": "kago1248",
         "fill-opacity": 0.5,
@@ -28750,7 +28750,7 @@
         "Family": "Mande",
         "Speaker_Area": "languages",
         "Maps": "['Map 107 Guinea and Mali [21f]']",
-        "stroke": "#334680"
+        "stroke": "#33804D"
       }
     },
     {
@@ -28764,7 +28764,7 @@
       },
       "properties": {
         "title": "kago1248 -> kago1248: Kagoro",
-        "marker-color": "#334680"
+        "marker-color": "#33804D"
       }
     },
     {
@@ -29620,7 +29620,7 @@
       },
       "properties": {
         "title": "kala1384: Kalanga",
-        "fill": "#51CCCC",
+        "fill": "#CCA251",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "kala1384",
         "fill-opacity": 0.5,
@@ -29631,7 +29631,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 74 Southern Africa [13]', 'Map 77 Zambia [58]']",
-        "stroke": "#51CCCC"
+        "stroke": "#CCA251"
       }
     },
     {
@@ -29645,7 +29645,7 @@
       },
       "properties": {
         "title": "kala1384 -> kala1384: Kalanga",
-        "marker-color": "#51CCCC"
+        "marker-color": "#CCA251"
       }
     },
     {
@@ -29949,7 +29949,7 @@
       },
       "properties": {
         "title": "karo1305: Karo (Brazil)",
-        "fill": "#335480",
+        "fill": "#C851CC",
         "family": "Tupian",
         "cldf:languageReference": "karo1305",
         "fill-opacity": 0.5,
@@ -29960,7 +29960,7 @@
         "Family": "Tupian",
         "Speaker_Area": "languages",
         "Maps": "['Map 16 Western Brazil: Time of Contact [375]']",
-        "stroke": "#335480"
+        "stroke": "#C851CC"
       }
     },
     {
@@ -29974,7 +29974,7 @@
       },
       "properties": {
         "title": "karo1305 -> karo1305: Karo (Brazil)",
-        "marker-color": "#335480"
+        "marker-color": "#C851CC"
       }
     },
     {
@@ -30168,7 +30168,7 @@
       },
       "properties": {
         "title": "kaxu1237: Kaxui\u00e2na",
-        "fill": "#51CC70",
+        "fill": "#683380",
         "family": "Cariban",
         "cldf:languageReference": "kaxu1237",
         "fill-opacity": 0.5,
@@ -30179,7 +30179,7 @@
         "Family": "Cariban",
         "Speaker_Area": "languages",
         "Maps": "['Map 12 Northern South America: Time of Contact [390]']",
-        "stroke": "#51CC70"
+        "stroke": "#683380"
       }
     },
     {
@@ -30193,7 +30193,7 @@
       },
       "properties": {
         "title": "kaxu1237 -> kaxu1237: Kaxui\u00e2na",
-        "marker-color": "#51CC70"
+        "marker-color": "#683380"
       }
     },
     {
@@ -30476,7 +30476,7 @@
       },
       "properties": {
         "title": "kobi1241: Kobiana",
-        "fill": "#6C51CC",
+        "fill": "#336A80",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "kobi1241",
         "fill-opacity": 0.5,
@@ -30487,7 +30487,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 108 Senegal, Gambia and Guinea Bissau [25]']",
-        "stroke": "#6C51CC"
+        "stroke": "#336A80"
       }
     },
     {
@@ -30501,7 +30501,7 @@
       },
       "properties": {
         "title": "kobi1241 -> kobi1241: Kobiana",
-        "marker-color": "#6C51CC"
+        "marker-color": "#336A80"
       }
     },
     {
@@ -30621,7 +30621,7 @@
       },
       "properties": {
         "title": "koch1247: Kochila Tharu",
-        "fill": "#CC515D",
+        "fill": "#337180",
         "family": "Indo-European",
         "cldf:languageReference": "koch1247",
         "fill-opacity": 0.5,
@@ -30632,7 +30632,7 @@
         "Family": "Indo-European",
         "Speaker_Area": "languages",
         "Maps": "['Map 51 North-East India, Bangladesh, Bhutan and Nepal [165e]']",
-        "stroke": "#CC515D"
+        "stroke": "#337180"
       }
     },
     {
@@ -30646,7 +30646,7 @@
       },
       "properties": {
         "title": "koch1247 -> koch1247: Kochila Tharu",
-        "marker-color": "#CC515D"
+        "marker-color": "#337180"
       }
     },
     {
@@ -30736,7 +30736,7 @@
       },
       "properties": {
         "title": "koda1236: Koda",
-        "fill": "#51C1CC",
+        "fill": "#6C51CC",
         "family": "Austroasiatic",
         "cldf:languageReference": "koda1236",
         "fill-opacity": 0.5,
@@ -30747,7 +30747,7 @@
         "Family": "Austroasiatic",
         "Speaker_Area": "languages",
         "Maps": "['Map 51 North-East India, Bangladesh, Bhutan and Nepal [207]']",
-        "stroke": "#51C1CC"
+        "stroke": "#6C51CC"
       }
     },
     {
@@ -30761,7 +30761,7 @@
       },
       "properties": {
         "title": "koda1236 -> koda1236: Koda",
-        "marker-color": "#51C1CC"
+        "marker-color": "#6C51CC"
       }
     },
     {
@@ -31323,7 +31323,7 @@
       },
       "properties": {
         "title": "kuli1255: Kulina Pano",
-        "fill": "#4B3380",
+        "fill": "#CC7451",
         "family": "Pano-Tacanan",
         "cldf:languageReference": "kuli1255",
         "fill-opacity": 0.5,
@@ -31334,7 +31334,7 @@
         "Family": "Pano-Tacanan",
         "Speaker_Area": "languages",
         "Maps": "['Map 14 Northern Pacific Coast: Time of Contact [214]']",
-        "stroke": "#4B3380"
+        "stroke": "#CC7451"
       }
     },
     {
@@ -31348,7 +31348,7 @@
       },
       "properties": {
         "title": "kuli1255 -> kuli1255: Kulina Pano",
-        "marker-color": "#4B3380"
+        "marker-color": "#CC7451"
       }
     },
     {
@@ -31516,7 +31516,7 @@
       },
       "properties": {
         "title": "kung1261: North-Central Ju",
-        "fill": "#519ECC",
+        "fill": "#51C1CC",
         "family": "Kxa",
         "cldf:languageReference": "kung1261",
         "fill-opacity": 0.5,
@@ -31527,7 +31527,7 @@
         "Family": "Kxa",
         "Speaker_Area": "languages",
         "Maps": "['Map 74 Southern Africa [59]']",
-        "stroke": "#519ECC"
+        "stroke": "#51C1CC"
       }
     },
     {
@@ -31541,7 +31541,7 @@
       },
       "properties": {
         "title": "kung1261 -> kung1261: North-Central Ju",
-        "marker-color": "#519ECC"
+        "marker-color": "#51C1CC"
       }
     },
     {
@@ -32723,7 +32723,7 @@
       },
       "properties": {
         "title": "lada1244: Leh Ladakhi",
-        "fill": "#51CC9E",
+        "fill": "#443380",
         "family": "Sino-Tibetan",
         "cldf:languageReference": "lada1244",
         "fill-opacity": 0.5,
@@ -32734,7 +32734,7 @@
         "Family": "Sino-Tibetan",
         "Speaker_Area": "languages",
         "Maps": "['Map 54 North-West India [1]']",
-        "stroke": "#51CC9E"
+        "stroke": "#443380"
       }
     },
     {
@@ -32748,7 +32748,7 @@
       },
       "properties": {
         "title": "lada1244 -> lada1244: Leh Ladakhi",
-        "marker-color": "#51CC9E"
+        "marker-color": "#443380"
       }
     },
     {
@@ -32864,7 +32864,7 @@
       },
       "properties": {
         "title": "lagh1245: Laghuu",
-        "fill": "#33804D",
+        "fill": "#803341",
         "family": "Sino-Tibetan",
         "cldf:languageReference": "lagh1245",
         "fill-opacity": 0.5,
@@ -32875,7 +32875,7 @@
         "Family": "Sino-Tibetan",
         "Speaker_Area": "languages",
         "Maps": "['Map 47 Northern Thailand, Laos and Vietnam [100]']",
-        "stroke": "#33804D"
+        "stroke": "#803341"
       }
     },
     {
@@ -32889,7 +32889,7 @@
       },
       "properties": {
         "title": "lagh1245 -> lagh1245: Laghuu",
-        "marker-color": "#33804D"
+        "marker-color": "#803341"
       }
     },
     {
@@ -33373,7 +33373,7 @@
       },
       "properties": {
         "title": "long1406: Western Lowland Kenyah",
-        "fill": "#334D80",
+        "fill": "#803357",
         "family": "Austronesian",
         "cldf:languageReference": "long1406",
         "fill-opacity": 0.5,
@@ -33384,7 +33384,7 @@
         "Family": "Austronesian",
         "Speaker_Area": "languages",
         "Maps": "['Map 41 Borneo and Madagascar [65]']",
-        "stroke": "#334D80"
+        "stroke": "#803357"
       }
     },
     {
@@ -33398,7 +33398,7 @@
       },
       "properties": {
         "title": "long1406 -> long1406: Western Lowland Kenyah",
-        "marker-color": "#334D80"
+        "marker-color": "#803357"
       }
     },
     {
@@ -34056,7 +34056,7 @@
       },
       "properties": {
         "title": "lule1238: Lule",
-        "fill": "#78CC51",
+        "fill": "#61CC51",
         "family": null,
         "cldf:languageReference": "lule1238",
         "fill-opacity": 0.5,
@@ -34067,7 +34067,7 @@
         "Family": "None",
         "Speaker_Area": "languages",
         "Maps": "['Map 20 Central Pacific Coast: Time of Contact [273]']",
-        "stroke": "#78CC51"
+        "stroke": "#61CC51"
       }
     },
     {
@@ -34081,7 +34081,7 @@
       },
       "properties": {
         "title": "lule1238 -> lule1238: Lule",
-        "marker-color": "#78CC51"
+        "marker-color": "#61CC51"
       }
     },
     {
@@ -34273,7 +34273,7 @@
       },
       "properties": {
         "title": "lwel1234: Lwel",
-        "fill": "#806533",
+        "fill": "#334D80",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "lwel1234",
         "fill-opacity": 0.5,
@@ -34284,7 +34284,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 81 Democratic Republic of Congo: Kasai [32]']",
-        "stroke": "#806533"
+        "stroke": "#334D80"
       }
     },
     {
@@ -34298,7 +34298,7 @@
       },
       "properties": {
         "title": "lwel1234 -> lwel1234: Lwel",
-        "marker-color": "#806533"
+        "marker-color": "#334D80"
       }
     },
     {
@@ -34340,7 +34340,7 @@
       },
       "properties": {
         "title": "mala1431: Malakhel",
-        "fill": "#448033",
+        "fill": "#8351CC",
         "family": "Bookkeeping",
         "cldf:languageReference": "mala1431",
         "fill-opacity": 0.5,
@@ -34351,7 +34351,7 @@
         "Family": "Bookkeeping",
         "Speaker_Area": "languages",
         "Maps": "['Map 53 Iran, Afghanistan and Pakistan [24]']",
-        "stroke": "#448033"
+        "stroke": "#8351CC"
       }
     },
     {
@@ -34365,7 +34365,7 @@
       },
       "properties": {
         "title": "mala1431 -> mala1431: Malakhel",
-        "marker-color": "#448033"
+        "marker-color": "#8351CC"
       }
     },
     {
@@ -34683,7 +34683,7 @@
       },
       "properties": {
         "title": "mass1262: Massalat",
-        "fill": "#803365",
+        "fill": "#51B5CC",
         "family": "Maban",
         "cldf:languageReference": "mass1262",
         "fill-opacity": 0.5,
@@ -34694,7 +34694,7 @@
         "Family": "Maban",
         "Speaker_Area": "languages",
         "Maps": "['Map 71 North-East Africa [36]', 'Map 72 Sudan and the Horn of Africa [24]']",
-        "stroke": "#803365"
+        "stroke": "#51B5CC"
       }
     },
     {
@@ -34708,7 +34708,7 @@
       },
       "properties": {
         "title": "mass1262 -> mass1262: Massalat",
-        "marker-color": "#803365"
+        "marker-color": "#51B5CC"
       }
     },
     {
@@ -34786,7 +34786,7 @@
       },
       "properties": {
         "title": "matt1238: Mattole-Bear River",
-        "fill": "#803374",
+        "fill": "#80335E",
         "family": "Athabaskan-Eyak-Tlingit",
         "cldf:languageReference": "matt1238",
         "fill-opacity": 0.5,
@@ -34797,7 +34797,7 @@
         "Family": "Athabaskan-Eyak-Tlingit",
         "Speaker_Area": "languages",
         "Maps": "['Map 4 California: Time of Contact [28]']",
-        "stroke": "#803374"
+        "stroke": "#80335E"
       }
     },
     {
@@ -34811,7 +34811,7 @@
       },
       "properties": {
         "title": "matt1238 -> matt1238: Mattole-Bear River",
-        "marker-color": "#803374"
+        "marker-color": "#80335E"
       }
     },
     {
@@ -35121,7 +35121,7 @@
       },
       "properties": {
         "title": "mika1256: Mikaya-Bambengangale-Baluma",
-        "fill": "#768033",
+        "fill": "#9ACC51",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "mika1256",
         "fill-opacity": 0.5,
@@ -35132,7 +35132,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 87 Northern Congo and Southern Central African Republic [55]']",
-        "stroke": "#768033"
+        "stroke": "#9ACC51"
       }
     },
     {
@@ -35146,7 +35146,7 @@
       },
       "properties": {
         "title": "mika1256 -> mika1256: Mikaya-Bambengangale-Baluma",
-        "marker-color": "#768033"
+        "marker-color": "#9ACC51"
       }
     },
     {
@@ -35494,7 +35494,7 @@
       },
       "properties": {
         "title": "nalu1239: Naluo Yi",
-        "fill": "#80336C",
+        "fill": "#CC5168",
         "family": "Sino-Tibetan",
         "cldf:languageReference": "nalu1239",
         "fill-opacity": 0.5,
@@ -35505,7 +35505,7 @@
         "Family": "Sino-Tibetan",
         "Speaker_Area": "languages",
         "Maps": "['Map 46 Yunnan Province, China [75]']",
-        "stroke": "#80336C"
+        "stroke": "#CC5168"
       }
     },
     {
@@ -35519,7 +35519,7 @@
       },
       "properties": {
         "title": "nalu1239 -> nalu1239: Naluo Yi",
-        "marker-color": "#80336C"
+        "marker-color": "#CC5168"
       }
     },
     {
@@ -36193,7 +36193,7 @@
       },
       "properties": {
         "title": "nask1242: Naskapi",
-        "fill": "#8F51CC",
+        "fill": "#598033",
         "family": "Algic",
         "cldf:languageReference": "nask1242",
         "fill-opacity": 0.5,
@@ -36204,7 +36204,7 @@
         "Family": "Algic",
         "Speaker_Area": "languages",
         "Maps": "['Map 7 Northern North America: Time of Contact [68]']",
-        "stroke": "#8F51CC"
+        "stroke": "#598033"
       }
     },
     {
@@ -36218,7 +36218,7 @@
       },
       "properties": {
         "title": "nask1242 -> nask1242: Naskapi",
-        "marker-color": "#8F51CC"
+        "marker-color": "#598033"
       }
     },
     {
@@ -36518,7 +36518,7 @@
       },
       "properties": {
         "title": "ngoc1235: Ngochang",
-        "fill": "#CC5D51",
+        "fill": "#803A33",
         "family": "Sino-Tibetan",
         "cldf:languageReference": "ngoc1235",
         "fill-opacity": 0.5,
@@ -36529,7 +36529,7 @@
         "Family": "Sino-Tibetan",
         "Speaker_Area": "languages",
         "Maps": "['Map 46 Yunnan Province, China [39]']",
-        "stroke": "#CC5D51"
+        "stroke": "#803A33"
       }
     },
     {
@@ -36543,7 +36543,7 @@
       },
       "properties": {
         "title": "ngoc1235 -> ngoc1235: Ngochang",
-        "marker-color": "#CC5D51"
+        "marker-color": "#803A33"
       }
     },
     {
@@ -36985,7 +36985,7 @@
       },
       "properties": {
         "title": "ngub1239: Ngubi",
-        "fill": "#51CCC1",
+        "fill": "#4B3380",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "ngub1239",
         "fill-opacity": 0.5,
@@ -36996,7 +36996,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 88 Gabon and Equatorial Guinea [13]']",
-        "stroke": "#51CCC1"
+        "stroke": "#4B3380"
       }
     },
     {
@@ -37010,7 +37010,7 @@
       },
       "properties": {
         "title": "ngub1239 -> ngub1239: Ngubi",
-        "marker-color": "#51CCC1"
+        "marker-color": "#4B3380"
       }
     },
     {
@@ -37076,7 +37076,7 @@
       },
       "properties": {
         "title": "nisi1238: Nisi (China)",
-        "fill": "#333F80",
+        "fill": "#335480",
         "family": "Sino-Tibetan",
         "cldf:languageReference": "nisi1238",
         "fill-opacity": 0.5,
@@ -37087,7 +37087,7 @@
         "Family": "Sino-Tibetan",
         "Speaker_Area": "languages",
         "Maps": "['Map 47 Northern Thailand, Laos and Vietnam [84]']",
-        "stroke": "#333F80"
+        "stroke": "#335480"
       }
     },
     {
@@ -37101,7 +37101,7 @@
       },
       "properties": {
         "title": "nisi1238 -> nisi1238: Nisi (China)",
-        "marker-color": "#333F80"
+        "marker-color": "#335480"
       }
     },
     {
@@ -37331,7 +37331,7 @@
       },
       "properties": {
         "title": "njan1240: Njanga",
-        "fill": "#806C33",
+        "fill": "#3C8033",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "njan1240",
         "fill-opacity": 0.5,
@@ -37342,7 +37342,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 91 Adamawa Region [43]']",
-        "stroke": "#806C33"
+        "stroke": "#3C8033"
       }
     },
     {
@@ -37356,7 +37356,7 @@
       },
       "properties": {
         "title": "njan1240 -> njan1240: Njanga",
-        "marker-color": "#806C33"
+        "marker-color": "#3C8033"
       }
     },
     {
@@ -38574,7 +38574,7 @@
       },
       "properties": {
         "title": "nort2945: Seward Alaska Inupiatun",
-        "fill": "#51CC7C",
+        "fill": "#7D3380",
         "family": "Eskimo-Aleut",
         "cldf:languageReference": "nort2945",
         "fill-opacity": 0.5,
@@ -38585,7 +38585,7 @@
         "Family": "Eskimo-Aleut",
         "Speaker_Area": "languages",
         "Maps": "['Map 7 Northern North America: Time of Contact [5]']",
-        "stroke": "#51CC7C"
+        "stroke": "#7D3380"
       }
     },
     {
@@ -38599,7 +38599,7 @@
       },
       "properties": {
         "title": "nort2945 -> nort2945: Seward Alaska Inupiatun",
-        "marker-color": "#51CC7C"
+        "marker-color": "#7D3380"
       }
     },
     {
@@ -39157,7 +39157,7 @@
       },
       "properties": {
         "title": "nsen1242: Nsenga",
-        "fill": "#338080",
+        "fill": "#593380",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "nsen1242",
         "fill-opacity": 0.5,
@@ -39168,7 +39168,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 75 Mozambique [33]', 'Map 77 Zambia [20b]']",
-        "stroke": "#338080"
+        "stroke": "#593380"
       }
     },
     {
@@ -39182,7 +39182,7 @@
       },
       "properties": {
         "title": "nsen1242 -> nsen1242: Nsenga",
-        "marker-color": "#338080"
+        "marker-color": "#593380"
       }
     },
     {
@@ -40662,7 +40662,7 @@
       },
       "properties": {
         "title": "nucl1418: Bassa",
-        "fill": "#804133",
+        "fill": "#51CC70",
         "family": "Kru",
         "cldf:languageReference": "nucl1418",
         "fill-opacity": 0.5,
@@ -40673,7 +40673,7 @@
         "Family": "Kru",
         "Speaker_Area": "languages",
         "Maps": "['Map 106 Liberia and Sierra Leone [14]']",
-        "stroke": "#804133"
+        "stroke": "#51CC70"
       }
     },
     {
@@ -40687,7 +40687,7 @@
       },
       "properties": {
         "title": "nucl1418 -> nucl1418: Bassa",
-        "marker-color": "#804133"
+        "marker-color": "#51CC70"
       }
     },
     {
@@ -41003,7 +41003,7 @@
       },
       "properties": {
         "title": "nucl1440: Masalit",
-        "fill": "#338046",
+        "fill": "#3C3380",
         "family": "Maban",
         "cldf:languageReference": "nucl1440",
         "fill-opacity": 0.5,
@@ -41014,7 +41014,7 @@
         "Family": "Maban",
         "Speaker_Area": "languages",
         "Maps": "['Map 71 North-East Africa [71]', 'Map 72 Sudan and the Horn of Africa [113]']",
-        "stroke": "#338046"
+        "stroke": "#3C3380"
       }
     },
     {
@@ -41028,7 +41028,7 @@
       },
       "properties": {
         "title": "nucl1440 -> nucl1440: Masalit",
-        "marker-color": "#338046"
+        "marker-color": "#3C3380"
       }
     },
     {
@@ -41774,7 +41774,7 @@
       },
       "properties": {
         "title": "nyan1305: Nyaneka",
-        "fill": "#CC5751",
+        "fill": "#338046",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "nyan1305",
         "fill-opacity": 0.5,
@@ -41785,7 +41785,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 84 Angola [29a]', 'Map 84 Angola [29d]']",
-        "stroke": "#CC5751"
+        "stroke": "#338046"
       }
     },
     {
@@ -41799,7 +41799,7 @@
       },
       "properties": {
         "title": "nyan1305 -> nyan1305: Nyaneka",
-        "marker-color": "#CC5751"
+        "marker-color": "#338046"
       }
     },
     {
@@ -41993,7 +41993,7 @@
       },
       "properties": {
         "title": "nyon1241: Nyong",
-        "fill": "#51CCB5",
+        "fill": "#608033",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "nyon1241",
         "fill-opacity": 0.5,
@@ -42004,7 +42004,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 98 North-Eastern Nigeria [23]']",
-        "stroke": "#51CCB5"
+        "stroke": "#608033"
       }
     },
     {
@@ -42018,7 +42018,7 @@
       },
       "properties": {
         "title": "nyon1241 -> nyon1241: Nyong",
-        "marker-color": "#51CCB5"
+        "marker-color": "#608033"
       }
     },
     {
@@ -42144,7 +42144,7 @@
       },
       "properties": {
         "title": "okpe1250: Okpe (Southwestern Edo)",
-        "fill": "#593380",
+        "fill": "#CC8051",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "okpe1250",
         "fill-opacity": 0.5,
@@ -42155,7 +42155,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 101 South-Western Nigeria [63e]']",
-        "stroke": "#593380"
+        "stroke": "#CC8051"
       }
     },
     {
@@ -42169,7 +42169,7 @@
       },
       "properties": {
         "title": "okpe1250 -> okpe1250: Okpe (Southwestern Edo)",
-        "marker-color": "#593380"
+        "marker-color": "#CC8051"
       }
     },
     {
@@ -42327,7 +42327,7 @@
       },
       "properties": {
         "title": "orma1241: Orma",
-        "fill": "#337880",
+        "fill": "#CC515D",
         "family": "Afro-Asiatic",
         "cldf:languageReference": "orma1241",
         "fill-opacity": 0.5,
@@ -42338,7 +42338,7 @@
         "Family": "Afro-Asiatic",
         "Speaker_Area": "languages",
         "Maps": "['Map 85 Kenyan Coast [43f]']",
-        "stroke": "#337880"
+        "stroke": "#CC515D"
       }
     },
     {
@@ -42352,7 +42352,7 @@
       },
       "properties": {
         "title": "orma1241 -> orma1241: Orma",
-        "marker-color": "#337880"
+        "marker-color": "#CC515D"
       }
     },
     {
@@ -42532,7 +42532,7 @@
       },
       "properties": {
         "title": "otta1242: Ottawa",
-        "fill": "#51CCAA",
+        "fill": "#CC51B9",
         "family": "Algic",
         "cldf:languageReference": "otta1242",
         "fill-opacity": 0.5,
@@ -42543,7 +42543,7 @@
         "Family": "Algic",
         "Speaker_Area": "languages",
         "Maps": "['Map 7 Northern North America: Time of Contact [77]']",
-        "stroke": "#51CCAA"
+        "stroke": "#CC51B9"
       }
     },
     {
@@ -42557,7 +42557,7 @@
       },
       "properties": {
         "title": "otta1242 -> otta1242: Ottawa",
-        "marker-color": "#51CCAA"
+        "marker-color": "#CC51B9"
       }
     },
     {
@@ -42817,7 +42817,7 @@
       },
       "properties": {
         "title": "otuk1240: Otuke",
-        "fill": "#CC51AE",
+        "fill": "#804833",
         "family": "Bororoan",
         "cldf:languageReference": "otuk1240",
         "fill-opacity": 0.5,
@@ -42828,7 +42828,7 @@
         "Family": "Bororoan",
         "Speaker_Area": "languages",
         "Maps": "['Map 18 Brazilian Atlantic Coast: Time of Contact [280]']",
-        "stroke": "#CC51AE"
+        "stroke": "#804833"
       }
     },
     {
@@ -42842,7 +42842,7 @@
       },
       "properties": {
         "title": "otuk1240 -> otuk1240: Otuke",
-        "marker-color": "#CC51AE"
+        "marker-color": "#804833"
       }
     },
     {
@@ -43250,7 +43250,7 @@
       },
       "properties": {
         "title": "paca1246: Pacahuara",
-        "fill": "#6F3380",
+        "fill": "#519ECC",
         "family": "Pano-Tacanan",
         "cldf:languageReference": "paca1246",
         "fill-opacity": 0.5,
@@ -43261,7 +43261,7 @@
         "Family": "Pano-Tacanan",
         "Speaker_Area": "languages",
         "Maps": "['Map 14 Northern Pacific Coast: Time of Contact [233]']",
-        "stroke": "#6F3380"
+        "stroke": "#519ECC"
       }
     },
     {
@@ -43275,7 +43275,7 @@
       },
       "properties": {
         "title": "paca1246 -> paca1246: Pacahuara",
-        "marker-color": "#6F3380"
+        "marker-color": "#519ECC"
       }
     },
     {
@@ -43389,7 +43389,7 @@
       },
       "properties": {
         "title": "pamb1243: Pambia",
-        "fill": "#6CCC51",
+        "fill": "#51CCC1",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "pamb1243",
         "fill-opacity": 0.5,
@@ -43400,7 +43400,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 79 Democratic Republic of Congo: Orienta [45]']",
-        "stroke": "#6CCC51"
+        "stroke": "#51CCC1"
       }
     },
     {
@@ -43414,7 +43414,7 @@
       },
       "properties": {
         "title": "pamb1243 -> pamb1243: Pambia",
-        "marker-color": "#6CCC51"
+        "marker-color": "#51CCC1"
       }
     },
     {
@@ -43536,7 +43536,7 @@
       },
       "properties": {
         "title": "pank1250: Pankarar\u00fa",
-        "fill": "#80335E",
+        "fill": "#334680",
         "family": null,
         "cldf:languageReference": "pank1250",
         "fill-opacity": 0.5,
@@ -43547,7 +43547,7 @@
         "Family": "None",
         "Speaker_Area": "languages",
         "Maps": "['Map 18 Brazilian Atlantic Coast: Time of Contact [317]']",
-        "stroke": "#80335E"
+        "stroke": "#334680"
       }
     },
     {
@@ -43561,7 +43561,7 @@
       },
       "properties": {
         "title": "pank1250 -> pank1250: Pankarar\u00fa",
-        "marker-color": "#80335E"
+        "marker-color": "#334680"
       }
     },
     {
@@ -43649,7 +43649,7 @@
       },
       "properties": {
         "title": "para1299: Parachi",
-        "fill": "#9A51CC",
+        "fill": "#7D8033",
         "family": "Indo-European",
         "cldf:languageReference": "para1299",
         "fill-opacity": 0.5,
@@ -43660,7 +43660,7 @@
         "Family": "Indo-European",
         "Speaker_Area": "languages",
         "Maps": "['Map 53 Iran, Afghanistan and Pakistan [23]']",
-        "stroke": "#9A51CC"
+        "stroke": "#7D8033"
       }
     },
     {
@@ -43674,7 +43674,7 @@
       },
       "properties": {
         "title": "para1299 -> para1299: Parachi",
-        "marker-color": "#9A51CC"
+        "marker-color": "#7D8033"
       }
     },
     {
@@ -43880,7 +43880,7 @@
       },
       "properties": {
         "title": "para1310: Par\u00e1 Ar\u00e1ra",
-        "fill": "#338078",
+        "fill": "#4B8033",
         "family": "Cariban",
         "cldf:languageReference": "para1310",
         "fill-opacity": 0.5,
@@ -43891,7 +43891,7 @@
         "Family": "Cariban",
         "Speaker_Area": "languages",
         "Maps": "['Map 18 Brazilian Atlantic Coast: Time of Contact [414]']",
-        "stroke": "#338078"
+        "stroke": "#4B8033"
       }
     },
     {
@@ -43905,7 +43905,7 @@
       },
       "properties": {
         "title": "para1310 -> para1310: Par\u00e1 Ar\u00e1ra",
-        "marker-color": "#338078"
+        "marker-color": "#4B8033"
       }
     },
     {
@@ -44161,7 +44161,7 @@
       },
       "properties": {
         "title": "paus1244: War\u00e1zu",
-        "fill": "#55CC51",
+        "fill": "#80333A",
         "family": "Tupian",
         "cldf:languageReference": "paus1244",
         "fill-opacity": 0.5,
@@ -44172,7 +44172,7 @@
         "Family": "Tupian",
         "Speaker_Area": "languages",
         "Maps": "['Map 20 Central Pacific Coast: Time of Contact [339]']",
-        "stroke": "#55CC51"
+        "stroke": "#80333A"
       }
     },
     {
@@ -44186,7 +44186,7 @@
       },
       "properties": {
         "title": "paus1244 -> paus1244: War\u00e1zu",
-        "marker-color": "#55CC51"
+        "marker-color": "#80333A"
       }
     },
     {
@@ -44410,7 +44410,7 @@
       },
       "properties": {
         "title": "paya1236: Payagua",
-        "fill": "#443380",
+        "fill": "#CC5174",
         "family": null,
         "cldf:languageReference": "paya1236",
         "fill-opacity": 0.5,
@@ -44421,7 +44421,7 @@
         "Family": "None",
         "Speaker_Area": "languages",
         "Maps": "['Map 18 Brazilian Atlantic Coast: Time of Contact [266]']",
-        "stroke": "#443380"
+        "stroke": "#CC5174"
       }
     },
     {
@@ -44435,7 +44435,7 @@
       },
       "properties": {
         "title": "paya1236 -> paya1236: Payagua",
-        "marker-color": "#443380"
+        "marker-color": "#CC5174"
       }
     },
     {
@@ -44501,7 +44501,7 @@
       },
       "properties": {
         "title": "pend1242: Pendau",
-        "fill": "#61CC51",
+        "fill": "#51CC87",
         "family": "Austronesian",
         "cldf:languageReference": "pend1242",
         "fill-opacity": 0.5,
@@ -44512,7 +44512,7 @@
         "Family": "Austronesian",
         "Speaker_Area": "languages",
         "Maps": "['Map 39 Sulawesi [26]']",
-        "stroke": "#61CC51"
+        "stroke": "#51CC87"
       }
     },
     {
@@ -44526,7 +44526,7 @@
       },
       "properties": {
         "title": "pend1242 -> pend1242: Pendau",
-        "marker-color": "#61CC51"
+        "marker-color": "#51CC87"
       }
     },
     {
@@ -44624,7 +44624,7 @@
       },
       "properties": {
         "title": "peng1244: Pengo",
-        "fill": "#805033",
+        "fill": "#5159CC",
         "family": "Dravidian",
         "cldf:languageReference": "peng1244",
         "fill-opacity": 0.5,
@@ -44635,7 +44635,7 @@
         "Family": "Dravidian",
         "Speaker_Area": "languages",
         "Maps": "['Map 51 North-East India, Bangladesh, Bhutan and Nepal [196]']",
-        "stroke": "#805033"
+        "stroke": "#5159CC"
       }
     },
     {
@@ -44649,7 +44649,7 @@
       },
       "properties": {
         "title": "peng1244 -> peng1244: Pengo",
-        "marker-color": "#805033"
+        "marker-color": "#5159CC"
       }
     },
     {
@@ -46189,7 +46189,7 @@
       },
       "properties": {
         "title": "phua1239: Phuan",
-        "fill": "#528033",
+        "fill": "#51CCAA",
         "family": "Tai-Kadai",
         "cldf:languageReference": "phua1239",
         "fill-opacity": 0.5,
@@ -46200,7 +46200,7 @@
         "Family": "Tai-Kadai",
         "Speaker_Area": "languages",
         "Maps": "['Map 47 Northern Thailand, Laos and Vietnam [25]', 'Map 48 Southern Thailand, Laos and Vietnam, and Cambodia [19]']",
-        "stroke": "#528033"
+        "stroke": "#51CCAA"
       }
     },
     {
@@ -46214,7 +46214,7 @@
       },
       "properties": {
         "title": "phua1239 -> phua1239: Phuan",
-        "marker-color": "#528033"
+        "marker-color": "#51CCAA"
       }
     },
     {
@@ -46380,7 +46380,7 @@
       },
       "properties": {
         "title": "pime1237: Pimenteira",
-        "fill": "#7851CC",
+        "fill": "#5551CC",
         "family": "Cariban",
         "cldf:languageReference": "pime1237",
         "fill-opacity": 0.5,
@@ -46391,7 +46391,7 @@
         "Family": "Cariban",
         "Speaker_Area": "languages",
         "Maps": "['Map 18 Brazilian Atlantic Coast: Time of Contact [420]']",
-        "stroke": "#7851CC"
+        "stroke": "#5551CC"
       }
     },
     {
@@ -46405,7 +46405,7 @@
       },
       "properties": {
         "title": "pime1237 -> pime1237: Pimenteira",
-        "marker-color": "#7851CC"
+        "marker-color": "#5551CC"
       }
     },
     {
@@ -46723,7 +46723,7 @@
       },
       "properties": {
         "title": "pint1250: Pintupi-Luritja",
-        "fill": "#5187CC",
+        "fill": "#333880",
         "family": "Pama-Nyungan",
         "cldf:languageReference": "pint1250",
         "fill-opacity": 0.5,
@@ -46734,7 +46734,7 @@
         "Family": "Pama-Nyungan",
         "Speaker_Area": "languages",
         "Maps": "['Map 35 Australia: Time of Contact [157]']",
-        "stroke": "#5187CC"
+        "stroke": "#333880"
       }
     },
     {
@@ -46748,7 +46748,7 @@
       },
       "properties": {
         "title": "pint1250 -> pint1250: Pintupi-Luritja",
-        "marker-color": "#5187CC"
+        "marker-color": "#333880"
       }
     },
     {
@@ -47194,7 +47194,7 @@
       },
       "properties": {
         "title": "plai1258: Plains Cree",
-        "fill": "#338038",
+        "fill": "#688033",
         "family": "Algic",
         "cldf:languageReference": "plai1258",
         "fill-opacity": 0.5,
@@ -47205,7 +47205,7 @@
         "Family": "Algic",
         "Speaker_Area": "languages",
         "Maps": "['Map 7 Northern North America: Time of Contact [62]']",
-        "stroke": "#338038"
+        "stroke": "#688033"
       }
     },
     {
@@ -47219,7 +47219,7 @@
       },
       "properties": {
         "title": "plai1258 -> plai1258: Plains Cree",
-        "marker-color": "#338038"
+        "marker-color": "#688033"
       }
     },
     {
@@ -47385,7 +47385,7 @@
       },
       "properties": {
         "title": "puqu1242: Puquina",
-        "fill": "#9ACC51",
+        "fill": "#517CCC",
         "family": null,
         "cldf:languageReference": "puqu1242",
         "fill-opacity": 0.5,
@@ -47396,7 +47396,7 @@
         "Family": "None",
         "Speaker_Area": "languages",
         "Maps": "['Map 20 Central Pacific Coast: Time of Contact [211]']",
-        "stroke": "#9ACC51"
+        "stroke": "#517CCC"
       }
     },
     {
@@ -47410,7 +47410,7 @@
       },
       "properties": {
         "title": "puqu1242 -> puqu1242: Puquina",
-        "marker-color": "#9ACC51"
+        "marker-color": "#517CCC"
       }
     },
     {
@@ -47486,7 +47486,7 @@
       },
       "properties": {
         "title": "raut1239: Raute",
-        "fill": "#335C80",
+        "fill": "#51CCCC",
         "family": "Sino-Tibetan",
         "cldf:languageReference": "raut1239",
         "fill-opacity": 0.5,
@@ -47497,7 +47497,7 @@
         "Family": "Sino-Tibetan",
         "Speaker_Area": "languages",
         "Maps": "['Map 51 North-East India, Bangladesh, Bhutan and Nepal [52]']",
-        "stroke": "#335C80"
+        "stroke": "#51CCCC"
       }
     },
     {
@@ -47511,7 +47511,7 @@
       },
       "properties": {
         "title": "raut1239 -> raut1239: Raute",
-        "marker-color": "#335C80"
+        "marker-color": "#51CCCC"
       }
     },
     {
@@ -48153,7 +48153,7 @@
       },
       "properties": {
         "title": "rung1258: Runga",
-        "fill": "#80337B",
+        "fill": "#7851CC",
         "family": "Maban",
         "cldf:languageReference": "rung1258",
         "fill-opacity": 0.5,
@@ -48164,7 +48164,7 @@
         "Family": "Maban",
         "Speaker_Area": "languages",
         "Maps": "['Map 89 Central African Republic and South-Eastern Chad [64]']",
-        "stroke": "#80337B"
+        "stroke": "#7851CC"
       }
     },
     {
@@ -48178,7 +48178,7 @@
       },
       "properties": {
         "title": "rung1258 -> rung1258: Runga",
-        "marker-color": "#80337B"
+        "marker-color": "#7851CC"
       }
     },
     {
@@ -48320,7 +48320,7 @@
       },
       "properties": {
         "title": "samb1309: Samba",
-        "fill": "#83CC51",
+        "fill": "#33805C",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "samb1309",
         "fill-opacity": 0.5,
@@ -48331,7 +48331,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 81 Democratic Republic of Congo: Kasai [58]']",
-        "stroke": "#83CC51"
+        "stroke": "#33805C"
       }
     },
     {
@@ -48345,7 +48345,7 @@
       },
       "properties": {
         "title": "samb1309 -> samb1309: Samba",
-        "marker-color": "#83CC51"
+        "marker-color": "#33805C"
       }
     },
     {
@@ -48841,7 +48841,7 @@
       },
       "properties": {
         "title": "sang1336: Sangir",
-        "fill": "#608033",
+        "fill": "#338063",
         "family": "Austronesian",
         "cldf:languageReference": "sang1336",
         "fill-opacity": 0.5,
@@ -48852,7 +48852,7 @@
         "Family": "Austronesian",
         "Speaker_Area": "languages",
         "Maps": "['Map 39 Sulawesi [2]']",
-        "stroke": "#608033"
+        "stroke": "#338063"
       }
     },
     {
@@ -48866,7 +48866,7 @@
       },
       "properties": {
         "title": "sang1336 -> sang1336: Sangir",
-        "marker-color": "#608033"
+        "marker-color": "#338063"
       }
     },
     {
@@ -48908,7 +48908,7 @@
       },
       "properties": {
         "title": "shan1291: Shanjo",
-        "fill": "#517CCC",
+        "fill": "#6F3380",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "shan1291",
         "fill-opacity": 0.5,
@@ -48919,7 +48919,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 74 Southern Africa [31]', 'Map 77 Zambia [27]']",
-        "stroke": "#517CCC"
+        "stroke": "#6F3380"
       }
     },
     {
@@ -48933,7 +48933,7 @@
       },
       "properties": {
         "title": "shan1291 -> shan1291: Shanjo",
-        "marker-color": "#517CCC"
+        "marker-color": "#6F3380"
       }
     },
     {
@@ -49171,7 +49171,7 @@
       },
       "properties": {
         "title": "sius1254: Siuslaw",
-        "fill": "#803357",
+        "fill": "#803365",
         "family": null,
         "cldf:languageReference": "sius1254",
         "fill-opacity": 0.5,
@@ -49182,7 +49182,7 @@
         "Family": "None",
         "Speaker_Area": "languages",
         "Maps": "['Map 4 California: Time of Contact [18]']",
-        "stroke": "#803357"
+        "stroke": "#803365"
       }
     },
     {
@@ -49196,7 +49196,7 @@
       },
       "properties": {
         "title": "sius1254 -> sius1254: Siuslaw",
-        "marker-color": "#803357"
+        "marker-color": "#803365"
       }
     },
     {
@@ -49698,7 +49698,7 @@
       },
       "properties": {
         "title": "sode1235: So (Democratic Republic of Congo)",
-        "fill": "#BD51CC",
+        "fill": "#803348",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "sode1235",
         "fill-opacity": 0.5,
@@ -49709,7 +49709,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 79 Democratic Republic of Congo: Orienta [38]']",
-        "stroke": "#BD51CC"
+        "stroke": "#803348"
       }
     },
     {
@@ -49723,7 +49723,7 @@
       },
       "properties": {
         "title": "sode1235 -> sode1235: So (Democratic Republic of Congo)",
-        "marker-color": "#BD51CC"
+        "marker-color": "#803348"
       }
     },
     {
@@ -50037,7 +50037,7 @@
       },
       "properties": {
         "title": "song1304: Songa",
-        "fill": "#33806A",
+        "fill": "#51CCB5",
         "family": "Bookkeeping",
         "cldf:languageReference": "song1304",
         "fill-opacity": 0.5,
@@ -50048,7 +50048,7 @@
         "Family": "Bookkeeping",
         "Speaker_Area": "languages",
         "Maps": "['Map 80 Democratic Republic of Congo: Kivu [71h]']",
-        "stroke": "#33806A"
+        "stroke": "#51CCB5"
       }
     },
     {
@@ -50062,7 +50062,7 @@
       },
       "properties": {
         "title": "song1304 -> song1304: Songa",
-        "marker-color": "#33806A"
+        "marker-color": "#51CCB5"
       }
     },
     {
@@ -57224,7 +57224,7 @@
       },
       "properties": {
         "title": "soni1259: Soninke",
-        "fill": "#6151CC",
+        "fill": "#51AACC",
         "family": "Mande",
         "cldf:languageReference": "soni1259",
         "fill-opacity": 0.5,
@@ -57235,7 +57235,7 @@
         "Family": "Mande",
         "Speaker_Area": "languages",
         "Maps": "['Map 104 Burkina Faso [79]', 'Map 107 Guinea and Mali [17]', 'Map 108 Senegal, Gambia and Guinea Bissau [33]']",
-        "stroke": "#6151CC"
+        "stroke": "#51AACC"
       }
     },
     {
@@ -57249,7 +57249,7 @@
       },
       "properties": {
         "title": "soni1259 -> soni1259: Soninke",
-        "marker-color": "#6151CC"
+        "marker-color": "#51AACC"
       }
     },
     {
@@ -57539,7 +57539,7 @@
       },
       "properties": {
         "title": "sout2746: Southern Thai",
-        "fill": "#336A80",
+        "fill": "#B1CC51",
         "family": "Tai-Kadai",
         "cldf:languageReference": "sout2746",
         "fill-opacity": 0.5,
@@ -57550,7 +57550,7 @@
         "Family": "Tai-Kadai",
         "Speaker_Area": "languages",
         "Maps": "['Map 48 Southern Thailand, Laos and Vietnam, and Cambodia [21]']",
-        "stroke": "#336A80"
+        "stroke": "#B1CC51"
       }
     },
     {
@@ -57564,7 +57564,7 @@
       },
       "properties": {
         "title": "sout2746 -> sout2746: Southern Thai",
-        "marker-color": "#336A80"
+        "marker-color": "#B1CC51"
       }
     },
     {
@@ -57702,7 +57702,7 @@
       },
       "properties": {
         "title": "sout2750: Southern Yukaghir",
-        "fill": "#8351CC",
+        "fill": "#51CC65",
         "family": "Yukaghir",
         "cldf:languageReference": "sout2750",
         "fill-opacity": 0.5,
@@ -57713,7 +57713,7 @@
         "Family": "Yukaghir",
         "Speaker_Area": "languages",
         "Maps": "['Map 55 Eastern Siberia [27]']",
-        "stroke": "#8351CC"
+        "stroke": "#51CC65"
       }
     },
     {
@@ -57727,7 +57727,7 @@
       },
       "properties": {
         "title": "sout2750 -> sout2750: Southern Yukaghir",
-        "marker-color": "#8351CC"
+        "marker-color": "#51CC65"
       }
     },
     {
@@ -58251,7 +58251,7 @@
       },
       "properties": {
         "title": "suii1243: Sui",
-        "fill": "#4B8033",
+        "fill": "#803333",
         "family": "Tai-Kadai",
         "cldf:languageReference": "suii1243",
         "fill-opacity": 0.5,
@@ -58262,7 +58262,7 @@
         "Family": "Tai-Kadai",
         "Speaker_Area": "languages",
         "Maps": "['Map 45 China and Mongolia [64]']",
-        "stroke": "#4B8033"
+        "stroke": "#803333"
       }
     },
     {
@@ -58276,7 +58276,7 @@
       },
       "properties": {
         "title": "suii1243 -> suii1243: Sui",
-        "marker-color": "#4B8033"
+        "marker-color": "#803333"
       }
     },
     {
@@ -75370,7 +75370,7 @@
       },
       "properties": {
         "title": "swah1253: Swahili",
-        "fill": "#51B5CC",
+        "fill": "#CCC551",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "swah1253",
         "fill-opacity": 0.5,
@@ -75381,7 +75381,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 72 Sudan and the Horn of Africa [196]', 'Map 76 Southern Tanzania [1]', 'Map 76 Southern Tanzania [1a]', 'Map 76 Southern Tanzania [1b]', 'Map 76 Southern Tanzania [1c]', 'Map 76 Southern Tanzania [1d]', 'Map 76 Southern Tanzania [1e]', 'Map 76 Southern Tanzania [1f]', 'Map 85 Kenyan Coast [1a]', 'Map 85 Kenyan Coast [1f]', 'Map 85 Kenyan Coast [1g]', 'Map 85 Kenyan Coast [1h]', 'Map 85 Kenyan Coast [1i]', 'Map 85 Kenyan Coast [1j]', 'Map 85 Kenyan Coast [1k]', 'Map 85 Kenyan Coast [1m]']",
-        "stroke": "#51B5CC"
+        "stroke": "#CCC551"
       }
     },
     {
@@ -75395,7 +75395,7 @@
       },
       "properties": {
         "title": "swah1253 -> swah1253: Swahili",
-        "marker-color": "#51B5CC"
+        "marker-color": "#CCC551"
       }
     },
     {
@@ -75601,7 +75601,7 @@
       },
       "properties": {
         "title": "tacu1234: Tacunyape",
-        "fill": "#CCAE51",
+        "fill": "#B151CC",
         "family": "Tupian",
         "cldf:languageReference": "tacu1234",
         "fill-opacity": 0.5,
@@ -75612,7 +75612,7 @@
         "Family": "Tupian",
         "Speaker_Area": "languages",
         "Maps": "['Map 18 Brazilian Atlantic Coast: Time of Contact [351]']",
-        "stroke": "#CCAE51"
+        "stroke": "#B151CC"
       }
     },
     {
@@ -75626,7 +75626,7 @@
       },
       "properties": {
         "title": "tacu1234 -> tacu1234: Tacunyape",
-        "marker-color": "#CCAE51"
+        "marker-color": "#B151CC"
       }
     },
     {
@@ -75716,7 +75716,7 @@
       },
       "properties": {
         "title": "tada1238: Tadaksahak",
-        "fill": "#CCB951",
+        "fill": "#CC6851",
         "family": "Songhay",
         "cldf:languageReference": "tada1238",
         "fill-opacity": 0.5,
@@ -75727,7 +75727,7 @@
         "Family": "Songhay",
         "Speaker_Area": "languages",
         "Maps": "['Map 73 North-West Africa [81]']",
-        "stroke": "#CCB951"
+        "stroke": "#CC6851"
       }
     },
     {
@@ -75741,7 +75741,7 @@
       },
       "properties": {
         "title": "tada1238 -> tada1238: Tadaksahak",
-        "marker-color": "#CCB951"
+        "marker-color": "#CC6851"
       }
     },
     {
@@ -75831,7 +75831,7 @@
       },
       "properties": {
         "title": "tali1257: Talieng",
-        "fill": "#CC7451",
+        "fill": "#CC51AE",
         "family": "Austroasiatic",
         "cldf:languageReference": "tali1257",
         "fill-opacity": 0.5,
@@ -75842,7 +75842,7 @@
         "Family": "Austroasiatic",
         "Speaker_Area": "languages",
         "Maps": "['Map 47 Northern Thailand, Laos and Vietnam [63]', 'Map 48 Southern Thailand, Laos and Vietnam, and Cambodia [64]']",
-        "stroke": "#CC7451"
+        "stroke": "#CC51AE"
       }
     },
     {
@@ -75856,7 +75856,7 @@
       },
       "properties": {
         "title": "tali1257 -> tali1257: Talieng",
-        "marker-color": "#CC7451"
+        "marker-color": "#CC51AE"
       }
     },
     {
@@ -76062,7 +76062,7 @@
       },
       "properties": {
         "title": "tapa1262: Taparita",
-        "fill": "#358033",
+        "fill": "#763380",
         "family": "Otomaco-Taparita",
         "cldf:languageReference": "tapa1262",
         "fill-opacity": 0.5,
@@ -76073,7 +76073,7 @@
         "Family": "Otomaco-Taparita",
         "Speaker_Area": "languages",
         "Maps": "['Map 12 Northern South America: Time of Contact [56]']",
-        "stroke": "#358033"
+        "stroke": "#763380"
       }
     },
     {
@@ -76087,7 +76087,7 @@
       },
       "properties": {
         "title": "tapa1262 -> tapa1262: Taparita",
-        "marker-color": "#358033"
+        "marker-color": "#763380"
       }
     },
     {
@@ -76177,7 +76177,7 @@
       },
       "properties": {
         "title": "than1259: Thangmi",
-        "fill": "#337180",
+        "fill": "#807433",
         "family": "Sino-Tibetan",
         "cldf:languageReference": "than1259",
         "fill-opacity": 0.5,
@@ -76188,7 +76188,7 @@
         "Family": "Sino-Tibetan",
         "Speaker_Area": "languages",
         "Maps": "['Map 51 North-East India, Bangladesh, Bhutan and Nepal [48]']",
-        "stroke": "#337180"
+        "stroke": "#807433"
       }
     },
     {
@@ -76202,7 +76202,7 @@
       },
       "properties": {
         "title": "than1259 -> than1259: Thangmi",
-        "marker-color": "#337180"
+        "marker-color": "#807433"
       }
     },
     {
@@ -76376,7 +76376,7 @@
       },
       "properties": {
         "title": "toba1268: Toba-Enenlhet",
-        "fill": "#A6CC51",
+        "fill": "#CC5180",
         "family": "Lengua-Mascoy",
         "cldf:languageReference": "toba1268",
         "fill-opacity": 0.5,
@@ -76387,7 +76387,7 @@
         "Family": "Lengua-Mascoy",
         "Speaker_Area": "languages",
         "Maps": "['Map 18 Brazilian Atlantic Coast: Time of Contact [272]']",
-        "stroke": "#A6CC51"
+        "stroke": "#CC5180"
       }
     },
     {
@@ -76401,7 +76401,7 @@
       },
       "properties": {
         "title": "toba1268 -> toba1268: Toba-Enenlhet",
-        "marker-color": "#A6CC51"
+        "marker-color": "#CC5180"
       }
     },
     {
@@ -76679,7 +76679,7 @@
       },
       "properties": {
         "title": "toba1269: Toba",
-        "fill": "#338071",
+        "fill": "#337880",
         "family": "Guaicuruan",
         "cldf:languageReference": "toba1269",
         "fill-opacity": 0.5,
@@ -76690,7 +76690,7 @@
         "Family": "Guaicuruan",
         "Speaker_Area": "languages",
         "Maps": "['Map 20 Central Pacific Coast: Time of Contact [262]']",
-        "stroke": "#338071"
+        "stroke": "#337880"
       }
     },
     {
@@ -76704,7 +76704,7 @@
       },
       "properties": {
         "title": "toba1269 -> toba1269: Toba",
-        "marker-color": "#338071"
+        "marker-color": "#337880"
       }
     },
     {
@@ -76858,7 +76858,7 @@
       },
       "properties": {
         "title": "topo1242: Toposa",
-        "fill": "#CC5180",
+        "fill": "#528033",
         "family": "Nilotic",
         "cldf:languageReference": "topo1242",
         "fill-opacity": 0.5,
@@ -76869,7 +76869,7 @@
         "Family": "Nilotic",
         "Speaker_Area": "languages",
         "Maps": "['Map 72 Sudan and the Horn of Africa [166]']",
-        "stroke": "#CC5180"
+        "stroke": "#528033"
       }
     },
     {
@@ -76883,7 +76883,7 @@
       },
       "properties": {
         "title": "topo1242 -> topo1242: Toposa",
-        "marker-color": "#CC5180"
+        "marker-color": "#528033"
       }
     },
     {
@@ -77041,7 +77041,7 @@
       },
       "properties": {
         "title": "tuni1252: Tunica",
-        "fill": "#803350",
+        "fill": "#51CC9E",
         "family": null,
         "cldf:languageReference": "tuni1252",
         "fill-opacity": 0.5,
@@ -77052,7 +77052,7 @@
         "Family": "None",
         "Speaker_Area": "languages",
         "Maps": "['Map 2 South-Eastern North America: Time of Contact [34]']",
-        "stroke": "#803350"
+        "stroke": "#51CC9E"
       }
     },
     {
@@ -77066,7 +77066,7 @@
       },
       "properties": {
         "title": "tuni1252 -> tuni1252: Tunica",
-        "marker-color": "#803350"
+        "marker-color": "#51CC9E"
       }
     },
     {
@@ -77244,7 +77244,7 @@
       },
       "properties": {
         "title": "tunz1235: Tunzu",
-        "fill": "#51CC59",
+        "fill": "#CC518B",
         "family": "Atlantic-Congo",
         "cldf:languageReference": "tunz1235",
         "fill-opacity": 0.5,
@@ -77255,7 +77255,7 @@
         "Family": "Atlantic-Congo",
         "Speaker_Area": "languages",
         "Maps": "['Map 96 South Plateau, Nigeria [6]', 'Map 97 North Plateau, Nigeria [49]']",
-        "stroke": "#51CC59"
+        "stroke": "#CC518B"
       }
     },
     {
@@ -77269,7 +77269,7 @@
       },
       "properties": {
         "title": "tunz1235 -> tunz1235: Tunzu",
-        "marker-color": "#51CC59"
+        "marker-color": "#CC518B"
       }
     },
     {
@@ -77395,7 +77395,7 @@
       },
       "properties": {
         "title": "tuxi1238: Tuxin\u00e1wa",
-        "fill": "#51CC93",
+        "fill": "#CC51C5",
         "family": "Pano-Tacanan",
         "cldf:languageReference": "tuxi1238",
         "fill-opacity": 0.5,
@@ -77406,7 +77406,7 @@
         "Family": "Pano-Tacanan",
         "Speaker_Area": "languages",
         "Maps": "['Map 14 Northern Pacific Coast: Time of Contact [223]']",
-        "stroke": "#51CC93"
+        "stroke": "#CC51C5"
       }
     },
     {
@@ -77420,7 +77420,7 @@
       },
       "properties": {
         "title": "tuxi1238 -> tuxi1238: Tuxin\u00e1wa",
-        "marker-color": "#51CC93"
+        "marker-color": "#CC51C5"
       }
     },
     {
@@ -77534,7 +77534,7 @@
       },
       "properties": {
         "title": "uain1239: Uainuma-Mariate",
-        "fill": "#80333A",
+        "fill": "#A6CC51",
         "family": "Arawakan",
         "cldf:languageReference": "uain1239",
         "fill-opacity": 0.5,
@@ -77545,7 +77545,7 @@
         "Family": "Arawakan",
         "Speaker_Area": "languages",
         "Maps": "['Map 16 Western Brazil: Time of Contact [72]']",
-        "stroke": "#80333A"
+        "stroke": "#A6CC51"
       }
     },
     {
@@ -77559,7 +77559,7 @@
       },
       "properties": {
         "title": "uain1239 -> uain1239: Uainuma-Mariate",
-        "marker-color": "#80333A"
+        "marker-color": "#A6CC51"
       }
     },
     {
@@ -77729,7 +77729,7 @@
       },
       "properties": {
         "title": "ulch1241: Ulch",
-        "fill": "#5193CC",
+        "fill": "#5165CC",
         "family": "Tungusic",
         "cldf:languageReference": "ulch1241",
         "fill-opacity": 0.5,
@@ -77740,7 +77740,7 @@
         "Family": "Tungusic",
         "Speaker_Area": "languages",
         "Maps": "['Map 55 Eastern Siberia [13]']",
-        "stroke": "#5193CC"
+        "stroke": "#5165CC"
       }
     },
     {
@@ -77754,7 +77754,7 @@
       },
       "properties": {
         "title": "ulch1241 -> ulch1241: Ulch",
-        "marker-color": "#5193CC"
+        "marker-color": "#5165CC"
       }
     },
     {
@@ -78074,7 +78074,7 @@
       },
       "properties": {
         "title": "uppe1455: Upper Guinea Crioulo",
-        "fill": "#763380",
+        "fill": "#CCB951",
         "family": "Indo-European",
         "cldf:languageReference": "uppe1455",
         "fill-opacity": 0.5,
@@ -78085,7 +78085,7 @@
         "Family": "Indo-European",
         "Speaker_Area": "languages",
         "Maps": "['Map 108 Senegal, Gambia and Guinea Bissau [C]']",
-        "stroke": "#763380"
+        "stroke": "#CCB951"
       }
     },
     {
@@ -78099,7 +78099,7 @@
       },
       "properties": {
         "title": "uppe1455 -> uppe1455: Upper Guinea Crioulo",
-        "marker-color": "#763380"
+        "marker-color": "#CCB951"
       }
     },
     {
@@ -85803,7 +85803,7 @@
       },
       "properties": {
         "title": "vase1234: Northern Ju",
-        "fill": "#5170CC",
+        "fill": "#51CC7C",
         "family": "Kxa",
         "cldf:languageReference": "vase1234",
         "fill-opacity": 0.5,
@@ -85814,7 +85814,7 @@
         "Family": "Kxa",
         "Speaker_Area": "languages",
         "Maps": "['Map 74 Southern Africa [60]', 'Map 84 Angola [49]']",
-        "stroke": "#5170CC"
+        "stroke": "#51CC7C"
       }
     },
     {
@@ -85828,7 +85828,7 @@
       },
       "properties": {
         "title": "vase1234 -> vase1234: Northern Ju",
-        "marker-color": "#5170CC"
+        "marker-color": "#51CC7C"
       }
     },
     {
@@ -85990,7 +85990,7 @@
       },
       "properties": {
         "title": "west2721: West Central Oromo",
-        "fill": "#51AACC",
+        "fill": "#338071",
         "family": "Afro-Asiatic",
         "cldf:languageReference": "west2721",
         "fill-opacity": 0.5,
@@ -86001,7 +86001,7 @@
         "Family": "Afro-Asiatic",
         "Speaker_Area": "languages",
         "Maps": "['Map 72 Sudan and the Horn of Africa [93]']",
-        "stroke": "#51AACC"
+        "stroke": "#338071"
       }
     },
     {
@@ -86015,7 +86015,7 @@
       },
       "properties": {
         "title": "west2721 -> west2721: West Central Oromo",
-        "marker-color": "#51AACC"
+        "marker-color": "#338071"
       }
     },
     {
@@ -86361,7 +86361,7 @@
       },
       "properties": {
         "title": "wiyo1248: Wiyot",
-        "fill": "#C851CC",
+        "fill": "#51CC59",
         "family": "Algic",
         "cldf:languageReference": "wiyo1248",
         "fill-opacity": 0.5,
@@ -86372,7 +86372,7 @@
         "Family": "Algic",
         "Speaker_Area": "languages",
         "Maps": "['Map 4 California: Time of Contact [32]']",
-        "stroke": "#C851CC"
+        "stroke": "#51CC59"
       }
     },
     {
@@ -86386,7 +86386,7 @@
       },
       "properties": {
         "title": "wiyo1248 -> wiyo1248: Wiyot",
-        "marker-color": "#C851CC"
+        "marker-color": "#51CC59"
       }
     },
     {
@@ -86804,7 +86804,7 @@
       },
       "properties": {
         "title": "xakr1238: Xakriab\u00e1",
-        "fill": "#807433",
+        "fill": "#CC5751",
         "family": "Nuclear-Macro-Je",
         "cldf:languageReference": "xakr1238",
         "fill-opacity": 0.5,
@@ -86815,7 +86815,7 @@
         "Family": "Nuclear-Macro-Je",
         "Speaker_Area": "languages",
         "Maps": "['Map 18 Brazilian Atlantic Coast: Time of Contact [293]']",
-        "stroke": "#807433"
+        "stroke": "#CC5751"
       }
     },
     {
@@ -86829,7 +86829,7 @@
       },
       "properties": {
         "title": "xakr1238 -> xakr1238: Xakriab\u00e1",
-        "marker-color": "#807433"
+        "marker-color": "#CC5751"
       }
     },
     {
@@ -87159,7 +87159,7 @@
       },
       "properties": {
         "title": "xokl1240: Xokleng",
-        "fill": "#7D8033",
+        "fill": "#805033",
         "family": "Nuclear-Macro-Je",
         "cldf:languageReference": "xokl1240",
         "fill-opacity": 0.5,
@@ -87170,7 +87170,7 @@
         "Family": "Nuclear-Macro-Je",
         "Speaker_Area": "languages",
         "Maps": "['Map 18 Brazilian Atlantic Coast: Time of Contact [295]']",
-        "stroke": "#7D8033"
+        "stroke": "#805033"
       }
     },
     {
@@ -87184,7 +87184,7 @@
       },
       "properties": {
         "title": "xokl1240 -> xokl1240: Xokleng",
-        "marker-color": "#7D8033"
+        "marker-color": "#805033"
       }
     },
     {
@@ -87870,7 +87870,7 @@
       },
       "properties": {
         "title": "yaqu1251: Yaqui",
-        "fill": "#7D3380",
+        "fill": "#51CC93",
         "family": "Uto-Aztecan",
         "cldf:languageReference": "yaqu1251",
         "fill-opacity": 0.5,
@@ -87881,7 +87881,7 @@
         "Family": "Uto-Aztecan",
         "Speaker_Area": "languages",
         "Maps": "['Map 3 South-Western North America: Time of Contact [33]']",
-        "stroke": "#7D3380"
+        "stroke": "#51CC93"
       }
     },
     {
@@ -87895,7 +87895,7 @@
       },
       "properties": {
         "title": "yaqu1251 -> yaqu1251: Yaqui",
-        "marker-color": "#7D3380"
+        "marker-color": "#51CC93"
       }
     },
     {
@@ -88153,7 +88153,7 @@
       },
       "properties": {
         "title": "yaum1238: Yauma",
-        "fill": "#CC6851",
+        "fill": "#CC5D51",
         "family": "Bookkeeping",
         "cldf:languageReference": "yaum1238",
         "fill-opacity": 0.5,
@@ -88164,7 +88164,7 @@
         "Family": "Bookkeeping",
         "Speaker_Area": "languages",
         "Maps": "['Map 84 Angola [46a]']",
-        "stroke": "#CC6851"
+        "stroke": "#CC5D51"
       }
     },
     {
@@ -88178,7 +88178,7 @@
       },
       "properties": {
         "title": "yaum1238 -> yaum1238: Yauma",
-        "marker-color": "#CC6851"
+        "marker-color": "#CC5D51"
       }
     }
   ],

@@ -7,9 +7,8 @@ bibtexparser==2.0.0b7
 bs4==0.0.2
 certifi==2024.8.30
 chardet==5.2.0
--e git+https://github.com/cldf/cldfbench@d236187b6c73bcedd995bfc5f41bc9b0460cd128#egg=cldfbench
--e git+https://github.com/Glottography/asher2007world@7555d4ad5c852ef4167d43770fc84ec1f063edc4#egg=cldfbench_asher2007world
--e git+https://github.com/Glottography/walker2011bayesian@5aa501b6eb744b1758509e2e78acbe1ba66a449c#egg=cldfbench_walker2011bayesian
+cldfbench==1.14.1
+-e git+https://github.com/Glottography/asher2007world@2229c29f72636d70800520679390036639b097ca#egg=cldfbench_asher2007world
 cldfcatalog==1.5.1
 cldfgeojson==1.4.0
 cldfzenodo==2.1.2
