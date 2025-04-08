@@ -1,0 +1,4 @@
+ID,Name,Description,Media_Type,Download_URL,Path_In_Zip
+features,contemporary areas depicted in the source,,application/geo+json,features.geojson,
+languages,Speaker areas for languages (contemporary),"Speaker areas aggregated for Glottolog language-level languoids, color-coded by family.",application/geo+json,languages.geojson,
+families,Speaker areas for families (contemporary),"Speaker areas aggregated for Glottolog family-level languoids, color-coded by family.",application/geo+json,families.geojson,
