@@ -223,6 +223,15 @@ class Dataset(pyglottography.Dataset):
         return add_markdown_text(
             cldfbench.Dataset.cmd_readme(self, args),
             """
+This Glottography dataset provides **two** sets of speaker areas for the languages of the world:
+- *contemporary* speaker areas ([cldf/contemporary](cldf/contemporary/)) and
+- *traditional* (aka "time of contact") speaker areas ([cldf/traditional](cldf/traditional/));
+
+following the distinction made by Asher &amp; Moseley 2007 for their maps of the Americas and Australia.
+In order to provide two sets with global coverage, we supplemented the *traditional* set with the
+areas depicted in the contemporary maps for the other macroareas, taking current distribution as proxy
+for time-of-contact data in regions presumably less affected by colonialism.
+
 
 ### Coverage
 

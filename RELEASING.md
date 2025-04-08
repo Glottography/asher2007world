@@ -145,7 +145,7 @@ cldfbench cldfreadme cldfbench_asher2007world.py
 ```
 
 ```shell
-cldfbench zenodo cldfbench_asher2007world.py
+cldfbench zenodo cldfbench_asher2007world.py --communities="glottography,cldf-datasets"
 ```
 
 ```shell
