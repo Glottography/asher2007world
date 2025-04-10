@@ -200,10 +200,12 @@ csvgrep -c Distance -r "^0\.0$" -i etc/traditional/wh_comparison.csv | csvcut -c
 ```
 and investigate the cases on the map. Clearly, one category of such non-intersecting areas are the tiny islands
 of Micronesia, where W&H polygons are somewhat "off":
+
 ![](etc/traditional/wh_comp_micronesia.png)
 
 Another category requires checking back with the actual Atlases: cases where there is genuine disagreement
 between the sources appear for example in Northern New Guinea:
+
 ![](etc/traditional/wh_comp_madang.png)
 
 A third category are possible errors, which require further checking and possibly repair, e.g.
@@ -258,6 +260,7 @@ $ cldfbench geojson.geojson cldf/traditional --dataset2 ../../cldf-datasets/lang
 ```
 The screenshot below shows that W&H in fact has 7 times as many polygons than A&M for areas
 where [Mortlockese](https://glottolog.org/resource/languoid/id/mort1237) is spoken:
+
 ![](etc/traditional/wh_mortlockese.png)
 
 One can also see that W&H's polygons for small islands often exceed the actual landmasses by a lot.
