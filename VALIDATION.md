@@ -194,7 +194,7 @@ $ csvstat -c Distance etc/traditional/wh_comparison.csv
 So for 1549 of the 1583 shared Glottocodes the speaker areas are overlapping (i.e. have distance 0) - which we can take as
 positive validation of our dataset.
 
-For 35, though, this was not the case. Again, we can write these shapes to a GeoJSON file using `geojson.geojson`:
+For 35, though, this was not the case. Again, we can write these shapes to [a GeoJSON file](etc/traditional/wh_nonintersecting.geojson) using `geojson.geojson`:
 ```shell
 csvgrep -c Distance -r "^0\.0$" -i etc/traditional/wh_comparison.csv | csvcut -c Glottocode | csvformat -E | cldfbench geojson.geojson cldf/traditional/ --dataset2 ../../cldf-datasets/languageatlasofthepacificarea/cldf - > etc/traditional/wh_nonintersecting.geojson
 ```
@@ -252,6 +252,7 @@ mort1237,6.0
 sout2746,6.0
 ```
 
+We can put them [on a map](etc/traditional/wh_reldiff6.geojson):
 ```shell
 $ cldfbench geojson.geojson cldf/traditional --dataset2 ../../cldf-datasets/languageatlasofthepacificarea/cldf engg1245 mort1237 sout2746 >  etc/traditional/wh_reldiff6.geojson 
 ```
@@ -282,7 +283,7 @@ Glottocode,Distance,NPolys_Diff,NPolys_Ratio,Area_Ratio
 kach1280,2.2025393041267174,-7,0.125,0.0007170394462210619
 ```
 
-Let's look at this case on a map:
+Let's look at this case [on a map](etc/traditional/wh_areasize.geojson):
 ```shell
 cldfbench geojson.geojson cldf/traditional --dataset2 ../../cldf-datasets/languageatlasofthepacificarea/cldf kach1280 >  etc/traditional/wh_areasize.geojson
 ```
