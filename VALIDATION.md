@@ -361,3 +361,9 @@ csvjoin --left -c ID etc/contemporary/multipolygon_spread.csv etc/multipolygon_s
 ```
 These also look reasonable.
 
+
+## Conclusion
+
+With the procedures detailed above we make sure
+- the datasets are interoperable with relevant software and
+- the data are in general agreement with public estimates of language locations.
