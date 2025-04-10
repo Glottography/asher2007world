@@ -8,9 +8,9 @@ bs4==0.0.2
 certifi==2024.8.30
 chardet==5.2.0
 cldfbench==1.14.1
--e git+https://github.com/Glottography/asher2007world@2229c29f72636d70800520679390036639b097ca#egg=cldfbench_asher2007world
+-e git+https://github.com/Glottography/asher2007world@2551faf7aed1960973e3d6b3aa125a1fd4c76bee#egg=cldfbench_asher2007world
 cldfcatalog==1.5.1
-cldfgeojson==1.4.0
+cldfgeojson==1.5.0
 cldfzenodo==2.1.2
 click==8.1.7
 clldutils==3.24.1

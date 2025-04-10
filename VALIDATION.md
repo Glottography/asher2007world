@@ -139,11 +139,174 @@ regarded as unproblematic.
 ![](./etc/traditional/multipolygon_spread_small_example.png)
 
 
+### Comparison with Wurm & Hattori
+
+The information in Asher & Moseley's Atlas was aggregated from multiple sources. A major source for the languages
+of [Papunesia](https://glottolog.org/meta/glossary#macroarea) was Wurm & Hattori's ["Language Atlas of the Pacific Area"](https://glottolog.org/resource/reference/id/58497)
+from 1983. Since Wurm & Hattori's Atlas has been [digitized](https://ecaidata.org/dataset/pacific-language-atlas-gis) and
+a corresponding [CLDF dataset](https://doi.org/10.5281/zenodo.15183865) has been published, we can investigate the
+overlap between our dataset and Wurm & Hattori easily.
+
+
+```shell
+$ csvstat -c Glottolog_Languoid_Level cldf/traditional/languages.csv 
+/home/robert/venvs/glottography/lib/python3.12/site-packages/agate/table/from_csv.py:83: RuntimeWarning: Error sniffing CSV dialect: Could not determine delimiter
+  kwargs['dialect'] = csv.Sniffer().sniff(sample)
+  9. "Glottolog_Languoid_Level"
+        Most common values:    language (4382x)
+                               family (228x)
+
+Row count: 4610
+$ csvstat -c Glottolog_Languoid_Level ../../cldf-datasets/languageatlasofthepacificarea/cldf/languages.csv 
+  9. "Glottolog_Languoid_Level"
+        Most common values:    language (1776x)
+                               family (97x)
+
+Row count: 1873
+
+$ csvjoin -c ID ../../cldf-datasets/languageatlasofthepacificarea/cldf/languages.csv cldf/traditional/languages.csv | csvstat -c Glottolog_Languoid_Level
+  9. "Glottolog_Languoid_Level"
+        Most common values:    language (1489x)
+                               family (94x)
+
+Row count: 1583
+```
+
+So about a third of the World Atlas' languages are also covered in Wurm & Hattori.
+
+We can compare the speaker areas associated with these using the `geojson.compare` command provided by
+the `cldfgeojson` package
+```shell
+cldfbench geojson.compare cldf/traditional/ ../../cldf-datasets/languageatlasofthepacificarea/cldf/ --format tsv | csvformat -t > etc/traditional/wh_comparison.csv
+```
+and get a quick overview of the results:
+```shell
+$ csvstat -c Distance etc/traditional/wh_comparison.csv
+  ...
+  2. "Distance"
+
+        Type of data:          Number
+        Unique values:         35
+        Smallest value:        0
+        Largest value:         3.67
+        Most common values:    0 (1549x)
+```
+So for 1549 of the 1583 shared Glottocodes the speaker areas are overlapping (i.e. have distance 0) - which we can take as
+positive validation of our dataset.
+
+For 35, though, this was not the case. Again, we can write these shapes to a GeoJSON file using `geojson.geojson`:
+```shell
+csvgrep -c Distance -r "^0\.0$" -i etc/traditional/wh_comparison.csv | csvcut -c Glottocode | csvformat -E | cldfbench geojson.geojson cldf/traditional/ --dataset2 ../../cldf-datasets/languageatlasofthepacificarea/cldf - > etc/traditional/wh_nonintersecting.geojson
+```
+and investigate the cases on the map. Clearly, one category of such non-intersecting areas are the tiny islands
+of Micronesia, where W&H polygons are somewhat "off":
+![](etc/traditional/wh_comp_micronesia.png)
+
+Another category requires checking back with the actual Atlases: cases where there is genuine disagreement
+between the sources appear for example in Northern New Guinea:
+![](etc/traditional/wh_comp_madang.png)
+
+A third category are possible errors, which require further checking and possibly repair, e.g.
+https://github.com/Glottography/asher2007world/issues/1
+
+
+Checking whether areas overlap is just one way to assess similarity between the areas from the two
+sources. `geojson.compare` also computes absolute and relative differences in the number of polygons
+aggregated into areas in both datasets:
+```shell
+$ csvstat -c NPolys_Diff,NPolys_Ratio etc/traditional/wh_comparison.csv
+  3. "NPolys_Diff"
+
+        Type of data:          Number
+        Smallest value:        -357
+        Largest value:         18
+        Most common values:    0 (1238x)
+                               1 (93x)
+                               -1 (91x)
+                               -2 (24x)
+                               2 (22x)
+
+  4. "NPolys_Ratio"
+
+        Type of data:          Number
+        Smallest value:        0.003
+        Largest value:         7
+```
+These numbers are a bit harder to interpret: `NPolys_Diff` gives the number of polygons that the
+W&H area has in addition to the A&M area. So there's one area which is represented by a shape with
+357 more polygons in A&M! It turns out that this is the aggregated area for `aust1307` - the huge
+Austronesian language family. The much higher count in A&M can easily be explained by the areas in A&M
+being much more detailed, e.g. including small islands off the coast as individual polygons. The screenshot
+below shows A&M polygons with blue fill, W&H polygons with reddish fill and the overlapping regions
+in violet.
+
+![](etc/traditional/wh_aust1307.png)
+
+But `NPolys_Ratio` tells us, that there are also areas in W&H with 7 times as many polygons as the
+corresponding areas in A&M. Let's look at these:
+```shell
+$ csvgrep -c NPolys_Ratio -r"^7\." etc/traditional/wh_comparison.csv | csvcut -c Glottocode,NPolys_Ratio
+Glottocode,NPolys_RelDiff
+engg1245,6.0
+mort1237,6.0
+sout2746,6.0
+```
+
+```shell
+$ cldfbench geojson.geojson cldf/traditional --dataset2 ../../cldf-datasets/languageatlasofthepacificarea/cldf engg1245 mort1237 sout2746 >  etc/traditional/wh_reldiff6.geojson 
+```
+The screenshot below shows that W&H in fact has 7 times as many polygons than A&M for areas
+where [Mortlockese](https://glottolog.org/resource/languoid/id/mort1237) is spoken:
+![](etc/traditional/wh_mortlockese.png)
+
+One can also see that W&H's polygons for small islands often exceed the actual landmasses by a lot.
+Thus, the last metric computed by `geojson.compare` - the area ratio - also needs
+to be interpreted within this context:
+```shell
+$ csvstat -c Area_Ratio etc/traditional/wh_comparison.csv
+  5. "Area_Ratio"
+
+        Type of data:          Number
+        Smallest value:        0
+        Largest value:         547.711
+
+Row count: 1583
+```
+
+The area with almost 550 times the size in W&H than in A&M is [Woleaian](https://glottolog.org/resource/languoid/id/wole1240) - 
+another Micronesian language represented with a hugely exaggerated polygon in W&H. The area with ratio "0"
+is mapped to [Southern Jinghpaw](https://glottolog.org/resource/languoid/id/kach1280):
+```shell
+$ csvgrep -c Area_Ratio -r"^0\.000" etc/traditional/wh_comparison.csv
+Glottocode,Distance,NPolys_Diff,NPolys_Ratio,Area_Ratio
+kach1280,2.2025393041267174,-7,0.125,0.0007170394462210619
+```
+
+Let's look at this case on a map:
+```shell
+cldfbench geojson.geojson cldf/traditional --dataset2 ../../cldf-datasets/languageatlasofthepacificarea/cldf kach1280 >  etc/traditional/wh_areasize.geojson
+```
+
+Where A&M have a sizeable area right where Glottolog locates the language, too, W&H only depict a tiny
+polygon somewhat far away in the lower right corner:
+
+![](etc/traditional/wh_areasize.png)
+
+While this looks like a potential error, it can be explained by W&H's maps just "ending" a bit North
+of the Thailand-Myanmar border, with just a small "JINGHPAW"-labeled pocket depicted:
+
+![](etc/traditional/wh_areasize_wh.png)
+
+
+
 ## The *contemporary* areas
 
-Run CLDF validation and validation of geometries:
+No we run through the same set of steps for the set of *contemporary* areas:
 ```shell
 cldf validate cldf/contemporary
+```
+
+```shell
 cldfbench geojson.validate cldf/contemporary
 ```
 
@@ -154,17 +317,19 @@ Compute distances of language-level speaker areas to corresponding Glottolog poi
 cldfbench geojson.glottolog_distance cldf/contemporary --format tsv | csvformat -t > etc/contemporary/glottolog_distance.csv
 ```
 
-Print the unexplained cases with distance >= 1 grid unit:
+Using the same "allowlist" as above, we can print the unexplained cases with distance >= 1 grid unit:
 ```shell
 csvjoin --left -c ID etc/contemporary/glottolog_distance.csv etc/glottolog_distance_known.csv | csvgrep -c Distance -r"^0\.?" -i | csvgrep -i -c note -r".+" | csvsort -c Distance | csvcut -c ID,Distance | csvformat -E | termgraph
+...
+mikm1235: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 7.16 
+west2618: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 9.58 
+cent2136: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 9.60 
 ```
-Make sure there are no distances > 10.
-
-Distances can generally be explained by displacement of populations during colonialism.
+Larger distances can generally be explained by displacement of populations during colonialism.
 ```shell
 csvjoin --left -c ID etc/contemporary/glottolog_distance.csv etc/glottolog_distance_known.csv | csvgrep -c Distance -r"^(0|1)\.?" -i | csvgrep -i -c note -r".+" | csvsort -c Distance | csvcut -c ID | cldfbench geojson.geojson --glottolog-version v5.1 cldf/contemporary -  > etc/contemporary/glottolog_distance_outliers.geojson
 ```
-see for example Glottolog's point coordinate for Ojibwe in relation to the Ojibwe reservations in Minnesota:
+See for example Glottolog's point coordinate for [Central Ojibwe](https://glottolog.org/resource/languoid/id/cent2136) in relation to the Ojibwe reservations in Minnesota:
 ![](./etc/contemporary/glottolog_distance.png)
 
 
