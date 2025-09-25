@@ -126,3 +126,5 @@ source_fid,target_fid,latitude,longitude,note
 4101,,-4.867,-70.621,
 #6478 split off Southern polygon, that's not 33 Map 13, but 333 Map 17, but it's not Movima either. Just remove!
 6478,,-5.898,-70.514,
+#https://github.com/Glottography/asher2007world/issues/3
+1289,4643,77.91,22.55,Part of Svalbard was erroneously labeled as Danish
