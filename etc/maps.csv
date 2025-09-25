@@ -1,0 +1,107 @@
+id,name,description
+map_001,Map 1 East Coast and Great Lakes: Time of Contact,North America
+map_002,Map 2 South-Eastern North America: Time of Contact,North America
+map_003,Map 3 South-Western North America: Time of Contact,North America
+map_004,Map 4 California: Time of Contact,North America
+map_005,Map 5 The Great Plains: Time of Contact,North America
+map_006,Map 6 North-Western Pacific America: Time of Contact,North America
+map_007,Map 7 Northern North America: Time of Contact,North America
+map_008,Map 8 Northern North America: Contemporary,North America
+map_009,Map 9 Southern North America: Contemporary,North America
+map_010,Map 10 Meso-America: Time of Contact,Meso-America
+map_011,Map 11 Meso-America: Contemporary,Meso-America
+map_012,Map 12 Northern South America: Time of Contact,South America
+map_013,Map 13 Northern South America: Contemporary,South America
+map_014,Map 14 Northern Pacific Coast: Time of Contact,South America
+map_015,Map 15 Northern Pacific Coast: Contemporary,South America
+map_016,Map 16 Western Brazil: Time of Contact,South America
+map_017,Map 17 Western Brazil: Contemporary,South America
+map_018,Map 18 Brazilian Atlantic Coast: Time of Contact,South America
+map_019,Map 19 Brazilian Atlantic Coast: Contemporary,South America
+map_020,Map 20 Central Pacific Coast: Time of Contact,South America
+map_021,Map 21 Central Pacific Coast: Contemporary,South America
+map_022,Map 22 Southern South America: Time of Contact,South America
+map_023,Map 23 Southern South America: Contemporary,South America
+map_026,Map 26 Polynesia,Australasia and the Pacific
+map_027,Map 27 Vanuatu and New Caledonia,Australasia and the Pacific
+map_028,Map 28 Micronesia,Australasia and the Pacific
+map_029,Map 29 Solomon Islands and Bougainville,Australasia and the Pacific
+map_030,Map 30 New Britain and New Ireland,Australasia and the Pacific
+map_031,Map 31 South-Eastern Papua New Guinea,Australasia and the Pacific
+map_032,Map 32 Southern Papua New Guinea,Australasia and the Pacific
+map_033,Map 33 Northern Papua New Guinea,Australasia and the Pacific
+map_034,Map 34 Irian Jaya,Australasia and the Pacific
+map_035,Map 35 Australia: Time of Contact,Australasia and the Pacific
+map_036,Map 36 Australia: Contemporary,Australasia and the Pacific
+map_037,Map 37 The Moluccas,Australasia and the Pacific
+map_038,Map 38 Lesser Sunda Islands and Timor,Australasia and the Pacific
+map_039,Map 39 Sulawesi,Australasia and the Pacific
+map_040,Map 40 The Philippines,Australasia and the Pacific
+map_041,Map 41 Borneo and Madagascar,Australasia and the Pacific
+map_042,Map 42 Java and Bali,Australasia and the Pacific
+map_043,Map 43 Sumatra,Australasia and the Pacific
+map_044,Map 44 West Malaysia and Singapore,Australasia and the Pacific
+map_045,Map 45 China and Mongolia,East and South-East Asia
+map_046,"Map 46 Yunnan Province, China",East and South-East Asia
+map_047,"Map 47 Northern Thailand, Laos and Vietnam",East and South-East Asia
+map_048,"Map 48 Southern Thailand, Laos and Vietnam, and Cambodia",East and South-East Asia
+map_049,Map 49 Burma (Myanmar),East and South-East Asia
+map_050,"Map 50 Japan, Korea and Taiwan",East and South-East Asia
+map_051,"Map 51 North-East India, Bangladesh, Bhutan and Nepal",Southern Asia
+map_052,Map 52 Southern India and Sri Lanka,Southern Asia
+map_053,"Map 53 Iran, Afghanistan and Pakistan",Southern Asia
+map_054,Map 54 North-West India,Southern Asia
+map_055,Map 55 Eastern Siberia,Northern Asia and Eastern Europe
+map_056,Map 56 Western Siberia,Northern Asia and Eastern Europe
+map_057,Map 57 Central Asia,Northern Asia and Eastern Europe
+map_058,"Map 58 Western Russia, the Baltic States, Belarus, Ukraine and Moldova",Northern Asia and Eastern Europe
+map_059,Map 59 The Caucasus,Northern Asia and Eastern Europe
+map_060,Map 60 Turkey,Northern Asia and Eastern Europe
+map_061,"Map 61 Hungary, Romania and the Balkans",Northern Asia and Eastern Europe
+map_062,"Map 62 Poland, the Czech Republic and Slovakia",Northern Asia and Eastern Europe
+map_063,Map 63 The British Isles,Western Europe
+map_064,Map 64 The Nordic Countries,Western Europe
+map_065,"Map 65 Germany, Austria, Liechtenstein and Switzerland",Western Europe
+map_066,"Map 66 Albania, Greece, Crete and Cyprus",Western Europe
+map_067,"Map 67 Italy, Corsica, Sardinia, Sicily and Malta",Western Europe
+map_068,Map 68 The Iberian Peninsula and Atlantic Islands,Western Europe
+map_069,"Map 69 France, Belgium, the Netherlands and Luxembourg",Western Europe
+map_070,Map 70 The Middle East and Arabian Peninsula,Middle East and North Africa
+map_071,Map 71 North-East Africa,Middle East and North Africa
+map_072,Map 72 Sudan and the Horn of Africa,Middle East and North Africa
+map_073,Map 73 North-West Africa,Middle East and North Africa
+map_074,Map 74 Southern Africa,Sub-Saharan Africa
+map_075,Map 75 Mozambique,Sub-Saharan Africa
+map_076,Map 76 Southern Tanzania,Sub-Saharan Africa
+map_077,Map 77 Zambia,Sub-Saharan Africa
+map_078,Map 78 Democratic Republic of Congo: Katang,Sub-Saharan Africa
+map_079,Map 79 Democratic Republic of Congo: Orienta,Sub-Saharan Africa
+map_080,Map 80 Democratic Republic of Congo: Kivu,Sub-Saharan Africa
+map_081,Map 81 Democratic Republic of Congo: Kasai,Sub-Saharan Africa
+map_082,Map 82 Democratic Republic of Congo: Equate,Sub-Saharan Africa
+map_083,Map 83 Democratic Republic of Congo: Bas Congo and Southern Congo,Sub-Saharan Africa
+map_084,Map 84 Angola,Sub-Saharan Africa
+map_085,Map 85 Kenyan Coast,Sub-Saharan Africa
+map_086,Map 86 Central East Africa,Sub-Saharan Africa
+map_087,Map 87 Northern Congo and Southern Central African Republic,Sub-Saharan Africa
+map_088,Map 88 Gabon and Equatorial Guinea,Sub-Saharan Africa
+map_089,Map 89 Central African Republic and South-Eastern Chad,Sub-Saharan Africa
+map_090,"Map 90 Central African Republic, South-Western Chad and Cameroon",Sub-Saharan Africa
+map_091,Map 91 Adamawa Region,Sub-Saharan Africa
+map_092,Map 92 South-Western Cameroon,Sub-Saharan Africa
+map_093,Map 93 Central South-Western Cameroon,Sub-Saharan Africa
+map_094,Map 94 Northern Cameroon,Sub-Saharan Africa
+map_095,Map 95 South-Eastern Nigeria and Mid-Western Cameroon,Sub-Saharan Africa
+map_096,"Map 96 South Plateau, Nigeria",Sub-Saharan Africa
+map_097,"Map 97 North Plateau, Nigeria",Sub-Saharan Africa
+map_098,Map 98 North-Eastern Nigeria,Sub-Saharan Africa
+map_099,Map 99 Lake Chad Region,Sub-Saharan Africa
+map_100,Map 100 Northern Nigeria and Niger,Sub-Saharan Africa
+map_101,Map 101 South-Western Nigeria,Sub-Saharan Africa
+map_102,Map 102 Benin and Togo,Sub-Saharan Africa
+map_103,Map 103 Ghana,Sub-Saharan Africa
+map_104,Map 104 Burkina Faso,Sub-Saharan Africa
+map_105,Map 105 Ivory Coast,Sub-Saharan Africa
+map_106,Map 106 Liberia and Sierra Leone,Sub-Saharan Africa
+map_107,Map 107 Guinea and Mali,Sub-Saharan Africa
+map_108,"Map 108 Senegal, Gambia and Guinea Bissau",Sub-Saharan Africa

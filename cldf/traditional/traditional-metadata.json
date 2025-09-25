@@ -15,13 +15,13 @@
         {
             "rdf:about": "https://github.com/Glottography/asher2007world",
             "rdf:type": "prov:Entity",
-            "dc:created": "status-quo-ante-41-g2551faf",
+            "dc:created": "status-quo-ante-45-g349af75",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.1",
+            "dc:created": "v5.2",
             "dc:title": "Glottolog"
         }
     ],
@@ -217,7 +217,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
             "dc:description": "We list the individual features from the source dataset as contributions in order to preserve the original metadata and a point of reference for the aggregated shapes.",
-            "dc:extent": 6095,
+            "dc:extent": 6191,
             "tableSchema": {
                 "columns": [
                     {
@@ -278,13 +278,24 @@
                         "name": "Source"
                     },
                     {
-                        "dc:description": "Features are linked to GeoJSON files that store the geo data.",
+                        "dc:description": "Contributions of type 'feature' are linked to GeoJSON files that store the geo data.  can be related to various kinds of media. Contributions of type 'map' are linked to the corresponding scans of maps and geo-data derived from these.",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaReference",
-                        "name": "Media_ID"
+                        "separator": " ",
+                        "name": "Media_IDs"
                     },
                     {
-                        "dc:description": "Name of the map as given in the source publication.",
-                        "name": "Map_Name"
+                        "dc:description": "There are two types of contributions: Individual geo-features as depicted in the source and images of maps.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "map|feature"
+                        },
+                        "name": "Type"
+                    },
+                    {
+                        "dc:description": "Contributions of type 'feature' link to the maps on which they appear.",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
+                        "separator": " ",
+                        "name": "Map_IDs"
                     },
                     {
                         "separator": "; ",
@@ -298,10 +309,21 @@
                 "foreignKeys": [
                     {
                         "columnReference": [
-                            "Media_ID"
+                            "Media_IDs"
                         ],
                         "reference": {
                             "resource": "media.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Map_IDs"
+                        ],
+                        "reference": {
+                            "resource": "contributions.csv",
                             "columnReference": [
                                 "ID"
                             ]

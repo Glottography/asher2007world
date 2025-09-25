@@ -3594,7 +3594,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 3591,Male,2007,male1291,Map 33 Northern Papua New Guinea,23,
 3592,Male,2007,male1284,Map 72 Sudan and the Horn of Africa,81,
 3593,Maleng,2007,male1282,"Map 47 Northern Thailand, Laos and Vietnam",79,
-3593x,Pho (Pwo),2007,,"Map 48 Southern Thailand, Laos and Vietnam and Cambodia",75,
+3593x,Pho (Pwo),2007,,"Map 48 Southern Thailand, Laos and Vietnam, and Cambodia",75,
 3594,Maleu,2007,male1290,Map 30 New Britain and New Ireland,51,
 3595,Malgana,time of contact,malg1242,Map 35 Australia: Time of Contact,149,
 3596,Malgbe,2007,malg1250,"Map 90 Central African Republic, South-Western Chad and Cameroon | Map 99 Lake Chad Region",68 | 3,
@@ -5270,7 +5270,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 5262,Rtsamdah,2007,mnga1238,Map 45 China and Mongolia,96c,
 5263,Rubātāb,2007,suda1236,Map 71 North-East Africa | Map 72 Sudan and the Horn of Africa,16 | 2,
 5264,Ruc,2007,rucc1239,"Map 47 Northern Thailand, Laos and Vietnam",75,
-5264x,Pho (Pwo),2007,pwoe1235,"Map 47 Southern Thailand, Laos and Vietnam and Cambodia",75,Erroneously lumped in with item 75 in other map
+5264x,Pho (Pwo),2007,pwoe1235,"Map 48 Southern Thailand, Laos and Vietnam, and Cambodia",75,Erroneously lumped in with item 75 in other map
 5265,Rue,2007,ruee1238,Map 74 Southern Africa | Map 75 Mozambique | Map 77 Zambia,22 | 32 | 22,
 5266,Rufā'a,2007,suda1236,Map 71 North-East Africa | Map 72 Sudan and the Horn of Africa,20 | 6,
 5267,Ruihi (Rufiji),2007,rufi1234,Map 76 Southern Tanzania,29,
@@ -5954,7 +5954,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 5944,Tatar,2007,tata1255,"Map 55 Eastern Siberia | Map 56 Western Siberia | Map 58 Western Russia, the Baltic States, Belarus, Ukraine and Moldova",2 | 2 | 13,
 5945,Tatar,2007,tata1255,"Map 56 Western Siberia | Map 58 Western Russia, the Baltic States, Belarus, Ukraine and Moldova",2 | 13,
 5946,Tatar,2007,tata1255,"Map 58 Western Russia, the Baltic States, Belarus, Ukraine and Moldova",13,
-5947,Tataviam,time of contact,cali1246,Map 3 South-Western North America: Time of Contact,19,
+5947,Tataviam,time of contact,serr1255,Map 3 South-Western North America: Time of Contact,19,"According to Wikipedia: Based on the most thorough and most recent analysis, it is part of the Serran group along with Kitanemuk and Serrano (Munro and Johnson, 2001)."
 5948,Tate (Raepa-Tati,2007,kaki1249,Map 32 Southern Papua New Guinea,182,Matching location and ElCat names.
 5949,Tati,2007,tati1244,"Map 53 Iran, Afghanistan and Pakistan",3,
 5950,Tauade,2007,taua1242,Map 32 Southern Papua New Guinea,123,
@@ -6103,8 +6103,8 @@ id,name,year,glottocode,map_name_full,number_legend,note
 6093,Tjalkatjarra,time of contact,,Map 35 Australia: Time of Contact,174,
 6094,Tjapanmay,time of contact,nyun1247,Map 35 Australia: Time of Contact,190,
 6095,Tjungundi,time of contact,,Map 35 Australia: Time of Contact,234,
-6096,Tlapaneko,contemporary,tlap1252,Map 11 Meso-America: Contemporary,39,
-6097,"Tlapaneko, Tlapaneco",time of contact,tlap1252,Map 10 Meso-America: Time of Contact,39,
+6096,Tlapaneko,contemporary,subt1249,Map 11 Meso-America: Contemporary,39,
+6097,"Tlapaneko, Tlapaneco",time of contact,subt1249,Map 10 Meso-America: Time of Contact,39,
 6098,Tlhaping,2007,tlha1241,Map 74 Southern Africa,7e,
 6099,Tlingit,time of contact,tlin1245,Map 7 Northern North America: Time of Contact,12,
 6100,Tlingit,contemporary,tlin1245,NA,NA,

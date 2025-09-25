@@ -8,15 +8,16 @@ bs4==0.0.2
 certifi==2024.8.30
 chardet==5.2.0
 cldfbench==1.14.1
--e git+https://github.com/Glottography/asher2007world@2551faf7aed1960973e3d6b3aa125a1fd4c76bee#egg=cldfbench_asher2007world
+-e git+https://github.com/Glottography/asher2007world@349af75579910f904d89a7bb52caa10e0698d88b#egg=cldfbench_asher2007world
+-e git+https://github.com/Glottography/bowern2021australia@d638c53de5799c4a7e1f16f96e4b89038329ad7e#egg=cldfbench_bowern2021australia
 cldfcatalog==1.5.1
-cldfgeojson==1.5.0
+-e git+https://github.com/cldf/cldfgeojson@13e8e2f89a1915615241587fef4cae6f19ba3db6#egg=cldfgeojson
 cldfzenodo==2.1.2
 click==8.1.7
 clldutils==3.24.1
 colorama==0.4.6
 colorlog==6.9.0
-csvw==3.5.1
+csvw==3.6.0
 gitdb==4.0.11
 greenlet==3.1.1
 idna==3.10
@@ -37,7 +38,7 @@ pluggy==1.5.0
 pybtex==0.24.0
 pycldf==1.39.0
 pycountry==24.6.1
-pyglottography==1.0.0
+-e git+https://github.com/glottography/pyglottography@593a370c5ae1007bca2f9a0861b6ae9e4778eb91#egg=pyglottography
 pyglottolog==3.14.0
 Pygments==2.18.0
 pylatexenc==2.10
@@ -50,6 +51,7 @@ referencing==0.35.1
 requests==2.32.3
 rfc3986==1.5.0
 shapely==2.0.6
+simplepybtex==0.1.0
 six==1.16.0
 smmap==5.0.1
 soupsieve==2.6

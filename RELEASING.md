@@ -8,7 +8,7 @@ cldfbench download cldfbench_asher2007world.py
 
 Now we can recreate the CLDF datasets:
 ```shell
-cldfbench makecldf cldfbench_asher2007world.py --glottolog-version v5.1
+cldfbench makecldf cldfbench_asher2007world.py --glottolog-version v5.2
 ```
 
 This creates **two** CLDF datasets, one with *traditional* speaker areas, and one with *contemporary*

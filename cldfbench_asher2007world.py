@@ -127,6 +127,11 @@ class Dataset(pyglottography.Dataset):
                     {'name': 'Equivalent_Feature_IDs', 'separator': ' '},
                 )
                 writer.cldf.add_sources(*Sources.from_file(self.etc_dir / "sources.bib"))
+                maps = {}
+                for r in self.etc_dir.read_csv('maps.csv', dicts=True):
+                    writer.objects['ContributionTable'].append(
+                        self.make_contribution_map(args, maps, r))
+                referenced_maps = set()
 
                 fs = []
                 for pids, f, gc in features:
@@ -142,9 +147,17 @@ class Dataset(pyglottography.Dataset):
                         Source=[self.id],
                         Media_ID='features',
                         Maps=f.properties['maps'],
+                        Type='feature',
                         Equivalent_Feature_IDs=pids[1:],
                         Year='traditional' if fi[pids[0]].year == 'time of contact' else '2007',
+                        Map_IDs=[
+                            maps[m.split('[')[0].strip()]['ID']
+                            for m in f.properties['maps'] if not m.startswith('NA')]
                     ))
+                    referenced_maps |= set(writer.objects['ContributionTable'][-1]['Map_IDs'])
+                writer.objects['ContributionTable'] = [
+                    c for c in writer.objects['ContributionTable']
+                    if c['Type'] == 'feature' or c['ID'] in referenced_maps]
                 dump(
                     feature_collection(
                         fs,
