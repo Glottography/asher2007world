@@ -329,7 +329,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 328,Aruop,2007,aruo1240,Map 33 Northern Papua New Guinea,240,
 329,Arusha,2007,arus1243,Map 86 Central East Africa,4,
 330,Aruá,contemporary,arua1261,Map 17 Western Brazil: Contemporary,379,
-331,Aruá,time of contact,,Map 18 Brazilian Atlantic Coast: Time of Contact,379,"Seems to be a labelling error. The contemporary language is more than 1000km to the West where all sources also locate the original homeland."
+331,Aruá,time of contact,,Map 18 Brazilian Atlantic Coast: Time of Contact,379,"Seems to be a labelling error. The contemporary language is more than 1000km to the West where all sources also locate the original homeland",
 332,Aruán,time of contact,arua1264,Map 12 Northern South America: Time of Contact,100,
 333,Asala,2007,chad1249,"Map 90 Central African Republic, South-Western Chad and Cameroon | Map 99 Lake Chad Region",73c | 17,
 334,Asante,2007,asan1239,Map 102 Benin and Togo | Map 103 Ghana,28 | 1,
@@ -1934,7 +1934,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 1933,Gumawana,2007,guma1254,Map 31 South-Eastern Papua New Guinea,"35, D",
 1934,Gumbaynggir,time of contact,gumb1242,Map 35 Australia: Time of Contact,409,
 1935,Gumuz,2007,gumu1244,Map 72 Sudan and the Horn of Africa,187,
-1936,Gumär,2007,gume1239,Map 72 Sudan and the Horn of Africa,41.,
+1936,Gumär,2007,gume1239,Map 72 Sudan and the Horn of Africa,41,
 1937,Gunardba,time of contact,,Map 35 Australia: Time of Contact,65,
 1938,Gungabula,time of contact,gung1248,Map 35 Australia: Time of Contact,332,
 1939,Gungaragany,time of contact,kung1259,Map 35 Australia: Time of Contact,4,
@@ -7005,16 +7005,17 @@ id,name,year,glottocode,map_name_full,number_legend,note
 6992,—Murrinhpatha,time of contact,murr1259,Map 35 Australia: Time of Contact,39,
 7000x,Santee-Sisseton,time of contact,dako1259,Map 5 The Great Plains: Time of Contact,20,
 7001x,Khorasani Turkish (Quchani),2007,khor1269,"Map 53 Iran, Afghanistan and Pakistan",74,
-7002x,No label,time of contact,,Map 10 Meso-America: Time of Contact,67
+7002x,No label,time of contact,,Map 10 Meso-America: Time of Contact,67,
 7003x,Khamnigan,2007,kham1281,Map 45 China and Mongolia,51,
-7004x,No label,time of contact,,Map 12 Northern South America: Time of Contact,387
-7005x,Lodhanti,2007,lodh1244,Map 54 North-West India,67
+7004x,No label,time of contact,,Map 12 Northern South America: Time of Contact,387,
+7005x,Lodhanti,2007,lodh1244,Map 54 North-West India,67,
 7006x,No label,time of contact,,Map 14 Northern Pacific Coast: Time of Contact,348,Could be Peba. Legend number 177 is missing and would fit between two sister languages.
 7007x,No label,time of contact,,Map 18 Brazilian Atlantic Coast: Time of Contact,251,"Could be https://en.wikipedia.org/wiki/Tarairi%C3%BA_language Notably, there's a couple of legend numbers missing, e.g. 314"
-7008x,Akheu [Hani],2007,akeu1235,"Map 46 Yunnan Province, China",91
-7009x,Central Alaskan Yup'ik,time of contact,cent2127,Map 7 Northern North America: Time of Contact,4
-7010x,Kwale,2007,uare1241,Map 32 Southern Papua New Guinea,137
+7008x,Akheu [Hani],2007,akeu1235,"Map 46 Yunnan Province, China",91,
+7009x,Central Alaskan Yup'ik,time of contact,cent2127,Map 7 Northern North America: Time of Contact,4,
+7010x,Kwale,2007,uare1241,Map 32 Southern Papua New Guinea,137,
 7011x,Busa,2007,odia1239,Map 33 Northern Papua New Guinea,372,Matching location and ElCat name
 7012x,Lemerig,2007,leme1238,Map 27 Vanuatu and New Caledonia,10,
 7013x,Buyang,2007,buya1244,Map 45 China and Mongolia,75,
 7014x,Gong,2007,ugon1239,"Map 48 Southern Thailand, Laos and Vietnam, and Cambodia",76,
+7015,Letzeburgesch,2007,luxe1241,"Map 65 Germany, Austria, Liechtenstein and Switzerland | Map 69 France, Belgium, the Netherlands and Luxembourg",1a | 8a,
