@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/Glottography/asher2007world",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0.0-4-g34fc27b",
+            "dc:created": "v1.0.0-7-gf109585",
             "dc:title": "Repository"
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 4733,
+            "dc:extent": 4732,
             "tableSchema": {
                 "columns": [
                     {
