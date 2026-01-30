@@ -1,4 +1,4 @@
-id,name,year,glottocode,map_name_full,number_legend,note
+Srid,name,year,glottocode,map_name_full,number_legend,note
 1,!'O-!Khung ((!'O-)!Xung),2007,vase1234,Map 74 Southern Africa | Map 84 Angola,60 | 49,
 2,!'O-!Khung ((!'O-)!Xung),2007,vase1234,Map 84 Angola,49,
 3,!Khong (!/Xõo),2007,xooo1239,Map 74 Southern Africa,56,
@@ -5686,7 +5686,7 @@ id,name,year,glottocode,map_name_full,number_legend,note
 5677,Sonjo,2007,temi1247,Map 86 Central East Africa,24,
 5678,Sonsorolese,2007,sons1243,Map 28 Micronesia,1,
 5679,Soqoţrī,2007,soqo1240,Map 70 The Middle East and Arabian Peninsula,104,
-5680,Sorbian,2007,uppe1395,"Map 65 Germany, Austria, Liechtenstein and Switzerland",15,
+5680,Sorbian,2007,sorb1249,"Map 65 Germany, Austria, Liechtenstein and Switzerland",15,
 5681,Sori/Harengan,2007,sori1242,Map 30 New Britain and New Ireland,6,
 5682,Sorsogon (Masbate),2007,masb1237,Map 40 The Philippines,75,
 5683,Sorsogon (Waray),2007,wara1299,Map 40 The Philippines,76,
@@ -7019,3 +7019,4 @@ id,name,year,glottocode,map_name_full,number_legend,note
 7013x,Buyang,2007,buya1244,Map 45 China and Mongolia,75,
 7014x,Gong,2007,ugon1239,"Map 48 Southern Thailand, Laos and Vietnam, and Cambodia",76,
 7015,Letzeburgesch,2007,luxe1241,"Map 65 Germany, Austria, Liechtenstein and Switzerland | Map 69 France, Belgium, the Netherlands and Luxembourg",1a | 8a,
+
