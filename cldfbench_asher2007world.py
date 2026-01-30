@@ -13,6 +13,7 @@ from pycldf.sources import Sources
 
 import pyglottography
 from pyglottography.dataset import Feature
+from pyglottography.dataset import merge_features_by_glottocode, fix_spherical_geometries
 
 
 class Dataset(pyglottography.Dataset):
@@ -62,9 +63,18 @@ class Dataset(pyglottography.Dataset):
             mult = 100000000
             return int(shp.area * mult)
 
+        fi = self.feature_inventory
         areas = collections.defaultdict(list)
-        for pid, f, gc in self.features:  # Group features by area.
-            areas[size(f.shape)].append((pid, f, gc))
+        other_features = []
+
+        # special case for Australia
+        for pid, f, gc in self.features:
+            if fi[pid].properties.get('map_name_full') == "Map 35 Australia: Time of Contact":
+                areas[size(f.shape)].append((pid, f, gc))
+            else:
+                other_features.append(([pid], f, gc))
+
+        features = []
         for a, polys in sorted(areas.items(), key=lambda x: x[0]):
             if len(polys) > 1:
                 gc = None
@@ -90,7 +100,8 @@ class Dataset(pyglottography.Dataset):
             else:  # All good, only one language mapped to the polygon.
                 features.append(([polys[0][0]], polys[0][1], polys[0][2]))
 
-        fi = self.feature_inventory
+        features.extend(other_features)
+
         for fid, v in fi.items():
             maps = [s.strip() for s in v.properties['map_name_full'].split('|') if s.strip()]
             numbers = [s.strip() for s in v.properties['number_legend'].split('|') if s.strip()]
@@ -158,6 +169,9 @@ class Dataset(pyglottography.Dataset):
                 writer.objects['ContributionTable'] = [
                     c for c in writer.objects['ContributionTable']
                     if c['Type'] == 'feature' or c['ID'] in referenced_maps]
+
+                fs = merge_features_by_glottocode(fs, check_only=False)
+                fs = fix_spherical_geometries(fs)
                 dump(
                     feature_collection(
                         fs,
