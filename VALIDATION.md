@@ -17,6 +17,8 @@ Next, we make sure all GeoJSON objects marked as speaker areas have valid geomet
 prevent operating on the geometries, e.g. computing distances, intersections, etc.):
 ```shell
 cldfbench geojson.validate cldf/traditional
+6085    valid features
+4729    valid speaker areas
 ```
 
 
@@ -325,6 +327,8 @@ cldf validate cldf/contemporary
 
 ```shell
 cldfbench geojson.validate cldf/contemporary
+5509    valid features
+4251    valid speaker areas
 ```
 
 ### Glottolog distance
