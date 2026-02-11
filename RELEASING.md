@@ -29,6 +29,8 @@ cldfbench readme cldfbench_asher2007world.py
 
 ## Release
 
+Commit and push all changes.
+
 Run
 ```shell
 cldfbench glottography.release cldfbench_asher2007world.py vX.Y
