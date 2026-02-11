@@ -1,12 +1,6 @@
 # Releasing the dataset
 
-In case of upstream changes in glottography-data we have to recreate the GeoJSON dataset in `raw/`
-and`metadata.json`, running
-```shell
-cldfbench download cldfbench_asher2007world.py
-```
-
-Now we can recreate the CLDF datasets:
+Recreate the CLDF datasets:
 ```shell
 cldfbench makecldf cldfbench_asher2007world.py --glottolog-version v5.2
 ```

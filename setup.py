@@ -20,7 +20,7 @@ setup(
         ]
     },
     install_requires=[
-        'pyglottography',
+        'pyglottography>=2.0',
     ],
     extras_require={
         'test': [

@@ -29,7 +29,7 @@ for time-of-contact data in regions presumably less affected by colonialism.
 ### Coverage
 
 ```geojson
-{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-171.9, -56.0], [-171.9, 80.6], [180.0, 80.6], [180.0, -56.0], [-171.9, -56.0]]]}, "properties": {}}
+{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-179.2, -56.0], [-179.2, 83.2], [180.0, 83.2], [180.0, -56.0], [-179.2, -56.0]]]}, "properties": {}}
 ```
 
 

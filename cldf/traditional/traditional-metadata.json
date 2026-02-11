@@ -15,13 +15,13 @@
         {
             "rdf:about": "https://github.com/Glottography/asher2007world",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0.0-7-gf109585",
+            "dc:created": "v1.0.1-1-gaa3d852",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.2.1-20-g8e82dff6e0",
+            "dc:created": "v5.2",
             "dc:title": "Glottolog"
         }
     ],
@@ -94,7 +94,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 4732,
+            "dc:extent": 4729,
             "tableSchema": {
                 "columns": [
                     {
@@ -217,7 +217,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
             "dc:description": "We list the individual features from the source dataset as contributions in order to preserve the original metadata and a point of reference for the aggregated shapes.",
-            "dc:extent": 6390,
+            "dc:extent": 6181,
             "tableSchema": {
                 "columns": [
                     {
@@ -303,7 +303,7 @@
                     },
                     {
                         "separator": " ",
-                        "name": "Equivalent_Feature_IDs"
+                        "name": "Raw_Feature_IDs"
                     }
                 ],
                 "foreignKeys": [

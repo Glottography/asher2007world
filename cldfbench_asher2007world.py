@@ -7,18 +7,19 @@ import cldfbench
 from shapely import intersection_all
 from cldfgeojson import MEDIA_TYPE, aggregate, feature_collection
 from cldfgeojson.geojson import dump
+from cldfgeojson.geometry import shapely_simplified_geometry, fixed_geometry
 from clldutils.jsonlib import dump
 from clldutils.markup import add_markdown_text
 from pycldf.sources import Sources
 
 import pyglottography
-from pyglottography.dataset import Feature
-from pyglottography.dataset import merge_features_by_glottocode, fix_spherical_geometries
+from pyglottography.dataset import ReadonlyFeature, FeatureSpec
 
 
 class Dataset(pyglottography.Dataset):
     dir = pathlib.Path(__file__).parent
     id = "asher2007world"
+    __discriminator__ = ''
 
     def cldf_specs(self):
         return {
@@ -57,29 +58,33 @@ class Dataset(pyglottography.Dataset):
         # math.is_close or areas. It seems more correct, to just have one polygon and reference
         # that from multiple languages. In aggregations, this polygon would only show up if all
         # languoids are dialects of the same language or members of the same family.
-        features = []
 
-        def size(shp):
+        def size(shp):  # We identify polygons based on near-identical size.
             mult = 100000000
             return int(shp.area * mult)
 
-        fi = self.feature_inventory
         areas = collections.defaultdict(list)
         other_features = []
 
         # special case for Australia
-        for pid, f, gc in self.features:
-            if fi[pid].properties.get('map_name_full') == "Map 35 Australia: Time of Contact":
-                areas[size(f.shape)].append((pid, f, gc))
+        for pid, f, gc, spec in self.features:
+            assert pid == spec.id
+            if spec.properties.get('map_name_full') == "Map 35 Australia: Time of Contact":
+                areas[size(f.shape)].append((f, gc, spec))
             else:
-                other_features.append(([pid], f, gc))
+                # FIXME: does this distinction really make sense? Or do we need to handle multiple
+                # labels for the same polygon in a better way?
+                other_features.append((f, gc, spec))
 
-        features = []
+        features = []  # Tuples (list of polygon IDs, feature, glottocode, spec)
         for a, polys in sorted(areas.items(), key=lambda x: x[0]):
             if len(polys) > 1:
+                # merge name!
+                spec = FeatureSpec.merged(polys[0][2].id, [p[2] for p in polys], name=' | ', glottocode='|')
+
                 gc = None
                 # Only keep languages matched to non-bookkeeping Glottolog languoids.
-                gcs = set(p[2] for p in polys if p[2] and p[2] not in book and p[2] not in unattested and p[2] not in unclassifiable)
+                gcs = set(p[1] for p in polys if p[1] and p[1] not in book and p[1] not in unattested and p[1] not in unclassifiable)
                 if len(gcs) > 1:
                     for gc, ext in gc_by_extension:
                         if ext.issuperset(gcs):
@@ -91,29 +96,27 @@ class Dataset(pyglottography.Dataset):
                 else:  # Use just one polygon, matched to the single Glottocode (but keep all names!)
                     gc = gcs.pop() if gcs else None
 
-                assert int(size(intersection_all([p.shape for _, p, _ in polys]))) == a
+                assert int(size(intersection_all([p.shape for p, _, _ in polys]))) == a
                 # Yield just one shape, with updated metadata.
+                # pid, f, gc, spec
+                feature = polys[0][0]
+                # We write the glottocode of the containing subgroup to contributions.csv, the concatenation
+                # of subsumed glottocodes to cldf:languageReference in features.geojson
+                feature['properties'].update({
+                    'cldf:languageReference': spec.glottocode,
+                    'name': spec.name,
+                    'maps': spec.properties['maps'],
+                })
+                spec.glottocode = gc
                 features.append((
-                    list(sorted([pid for pid, _, _ in polys], key=lambda x: int(x.replace('x', '')))),
-                    polys[0][1],
-                    gc))
+                    feature,
+                    gc,
+                    spec,
+                ))
             else:  # All good, only one language mapped to the polygon.
-                features.append(([polys[0][0]], polys[0][1], polys[0][2]))
+                features.append((polys[0][0], polys[0][1], polys[0][2]))
 
         features.extend(other_features)
-
-        for fid, v in fi.items():
-            maps = [s.strip() for s in v.properties['map_name_full'].split('|') if s.strip()]
-            numbers = [s.strip() for s in v.properties['number_legend'].split('|') if s.strip()]
-            assert len(maps) == len(numbers), v.id
-            v.properties['maps'] = ['{} [{}]'.format(m, n) for m, n in zip(maps, numbers)]
-
-        def merge_properties(f, pids):
-            # name, map_name_full, cldf:languageReference - remove number_legend
-            f['properties']['name'] = ' | '.join(fi[pid].name for pid in pids)
-            f['properties']['cldf:languageReference'] = '|'.join(fi[pid].glottocode for pid in pids if fi[pid].glottocode)
-            f['properties']['maps'] = sorted(set(itertools.chain.from_iterable(fi[pid].properties['maps'] for pid in pids)))
-            return f
 
         def is_(year, period):
             what = 'time of contact' if period == 'traditional' else period
@@ -135,7 +138,7 @@ class Dataset(pyglottography.Dataset):
                 writer.cldf.add_columns(
                     'ContributionTable',
                     {'name': 'Maps', 'separator': '; '},
-                    {'name': 'Equivalent_Feature_IDs', 'separator': ' '},
+                    {'name': 'Raw_Feature_IDs', 'separator': ' '},
                 )
                 writer.cldf.add_sources(*Sources.from_file(self.etc_dir / "sources.bib"))
                 maps = {}
@@ -145,33 +148,31 @@ class Dataset(pyglottography.Dataset):
                 referenced_maps = set()
 
                 fs = []
-                for pids, f, gc in features:
-                    years = {fi[pid].year for pid in pids}
-                    assert len(years) == 1
+                for f, gc, spec in features:
+                    years = {spec.year}
+                    assert len(years) == 1, '{}: {}'.format(years, f['properties'])
                     if not is_(years.pop(), period):
                         continue
-                    fs.append(merge_properties(f, pids))
+                    fs.append(f)
                     writer.objects['ContributionTable'].append(dict(
-                        ID=pids[0],
-                        Name=f.properties['name'],
+                        ID=spec.id,
+                        Name=f['properties']['name'],
                         Glottocode=gc or None,
                         Source=[self.id],
-                        Media_ID='features',
-                        Maps=f.properties['maps'],
+                        Media_IDs=['features'],
+                        Maps=f['properties']['maps'],
                         Type='feature',
-                        Equivalent_Feature_IDs=pids[1:],
-                        Year='traditional' if fi[pids[0]].year == 'time of contact' else '2007',
+                        Raw_Feature_IDs=spec.raw_ids,
+                        Year='traditional' if spec.year == 'time of contact' else '2007',
                         Map_IDs=[
                             maps[m.split('[')[0].strip()]['ID']
-                            for m in f.properties['maps'] if not m.startswith('NA')]
+                            for m in f['properties']['maps'] if not m.startswith('NA')]
                     ))
                     referenced_maps |= set(writer.objects['ContributionTable'][-1]['Map_IDs'])
                 writer.objects['ContributionTable'] = [
                     c for c in writer.objects['ContributionTable']
                     if c['Type'] == 'feature' or c['ID'] in referenced_maps]
 
-                fs = merge_features_by_glottocode(fs, check_only=False)
-                fs = fix_spherical_geometries(fs)
                 dump(
                     feature_collection(
                         fs,
@@ -188,8 +189,7 @@ class Dataset(pyglottography.Dataset):
                 ))
 
                 shapes = [
-                    (pids[0], f, gc) for pids, f, gc in features
-                    if gc and is_(fi[pids[0]].year, period)]
+                    (spec.id, f, gc) for f, gc, spec in features if gc and is_(spec.year, period)]
 
                 lids = None
                 contribs = {c['ID']: c for c in writer.objects['ContributionTable']}
@@ -202,6 +202,9 @@ class Dataset(pyglottography.Dataset):
                         level=ptype,
                         buffer=0.005,
                         opacity=0.5)
+                    if period == 'contemporary' and ptype == 'family':
+                        for f in ffs:
+                            fixed_geometry(shapely_simplified_geometry(f))
                     dump(
                         feature_collection(
                             ffs,
@@ -246,7 +249,7 @@ class Dataset(pyglottography.Dataset):
             (maxlon, minlat),
             (minlon, minlat)
         ]]
-        f = json.dumps(Feature.from_geometry(dict(type='Polygon', coordinates=coords)))
+        f = json.dumps(ReadonlyFeature.from_geometry(dict(type='Polygon', coordinates=coords)))
         return add_markdown_text(
             cldfbench.Dataset.cmd_readme(self, args),
             """
